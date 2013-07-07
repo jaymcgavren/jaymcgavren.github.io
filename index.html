@@ -31,14 +31,14 @@ layout: default
                     <div class="pagination">
                         {% if paginator.previous_page %}
                             {% if paginator.previous_page != 1 %}
-                                <a href="/page{{ paginator.previous_page }}" class="previous">&laquo; Previous</a>
+                                <a href="/page{{ paginator.previous_page }}" class="previous">&laquo; Newer</a>
                             {% else %}
-                                <a href="{{ site.baseurl }}">&laquo; Previous</a>
+                                <a href="{{ site.baseurl }}">&laquo; Newer</a>
                             {% endif %}
                         {% endif %}
                         <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
                         {% if paginator.next_page %}
-                            <a href="/page{{ paginator.next_page }}" class="next">Next &raquo;</a>
+                            <a href="/page{{ paginator.next_page }}" class="next">Older &raquo;</a>
                         {% endif %}
                     </div>
                     
