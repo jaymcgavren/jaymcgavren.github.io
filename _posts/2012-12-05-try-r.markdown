@@ -1,0 +1,18 @@
+---
+layout: post
+title: Try R!
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1128'
+  original_post_id: '1500'
+  _wp_old_slug: '1500'
+---
+The Try R course is out on Code School!  All lesson content by: me!  Badass remote executor (that shows your graphs in the page!) by Thomas Meeks.  Challenge implementation by me, Adam Fortuna, and Casey Jenks.  Sponsorship by O'Reilly, which means the course is free to you!
+
+It takes about an hour to complete, it's pretty fun, and you'll learn a language that can help you present data in compelling ways.  Hope you'll go try it!
+
+<a href="http://tryr.codeschool.com/">Try R</a>

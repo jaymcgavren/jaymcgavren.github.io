@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '947'
+  original_post_id: '1092'
+  _wp_old_slug: '1092'
+---
+My boss just called me into his office to meet someone - I guess his interviewee is currently working at my old company, and has worked with a bunch of my old Perl libraries.  He had been looking forward to meeting me, because a lot of his Perl knowledge had been gleaned from working with my code.
+
+I'm probably one of the Valley's foremost remaining experts on Perl 5.  Not that this is something to be particularly proud of; it's basically a dead language.  Still, it's nice to know your code is being studied and used.

@@ -1,0 +1,22 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '324'
+  _wp_old_slug: '324'
+---
+&gt; "One expert warned me about the gruesome requirement for a
+&gt; 'live test' by fingerprint readers, necessitated by the
+&gt; likelihood that fingers might be chopped off in an effort
+&gt; to defeat fingerprint security."
+
+<a href="http://redtape.msnbc.com/2006/04/military_thumb_.html">Military thumb drives expose larger problem - The Red Tape Chronicles - MSNBC.com</a>
+
+My big fear was always retinal scanners.
+
+Bioinformatics companies take note.  I refuse to use any form of authentication that doesn't include a live test.

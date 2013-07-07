@@ -1,0 +1,18 @@
+---
+layout: post
+title: zyps.exe!
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '711'
+  original_post_id: '760'
+  _wp_old_slug: '760'
+---
+Yesssss!  This is the stage I was hoping to get to - the Zyps GUI compiles painlessly with rubyscript2exe.  This means I can distribute to anyone with a Windows machine.  (And maybe OS X as well.)
+
+I still need to set up an installer/uninstaller before I can send to any download sites, but you can try it right now - just save and run this .exe.  It [em]should[/em] be easy enough to figure out on your own (and if it's not, add a comment or e-mail me).
+
+<a href="http://jay.mcgavren.com/zyps.exe">zyps.exe</a>

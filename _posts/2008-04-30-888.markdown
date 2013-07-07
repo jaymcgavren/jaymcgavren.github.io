@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '802'
+  original_post_id: '888'
+  _wp_old_slug: '888'
+---
+Driving over a tumbleweed is not good for your car, but it is fun to watch someone else do.  The things explode into a million tiny bits.  It's like dropping a bowling ball on shredded wheat.

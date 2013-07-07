@@ -1,0 +1,13 @@
+---
+layout: post
+title: Halo 2...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '250'
+  _wp_old_slug: '250'
+---
+My old project manager just reminded me that the new Halo 2 maps are out tonight.  Who's gonna be on?

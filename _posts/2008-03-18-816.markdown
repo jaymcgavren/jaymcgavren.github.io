@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '750'
+  original_post_id: '816'
+  _wp_old_slug: '816'
+---
+We're re-implementing an old 4GL app, and my co-worker made it sound like the log scraper used Deep Black Magicks, so I had him keep that part to drive my new Java, even though it was a clunky solution.  Well, now that I'm delving into the 4GL, it's really not that bad.
+
+I'll be stepping on my co-worker's toes if I re-code it, but...

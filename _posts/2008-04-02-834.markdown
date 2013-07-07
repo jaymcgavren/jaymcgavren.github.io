@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '762'
+  original_post_id: '834'
+  _wp_old_slug: '834'
+---
+I know that an analyst isn't going to be able to discuss projects on the same technical level as the nerds she's working with.  But we've got one whose understanding is <em>so</em> poor, she can only speak in generalizations like this:
+
+"What should I label your task as?"  "Can I mark items 15-19 complete?"  "Is everyone in the meeting in agreement?"
+
+I thought it was just her, but then in this morning's meeting a program manager (who I thought was more knowledgeable) was doing the same thing.  Is this really adding value to the discussion?

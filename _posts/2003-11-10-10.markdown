@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '13'
+  _wp_old_slug: '13'
+---
+My brother was browsing my files, and overwhelmed at the size of my music collection, he e-mailed me to ask if I had yanked a PC from a radio station.
+
+I told him that if I had yanked a computer from a radio station, there would be 8 MP3s on it, set up on a loop to repeat every hour, and they would all be by Britney Spears and Justin Timberlake.  :)

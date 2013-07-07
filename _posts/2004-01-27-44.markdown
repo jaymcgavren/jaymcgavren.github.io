@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '45'
+  _wp_old_slug: '45'
+---
+There are "organizational changes" going on upstairs within IT - a lot of management types have been sacked, and the grunts could be next.  I'm still safe down here in my department, but I'm worried my opportunity will evaporate before my eyes...  Well, as long as certain key individuals are spared the axe, my name will still be known upstairs.
+
+But I wish I had my degree under my belt, so I didn't need to tie my fate to this one company...

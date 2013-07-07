@@ -1,0 +1,59 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '690'
+  original_post_id: '727'
+  _wp_old_slug: '727'
+---
+Here we go...  ruby-prof said wxRuby was spending a lot of time initializing memory device contexts (canvases to draw on)...
+<pre>
+ %self     total     self     wait    child    calls  name
+ 45.42      5.63     5.63     0.00     0.00      120  Kernel#sleep
+  8.85      2.05     1.10     0.00     0.95    28440  WxRubyStyleAccessors#method_missing
+  5.16      0.64     0.64     0.00     0.00     9520  <strong>Wxruby2::MemoryDC#initialize</strong>
+  4.42      5.14     0.55     0.00     4.59     9520  Wxruby2::Bitmap#draw</pre>
+  
+That would be because I was doing so before <em>each</em> line I drew.
+
+{% highlight ruby %}
+	def draw_line(options = {})
+		buffer.draw do |surface|
+			surface.pen = Wx::Pen.new(
+...
+		end
+	end
+{% endhighlight %}
+	
+So as a quick fix, I'm queueing my shapes and drawing everything at once.  This brought me about in line with Ruby-Gnome2, speed-wise:
+
+{% highlight ruby %}
+	def draw_line(options = {})
+		@line_queue << options
+	end
+
+	def render_lines
+		buffer.draw do |surface|
+			while options = @line_queue.shift do
+				surface.pen = Wx::Pen.new(
+...
+			end
+		end
+	end
+{% endhighlight %}
+
+<pre>
+ %self     total     self     wait    child    calls  name
+ 69.41     11.27    11.27     0.00     0.00      240  Kernel#sleep
+  4.24      1.83     0.69     0.00     1.14    30600  WxRubyStyleAccessors#method_missing
+  2.96      4.17     0.48     0.00     3.69      480  Wxruby2::Bitmap#draw
+  2.41      0.39     0.39     0.00     0.00    40640  Regexp#===</pre>
+
+Though I made a pretty big memory structure to do it.  I'll have to slim that down at some point.
+
+Now it says it's spending a lot of time initializing colors (Colours?) and pens.  Will I have to cache those?  Hope not.

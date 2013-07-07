@@ -1,0 +1,24 @@
+---
+layout: post
+title: Awwwww...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '547'
+  original_post_id: '517'
+  _wp_old_slug: '517'
+---
+Lenny: When I'm grown up, I'm gonna work where you work.
+Me: You mean you want to work for my company?
+Lenny: No, I'm gonna work where you work.
+Me: Oh, you want to work together with me?
+Lenny: Yeah.
+Me: You want me to teach you how to do my job?
+Lenny: Sure.
+
+Well, come to think of it, I was only a year older than he is when I wrote my first simple program.  I need to get his PC running, and test out one of those new languages targeted at kids for him.  (Oh, yeah, and teach him how to write, though he's making rapid progress in that area already.)
+
+.

@@ -1,0 +1,29 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '202'
+  _wp_old_slug: '202'
+---
+Has anyone else noticed that despite the huge environments and detailed models in DOA2 Ultimate, there isn't a single "Now Loading" screen?  I haven't looked into this, but I'm betting it's due to caching on the hard drive.  I think a hard drive is among my requirements for my next console; no way I'm going bad to optical-only media.
+
+Oh, and here's a few more:
+HDTV output standard on all games.
+Ethernet out of the box.
+Support for wireless.
+A cheap/free online play service like Live.
+
+Nice-to-haves:
+Play MP3s, view movies and photos over the network.
+Online tracking of game stats a la Halo 2.
+Ability to trade/download save games online.
+
+Wish list:
+No in-game configuration of online options/friends list/banned people.  I want one standard interface handled by the console, because I don't trust game makers to do it right.
+
+I'll pay whatever I have to in order to get these things, but if I don't, I don't think we'll upgrade (at least not until two price drops into the product cycle).  I'm quite satisfied with the XBox, thanks.

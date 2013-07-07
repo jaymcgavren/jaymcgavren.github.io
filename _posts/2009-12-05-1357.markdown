@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1073'
+  original_post_id: '1357'
+  _wp_old_slug: '1357'
+---
+A computer can mimic the style of a classical composer by analyzing sheet music.  I bet GUIs could be (partially) generated for command-line tools.  You just analyze how people mapped a CLI tool's functions to a GUI wrapper (say, Git vs. GitX), then apply the rules you learn to other CLI tools.

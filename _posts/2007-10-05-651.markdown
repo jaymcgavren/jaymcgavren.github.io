@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '627'
+  original_post_id: '651'
+  _wp_old_slug: '651'
+---
+I've allowed myself to be sloppy, just because my predecessor was sloppy.  It's starting to bite me in the ass.
+
+No more.  This software will be rewritten and refactored until I can sleep soundly at night.  I don't care whose toes get stepped on.

@@ -1,0 +1,40 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_2831e3cbf1ee9089899554e0c90224fb: '{{unknown}}'
+  original_post_id: '428'
+  _wp_old_slug: '428'
+---
+This article suggests that a minimum wage hike is essential not just to everyone's livelihood, but their safety as well...
+
+&gt; If the gap between rich and poor gets too large, and if
+&gt; those at the bottom feel they have no meaningful route to
+&gt; the riches at the top, then the fabric of society will
+&gt; fray, or even come unraveled entirely.
+...
+&gt; Shortly before I arrived in Brazil, a British tour bus was
+&gt; hijacked and robbed in broad daylight on the way from Rio's
+&gt; international airport to a ritzy beach area. While I was
+&gt; there, two Supreme Court justices were carjacked on the
+&gt; same road.
+&gt; Overall, the murder rate in Brazil is five times that of
+&gt; New York City.
+...
+&gt; The New York Times reported recently on a World Bank study
+&gt; concluding that if Brazil had the much lower homicide rate
+&gt; of Costa Rica, Brazil's GDP would have been three to eight
+&gt; percent higher in the 1990s.
+&gt; As one economist explained in the article, "You have money
+&gt; spent on guarding stuff rather than making stuff." And when
+&gt; international investors look around the globe, they choose
+&gt; safer places.
+
+http://finance.yahoo.com/columnist/article/economist/19750
+
+Boosting the minimum wage is just giving a man a fish, though.  Let's teach him how to fish by raising education funding as well.

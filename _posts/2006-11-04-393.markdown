@@ -1,0 +1,26 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '391'
+  _wp_old_slug: '391'
+---
+&gt; ...
+&gt; You see an Emperor penguin here.  (flying)
+&gt; You see a quail here.  (flying)
+&gt;
+&gt; look coyote
+&gt;
+&gt; He is 70 inches tall and weighs 180 pounds.
+&gt; a coyote is in perfect health.
+&gt;
+&gt; Nothing special.
+&gt;
+&gt; He is wearing:
+&gt; (torso)             : a shirt
+&gt; (wield)             : a staff

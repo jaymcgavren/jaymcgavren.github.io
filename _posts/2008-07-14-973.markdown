@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '865'
+  original_post_id: '973'
+  _wp_old_slug: '973'
+---
+Sooo tired...  The baby actually does pretty good about sleeping in these days.  But knowing he could wake up at 4 AM the morning I'm scheduled for an interview or to give a talk makes me think twice when scheduling such things.
+
+Maybe if he just went to a sitter's house by default when there's an important appointment the next day?

@@ -1,0 +1,21 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '683'
+  _oembed_aace7c6ba946388edc542ea9f7cf4fcd: '{{unknown}}'
+  original_post_id: '718'
+  _wp_old_slug: '718'
+---
+Hmmm, editing the search in GMail URLs seems to be working properly now...
+
+<pre>
+https://mail.google.com/mail/?shva=1#search/<b>zyps+label%3Astarred</b>
+</pre>
+
+Time to update a few shortcuts...

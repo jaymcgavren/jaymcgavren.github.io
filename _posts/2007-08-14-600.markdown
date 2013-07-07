@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '594'
+  original_post_id: '600'
+  _wp_old_slug: '600'
+---
+Going back to the Bhagavad Gita...  I don't have my copy handy to quote from, but it also talks about following <em>your</em> duty in life...  I emphasize "your" there because it's easy to find yourself doing the duties of another, in the pursuit of wealth.  Your duty is determined by your inner nature, and going against it is the path to unhappiness.
+
+I am rather literally doing the duties of another right now - the guy before me who retired.  Writing convoluted programs in archaic languages to update mundane databases was this man's nature.  It is not mine.  I'm being paid rather well to maintain these programs, but I am rather unhappy right now.  It is my nature, and therefore my duty, to produce work that is substantially more elegant than this.
+
+There is hope, though - evidently support for this old language might be going away, and that's creating a drive in the organization to rewrite everything in a more modern language.  It'll be Java, of course (yech), but anything's better than the mess we have now.  My schedule's a bit packed to be doing full rewrites, but I can barely motivate myself to keep working with the old stuff.  I think I need to be looking very hard at reimplementations.

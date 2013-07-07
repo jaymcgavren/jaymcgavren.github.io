@@ -1,0 +1,27 @@
+---
+layout: post
+title: Wisdom...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '451'
+  _wp_old_slug: '451'
+---
+Here's some important stuff I have learned the hard way, or have read and believe to be true.
+
+Be cool.
+Be nice.
+Winners focus.  Losers spray.  [Not mine.]
+No matter how far you've gone down the wrong road, turn back.  [Not mine.]
+People are selfish.  Projects that fight this fail.  Projects that harness this succeed.
+10% of people are assholes.  10% of people are really nice.
+Be brief.
+Latency happens.  [Not mine.]
+Failure happens.
+Maliciousness happens.
+The last 20% of the work requires 80% of the effort.  [Not mine.]
+
+There's probably more to be added here...

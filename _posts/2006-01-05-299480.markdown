@@ -1,0 +1,14 @@
+---
+layout: post
+title: '299,480'
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '913'
+  original_post_id: '301'
+  _wp_old_slug: '301'
+---
+That's my top score thus far on Geometry Wars (XBox, not XBox 360).  My thumbs are about ready to fall off, but God, I love this game.  Thanks go to "yakamoto" for the recommendation!

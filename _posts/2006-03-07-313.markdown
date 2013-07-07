@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '312'
+  _wp_old_slug: '312'
+---
+My boss just called me into his office and handed me an award check and a letter personally signed by the CEO.  It was for my speedy turnaround on my last project, which made a customer rather happy.
+
+I didn't tell him that I changed, like, 3 lines of code on that project.  I guess figuring out which lines to change was moderately difficult, but when my boss is putting in a ton of weekend hours and my fellow employees are staying overnight for software releases, it's kind of hard to feel proud about about that sort of thing.  Oh, well, evidently these awards are a pretty common thing, so I guess it's not that big a deal.
+
+I just want to get my toolset gathered so I can really start cranking out software and pull my weight around here.

@@ -1,0 +1,37 @@
+---
+layout: post
+title: Local aspects of modules?
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '835'
+  original_post_id: '932'
+  _wp_old_slug: '932'
+---
+Everyone's so up in arms about re-opening core classes like Kernel and String in Ruby...  Why not just apply changes to a target module only when viewed from within the current module or class?
+
+
+{% highlight ruby %}
+class Bar
+	def baz(fizz)
+		fizz * 2
+	end
+end
+module Foo
+	local class Bar #Or some other keyword.
+		def baz(fizz)
+			fizz * 5
+		end
+	end
+	def buzz
+		puts Bar.new.baz('a') #'aaaaa'
+	end
+end
+puts Bar.new.baz('a') #'aa'
+{% endhighlight %}
+
+
+That way you could tweak behavior to your heart's content without worrying about the expectations of the other libraries you were using.  This seems so obvious I'd be surprised if I was the first to think of it, so someone please let me know what problems have been encountered.

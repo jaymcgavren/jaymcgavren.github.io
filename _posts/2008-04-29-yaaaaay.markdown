@@ -1,0 +1,22 @@
+---
+layout: post
+title: Yaaaaay!
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '801'
+  original_post_id: '887'
+  _wp_old_slug: '887'
+---
+<pre>
+Finished in 3.329 seconds
+127 examples, 0 failures, 89 pending
+
+jay@MINIME:C:workzyps
+$
+</pre>
+
+Of course, there's still those 89 pending examples, but at least I don't have that dirty feeling from failing tests any longer.

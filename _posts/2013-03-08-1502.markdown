@@ -1,0 +1,20 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1129'
+  original_post_id: '1502'
+  _wp_old_slug: '1502'
+---
+I brought some SNES games to Heatsync Labs' Vintage Game Night in Mesa tonight...
+
+Attendee: "Cool, Tetris Attack?  You guys should be playing this one."
+Me: "You show excellent taste, sir.  I bet you'll appreciate this..."  [I reach into a box to retrieve my prized Japanese import...]
+Attendee: "Oh, did you bring Panel de Pon?"
+
+...There's no impressing anyone any more.  :P

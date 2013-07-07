@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '25'
+  _wp_old_slug: '25'
+---
+Every time I receive affirmation that someone actually read an article I wrote, or used an image I made as wallpaper, it's really gratifying.  Over the past couple weeks, I've had a barrage of such affirmations (a friend wearing a t-shirt I designed, another listening to some music I recommended, and so on), but a month ago I wondered if anyone even cared about the stuff I wrote or produced.
+
+We need more feedback from the world around us.  Every Web page should have a counter built in so the author can tell whether people are reading what he wrote, and whether he should write more of the same.  Peer to peer programs like BitTorrent should have a facility for reporting total number of downloads back to the original author of a file (not just to the person seeding).  Those of us who aren't paid to produce content do it for the positive comments we get, but we shouldn't have to post e-mail links begging for feedback.  People don't have time to write a comment on every artistic work they like; why can't our machines provide at least some of the feedback for us?

@@ -1,0 +1,25 @@
+---
+layout: post
+title: OSs suck.
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '14'
+  _wp_old_slug: '14'
+---
+No, not just Windows.  I'm currently writing this from my new $200 PC that I picked up at Fry's Electronics, just so I could try out Linux.
+
+It's probably going back to the store.
+
+I tried installing Linux on my old PC before, but Linux drivers weren't available for *any* of the hardware I had in it.  This one was ready to go for Linux right out of the box, and setup was fairly painless.  But not only is the KDE design as abysmally bad as I feared, it's even more sluggish than Windows.  It takes forever just to bring up a freaking Web browser.
+
+But I can't just give up and go back to Windows.  I am so fed up with screens randomly popping to the top 5 minutes after I press the key to open them, a command line interface that doesn't work as advertised, and a jillion other niggling imperfections that snowball until it's impossible to stay focused on a task because you're so busy fighting the OS.
+
+I guess there's no help for it.  I have to go buy a Mac.
+
+But will even that work as advertised?  I tend to push software to its limits; what's fine for most folks breaks when I try to get maximum use out of it.  I can't tell you how many times I've tried to bring up a DOS prompt and type a command, only to find that Windows lagged in opening the new window, and my command is overwriting my unsaved Perl script.  Most people don't work at the pace I do; will I find that even OS X can't keep up with me?
+
+I need a way to try a Mac out for a week or so before I commit.  Wonder what the average return policy is on something like that...

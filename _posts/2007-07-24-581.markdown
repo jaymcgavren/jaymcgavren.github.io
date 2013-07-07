@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '581'
+  original_post_id: '581'
+  _wp_old_slug: '581'
+---
+I'm actually starting to get excited about this replay editor they're including in Halo 3.  From the description I heard on the 1up Yours podcast, I'll be spending quite a lot of time playing with it.
+
+Now, the question remains: will the damn networking actually work?

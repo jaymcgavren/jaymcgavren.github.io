@@ -1,0 +1,19 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '453'
+  _wp_old_slug: '453'
+---
+We're housesitting for Diana's dad, who has a huge Mitsubishi HDTV...  Like so many HDTV owners, they were watching standard-def shows, stretched to widescreen (which I can't stand, but apparently no one else notices).  After much poring over the manuals, I figured out how to set it up correctly.  (The digital cable box was routed to the TV through *co-ax*, and the component cables (Monster brand, no less) were sitting unplugged behind the TV.)
+
+Anyway, we've been watching that Planet Earth series.  It's the only decent hi-def content we can seem to find, but any description short of "fucking amazing" doesn't do it justice.  The color, sharpness, and detail are incredible - even Diana's jaw dropped.
+
+I don't know how we're going to go back to standard-def in a few days.  Not only can we not afford new equipment, there wouldn't be much content available if we could, and we might find ourselves locked into the losing side of the HD-DVD format war.
+
+The HD revolution really will be amazing, but we're going to be stuck in the lo-res ghetto for quite a while.

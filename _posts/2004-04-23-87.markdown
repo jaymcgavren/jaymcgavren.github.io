@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '86'
+  _wp_old_slug: '86'
+---
+I got turned down for the Web Developer spot.  :(  *I* was planning to turn *them* down, but it's still a bruise to the ego.
+
+Oh, well, I wouldn't have hired me either.  :P  I'm not exactly fluent in the technologies they're after.  And the department manager left open the possibility of applying again in the future, so I must have at least been a front runner.

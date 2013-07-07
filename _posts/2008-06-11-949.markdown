@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '850'
+  original_post_id: '949'
+  _wp_old_slug: '949'
+---
+I asked Diana a couple nights ago if content access permissions for the media server (and by extension, as a general rule) should default to open or closed.  Her answer was a resounding "closed".  I suspect most people, when the problem is explained to them, will answer the same.  Hell, I think I might do so myself.
+
+But unlike most people, I can envision the incredible possibilities for data mining projects (both selfish and altruistic) that would be possible with a system that defaults to open...  In fact, I have to question whether it's even worth the effort to make the interfaces to all this content uniform if the stuff that should be publicly accessible isn't...

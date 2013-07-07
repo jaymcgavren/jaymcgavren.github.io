@@ -1,0 +1,17 @@
+---
+layout: post
+title: Sweeeet...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '35'
+  _wp_old_slug: '35'
+---
+I just got handed responsibility for Apollo, the biggest, nastiest database of the four we're covering on this project.  I'll be handling "reverse engineering" of the existing program, design for the new version, *and* Java coding for this part.
+
+Why am I happy about being handed such a huge mess?  Because it's the most important mess.  As of now, this project cannot complete without me.
+
+I wonder which desk I'll get upstairs once I'm promoted?  :)

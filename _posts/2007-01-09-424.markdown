@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '424'
+  _wp_old_slug: '424'
+---
+Annnnd...  the car's back from the shop.  $60 to find that a bolt was missing <i>from the brake assembly</i> and replace it.  It wasn't the CV joint at all.
+
+Did I mention the last people to work on the brakes were my father in law and myself?  And I doubt the mistake was my father in law's.  I really need to stick to coding.

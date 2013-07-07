@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '542'
+  original_post_id: '512'
+  _wp_old_slug: '512'
+---
+I'm flailing.  I have a change where I'd have to write twice as much unit test code as actual code, so I skipped the unit test, and now I'm flailing: ordering my son's birthday cake, catching up on my RSS feeds, posting to my journal, anything but actually writing the code.  It's like taking twice as long to cross a bridge because there's no handrail.
+
+Lesson: always write the unit test first, even if it's ugly and inefficient.  You'll save yourself time later.
+.

@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '18'
+  _wp_old_slug: '18'
+---
+Oh, and by the way, this was a very good weekend.  That's all I'll say for now.

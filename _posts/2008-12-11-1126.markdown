@@ -1,0 +1,28 @@
+---
+layout: post
+title: Cucumber/Webrat...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '968'
+  original_post_id: '1126'
+  _wp_old_slug: '1126'
+---
+Is it just me, or are Cucumber tests in combination with Webrat <em>really</em> brittle?  I'm generating messages to go in my inbox, and they weren't showing up because I forgot to make them "from" the current user.  I can't say:
+
+<pre>
+Given I am on the messages page #BAD
+And there are 4 messages #BAD
+</pre>
+
+...because that would load a page with no messages on it.  It has to be:
+
+<pre>
+Given there are 4 messages
+And I am on the messages page
+</pre>
+
+Not as versatile as Cucumber advocates seem to be promising.  Maybe I'll get used to this kind of stuff over time, but right now I'm encountering/generating way too many head-scratching bugs to be productive.

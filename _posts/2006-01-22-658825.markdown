@@ -1,0 +1,15 @@
+---
+layout: post
+title: '658,825'
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '303'
+  _wp_old_slug: '303'
+---
+I wonder what the limit is on the number of enemies Geometry Wars can throw at you at once?  'Cause I don't think I've hit it yet, and I had 100-150 objects on the screen.
+
+This game blows Robotron 2084 out of the water, BTW.

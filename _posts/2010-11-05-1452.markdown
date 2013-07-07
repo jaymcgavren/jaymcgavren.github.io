@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1110'
+  original_post_id: '1452'
+  _wp_old_slug: '1452'
+---
+This is cheating at live-coding - I just replayed my re-do buffer in TextMate.  I figured the result would be interesting if I ever want to go back and analyze my technique, though.
+
+[Train of Thought](http://www.youtube.com/watch?v=Hrha3YKhrCM)

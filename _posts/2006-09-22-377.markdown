@@ -1,0 +1,32 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '376'
+  _wp_old_slug: '376'
+---
+Got this message via Flickr today...
+
+&gt; I am writing to let you know that five of your photos with
+&gt; a creative commons license have been short-listed for
+&gt; inclusion in the second edition of our Schmap Kauai Guide,
+&gt; to be published mid-October 2006.
+
+I published my stuff under the Creative Commons license because, while it's good enough to circulate, it's not professional enough to charge for.
+
+They look completely legit, partly because the license I agreed to in the final submission has these key terms:
+
+&gt; (c) Schmap shall, to the extent reasonably practicable,
+&gt; provide Internet link(s) to your Photos.
+&gt; ...
+&gt; (f) Schmap shall continue to make its destination/local
+&gt; guides available at no cost to end users.
+
+That's right; not only do I get credited and linked to, but in the event they start to charge end users for these guides, my license to them to use my photos is automatically revoked.  I assume they'll be making some profit from ad revenues, but doesn't Flickr as well?  I'm just happy to have people looking at the product of my hobby.
+
+I'm also excited from the standpoint that I hope to one day be an entrepeneur like these guys.  Using this Creative Commons content means they don't have to employ an army of photographers, unlike traditional travel guides.  Maybe when it's time for me to start my business, I'll be able to do it all by myself.

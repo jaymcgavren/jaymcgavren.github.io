@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '663'
+  original_post_id: '691'
+  _wp_old_slug: '691'
+---
+So with explorer.exe gone, Windows-R simply plops an "r" into the current window.  I can't tell you how many times I've done that today, instead of CapsLock-"open shell" like I'm supposed to be.  This is going to be a hard habit to unlearn.
+
+Someday, when all my scripts are reimplemented as selection processors, I'm going to laugh at how quaint all this seems.

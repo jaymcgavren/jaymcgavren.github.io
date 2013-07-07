@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1046'
+  original_post_id: '1272'
+  _wp_old_slug: '1272'
+---
+Robert Frost once defined poetry as that which cannot be translated. No wonder anime and manga arrive in the US with the poetry removed.

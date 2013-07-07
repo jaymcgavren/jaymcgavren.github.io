@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '240'
+  _wp_old_slug: '240'
+---
+I went on an MP3 binge last night until 1 AM...  that was dumb.  Now I'm so tired I can't think straight, and I have a deadline to deliver code today.  Various forces are conspiring against that happening, but I could deal with them if I could just collect my thoughts...

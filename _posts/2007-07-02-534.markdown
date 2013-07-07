@@ -1,0 +1,28 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '559'
+  original_post_id: '534'
+  _wp_old_slug: '534'
+---
+<a href="http://jay.mcgavren.com/blog/wp-content/uploads/2007/07/interact_with_vectors.png" title="Zyps - Environment.interact with object vectors"><img src="http://jay.mcgavren.com/blog/wp-content/uploads/2007/07/interact_with_vectors.thumbnail.PNG" alt="Zyps - Environment.interact with object vectors" /></a>
+
+{% highlight ruby %}
+environment = Environment.new
+i = 0
+while i < 1 do
+	environment.objects << Creature.new(
+		i,
+		Location.new(WIDTH * i, HEIGHT * i),
+		Color.new(i, 1 - i, i / 2 + 0.5),
+		Vector.new(100 * i, i * 360)
+	)
+	i += 0.01
+end
+{% endhighlight %}

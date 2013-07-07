@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '602'
+  original_post_id: '613'
+  _wp_old_slug: '613'
+---
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2007/08/approach_0_4_1.png' title='approach_0_4_1.PNG'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2007/08/approach_0_4_1.thumbnail.PNG' alt='approach_0_4_1.PNG' /></a>
+
+A few things were broken with my old Approach action, but now it's much improved.  There's still one kludge left in it that keeps it from going into the main Zyps library, though...

@@ -1,0 +1,24 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '731'
+  original_post_id: '783'
+  _wp_old_slug: '783'
+---
+Someone was doing a demo at the Ruby users' group on their MacBook, and a transparent notification popped up that their Website was inaccessible.  I didn't know what app was responsible until just now:
+
+Growl (software) - Wikipedia, the free encyclopedia
+"Growl is a global notifications system for the Mac OS X operating system. Applications can use Growl to display small notifications about events which the user deems important, in a consistent manner."
+<a href="http://en.wikipedia.org/wiki/Growl_(software)">Growl (software) - Wikipedia, the free encyclopedia</a>
+
+I'm watching Jeffrey Grosenbach's screencast on rSpec, and he's got Autotest (which watches a directory for file changes and automatically runs the appropriate tests) hooked into Growl.  He writes a test, saves it, and boom - a frowny-face immediately appears at the bottom of the screen with the failing test.  No further effort required.  He updates the source code, saves it, boom - smiley face showing the test now passes.  No further effort required.
+
+Ruby in general keeps the feedback loop very tight like this (I'm thinking here of Rails' ability to modify an app while it's running).  Ultimately this is going to produce better coders, faster.
+
+Hmmm, now I'm imagining a Zyps setup that kills the old interpreter and runs a new one every time you save an environment setup...

@@ -1,0 +1,13 @@
+---
+layout: post
+title: LJXP test...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '479'
+  _wp_old_slug: '479'
+---
+<p style="border:1px solid black;padding:3px;"><b>Originally published at <a href="http://www.nephariuz.dreamhosters.com/blog/archives/3">nephariuz's blog</a>. Please leave any <a href="http://www.nephariuz.dreamhosters.com/blog/archives/3#comments">comments</a> there.</b></p><p>Test of WordPress crossposting&#8230;</p>

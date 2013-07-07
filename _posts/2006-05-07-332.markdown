@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '331'
+  _wp_old_slug: '331'
+---
+Buzz Aldrin was at a benefit for the Arizona Kidney Foundation (where Lenny's grandmother works), and she managed to get him an autographed copy of his book (an illustrated autobiography for kids).  We've been reading it every night before bed.
+
+It never occurred to me that actual footage of the landing might be online, but here it is:
+http://video.google.com/videoplay?docid=1416393771637021814&amp;q=moon+landing
+
+It blows my mind that they would actually take a rover up there.  Guess the message was "in your face, Russia!"

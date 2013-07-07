@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '563'
+  original_post_id: '541'
+  _wp_old_slug: '541'
+---
+"There are two kinds of pains in the ass: the obnoxious boor - to be avoided on all teams - and the person who never learned that grownups shouldn't ask 'Why?' all the time. The latter is a treasure."-Dave Thomas, on selecting job candidatesI'm sitting in on a job interview this afternoon, so I'm looking into interviewing techniques, and this quote caught my eye...  (This is Dave Thomas of the Ruby community, not the fast-food community.)

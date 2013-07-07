@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '290'
+  _wp_old_slug: '290'
+---
+Global variables all over the place.  Almost every function has multiple side effects.  Encapsulation is basically nonexistent.
+
+People speak of my predecessor in reverent tones around here, but I'm really not sure why.  Maybe he was especially good at coping with a decidedly crappy language (Informix 4GL).  But from my point of view, this code is a disaster, and I can't help feeling I could do better even in 4GL.
+
+I want very badly to rip everything out and start over.  My boss isn't a big 4GL fan, either, so maybe I'll get my chance.

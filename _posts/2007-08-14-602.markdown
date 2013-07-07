@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '595'
+  original_post_id: '602'
+  _wp_old_slug: '602'
+---
+<a href="http://jay.mcgavren.com/blog/wp-content/uploads/2007/08/zyps_controls.png" title="zyps_controls.PNG"><img src="http://jay.mcgavren.com/blog/wp-content/uploads/2007/08/zyps_controls.thumbnail.PNG" alt="zyps_controls.PNG" align="left" hspace="10" /></a>
+
+Man, Ruby-Gnome2 widgets are an absolute breeze.  I got a GUI slapped together in four hours, and I had never even used input widgets before.

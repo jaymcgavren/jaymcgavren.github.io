@@ -1,0 +1,21 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljxp_privacy: friends
+  ljID: '680'
+  original_post_id: '711'
+  _wp_old_slug: '711'
+---
+<em>Finally</em> got my Enso extension server working.  I've begun replacing all my pipe-clipboard-to-batch-file utilities with EnsoExtension::Command objects, and the "feel" is pretty nice so far.
+
+Unfortunately, I can't publish them more widely yet.  Anything that uses getUnicodeSelection followed by setUnicodeSelection makes line separators go all wonky in Word and Notepad.  (But not Notetab Light, Wordpad, or Eclipse, oddly enough.)  I'm sure the solution would be perfectly obvious to anyone who works with Unicode (or GUI selections) more regularly, but it's giving me some trouble.
+
+Oh, well, my own setup is pretty nice.  I won't worry about those using lesser editors for now.
+
+I also finally set up a personal Ruby lib under my home directory, something I'd been meaning to do for a while.  All the shared functionality between my different utilities is finally going to be consolidated into a few modules.

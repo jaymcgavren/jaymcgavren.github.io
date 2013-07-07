@@ -1,0 +1,21 @@
+---
+layout: post
+title: Musings...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '165'
+  _wp_old_slug: '165'
+---
+It should be possible to "rewind" a software program or operating system's settings and content to a prior state, much like a PVR.
+
+When doing so, suppose the user leaves the program in the "rewound" state without "fast-forwarding" back to the "present".  The rewound state then becomes the new present, and changes proceed down a different timeline.
+
+Should the set of changes in old timeline be discarded?  Perhaps not - the user would lose changes made in the alternate "future".  Could the old timeline perhaps be saved?  And how would one retrieve changes from it without disrupting the integrity of the current timeline?  Would it be necessary to save the system's entire state (potentially comprising gigabytes of data) with each change, or could one merely save each change as it occurs?
+
+The answers to these questions might lie in two places: the way users use single-timeline paradigms such as a word processor's undo and redo features (Microsoft Word), and multiple-timeline paradigms like revision control systems (CVS).
+
+<b>Edit:</b>Hmmm, no, the system's state could just be saved at the point the timelines diverge.  Then individual changes could be "played back" to retrieve any state along that timeline.  Assuming an infinitely fast computer, that is.

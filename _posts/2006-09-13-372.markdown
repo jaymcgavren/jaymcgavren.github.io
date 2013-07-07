@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '371'
+  _wp_old_slug: '371'
+---
+Yaaay!  iTunes 7 has "skip count" and "last skipped"!  This could render ratings obsolete.
+
+Too bad I lost our iPod Shuffle a week or so ago.  I may have to order another.  (Damn loose slacks pockets...  In fact, damn slacks altogether; I wanna wear jeans to work!)

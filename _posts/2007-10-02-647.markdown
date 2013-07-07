@@ -1,0 +1,43 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '623'
+  original_post_id: '647'
+  _wp_old_slug: '647'
+---
+Attempting to run Zyps on Linux (Fedora Core 5) has been unproductive at best.  <em>Part</em> of the problem is Ruby-Gnome2.  wxRuby seems to be a bit more respected (and has better Mac support), so it's time for a few experiments...
+
+
+<!--more-->
+
+{% highlight ruby %}
+gems_loaded = false
+begin
+	require 'wx'
+rescue LoadError
+	if gems_loaded == false
+		require 'rubygems'
+		gems_loaded = true
+		retry
+	else
+		raise
+	end
+end
+
+class MyApp < Wx::App
+	def on_init
+		frame = Wx::Frame.new(nil, -1, 'hello')
+		frame.show
+		return true
+	end
+end
+
+app = MyApp.new
+app.main_loop
+{% endhighlight %}

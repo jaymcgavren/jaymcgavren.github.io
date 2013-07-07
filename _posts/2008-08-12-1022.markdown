@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '894'
+  original_post_id: '1022'
+  _wp_old_slug: '1022'
+---
+Can't stream last.fm at work due to tight bandwidth.  Doesn't help me in the car, either.  So their introduction of <a href="http://www.last.fm/home/freemp3s">personalized podcasts</a> looks pretty damn cool.

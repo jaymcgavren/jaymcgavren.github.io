@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '674'
+  original_post_id: '704'
+  _wp_old_slug: '704'
+---
+<a href="http://jay.mcgavren.com/blog/archives/704/chief-and-arbiter/" rel="attachment wp-att-703" title="Chief and Arbiter">Chief and Arbiter</a>, Marker on Copier Paper, by Lenard McGavren

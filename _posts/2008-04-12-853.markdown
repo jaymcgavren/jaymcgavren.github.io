@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '775'
+  original_post_id: '853'
+  _wp_old_slug: '853'
+---
+Got a phone call <em>from my Mom</em> this morning to let me know the photo of my niece wasn't visible - to everyone <em>besides</em> me.  Guess I had a little too much faith in Flock; I thought it would save the image and then upload it to Wordpress, but it just linked it from my GMail account (to which I have access but no one else does).  It's also crapping Technorati tags all over my entries instead of using Wordpress categories.  I may be reverting to Firefox soon.

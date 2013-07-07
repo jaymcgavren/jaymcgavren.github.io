@@ -1,0 +1,78 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '458'
+  _wp_old_slug: '458'
+---
+Guess when we re-implemented this process in JAX-RPC.
+
+
+prop        NOYB
+sent_dtime  2003-06-25
+record      [Update successful.]
+
+[Thousands of succesful updates snipped.]
+
+prop        NOYB
+sent_dtime  2007-03-18
+record      [Update successful.]
+...
+prop        NOYB
+sent_dtime  2007-03-19
+record
+...
+prop        NOYB
+sent_dtime  2007-03-19
+record      No action found for property 'NOYB'
+...
+prop        NOYB
+sent_dtime  2007-03-19
+record      Unknown record type: 'airport'
+...
+prop        NOYB
+sent_dtime  2007-03-27
+record      Couldn't create SOAP message factory due to exception: javax.xml.so
+            ap.SOAPException: Unable to create message factory for SOAP: Provid
+            er org.apache.axis.soap.MessageFactoryImpl not found; nested except
+            ion is:
+	Couldn't create SOAP message factory due to exception: ja
+            vax.xml.soap.SOAPException: Unable to create message factory for SO
+            AP: Provider org.apache.axis.soap.MessageFactoryImpl not found
+...
+prop        NOYB
+sent_dtime  2007-03-27
+record      java.net.URL
+...
+prop        NOYB
+sent_dtime  2007-03-27
+record      HTTP transport error: java.net.ConnectException: Connection refused
+            : connect; nested exception is:
+	HTTP transport error: java.net.Co
+            nnectException: Connection refused: connect
+...
+prop        NOYB
+sent_dtime  2007-03-30
+record      HTTP transport error: javax.net.ssl.SSLHandshakeException: sun.secu
+            rity.validator.ValidatorException: PKIX path building failed: sun.s
+            ecurity.provider.certpath.SunCertPathBuilderException: unable to fi
+            nd valid certification path to requested target; nested exception i
+            s:
+	HTTP transport error: javax.net.ssl.SSLHandshakeException: sun
+            .security.validator.ValidatorException: PKIX path building failed:
+            sun.security.provider.certpath.SunCertPathBuilderException: unable
+            to find valid certification path to requested target
+...
+prop        NOYB
+sent_dtime  2007-04-05
+record      JAXRPC.TIE.04: Internal Server Error (JAXRPCTIE01: caught exception
+             while handling request: javax.xml.rpc.JAXRPCException: SOAP Header
+             element not found.)
+
+
+...And I *still* don't have the connection working.  All this is in the dev environment, at least.  Gods help me if it went to production like this.

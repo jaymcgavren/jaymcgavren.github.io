@@ -1,0 +1,15 @@
+---
+layout: post
+title: ahhhhh
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '470'
+  _wp_old_slug: '470'
+---
+Speaking of e-mail bounces, if anyone has trouble getting hold of me the next couple days, it's because my mother in law is moving out so she can live with her fiancee, and we're transferring my ISP account from her name to mine.
+
+All should return to normal shortly.  I really need to get my own domain name, to avoid interruptions like this.

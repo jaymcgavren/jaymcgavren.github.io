@@ -1,0 +1,18 @@
+---
+layout: post
+title: 3D movies...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '909'
+  original_post_id: '226'
+  _wp_old_slug: '226'
+---
+mr_mooph sent us <a href="http://today.reuters.co.uk/news/newsArticle.aspx?type=entertainmentNews&amp;storyID=2005-03-18T085249Z_01_DEN830004_RTRUKOC_0_FILM-3D.xml">this article</a> on film directors like George Lucas wanting to go back and remaster their films in 3D.  I'm betting a 3D image based on 2D film looks ridiculous.
+
+But this gets me thinking about a good point...  Why aren't new films being shot in 3D?  Sure, we don't have the means to display them right now, but we will someday.  You could just publish in 2D for now, and then when 3D projection technology is ready, the footage will be too.  There wouldn't be much additional cost - you'd just need cameras with two lenses, and CG models could be used as-is.
+
+It would be like having a chance to film in color during the black-and-white era.  We're missing a cheap opportunity to future-proof our movies here, and we should be taking it.

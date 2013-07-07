@@ -1,0 +1,22 @@
+---
+layout: post
+title: Splat!
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '560'
+  original_post_id: '536'
+  _wp_old_slug: '536'
+---
+<a href="http://jay.mcgavren.com/blog/wp-content/uploads/2007/07/zyps_gravity.png" title="Gravity EnvironmentalFactor"><img src="http://jay.mcgavren.com/blog/wp-content/uploads/2007/07/zyps_gravity.thumbnail.PNG" alt="Gravity EnvironmentalFactor" /></a>
+
+{% highlight ruby %}
+gravity = EnvironmentalFactor.new
+accelerate = Behavior.new
+accelerate.add_action {|target| target.vector.y += 9.8}
+gravity.behaviors << accelerate
+environment.environmental_factors << gravity
+{% endhighlight %}

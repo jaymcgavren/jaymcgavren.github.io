@@ -1,0 +1,18 @@
+---
+layout: post
+title: It's magic!
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '634'
+  original_post_id: '660'
+  _wp_old_slug: '660'
+---
+I wanted to look at my logs directory today, and before I knew it, the window was in front of me.  After considering for a moment, I realized I had typed "open logs" (a shortcut I'd set up) into Enso <em>without thinking</em>.
+
+This is the point I have been seeking to get to with computer interfaces, any computer interface, for years now.  Humanized had to do a horrible, terrifying Windows hack to make it work, but they made it work.
+
+Now, where are my LEAP keys?

@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '49'
+  _wp_old_slug: '49'
+---
+Wrote a couple quick scripts to let me store the names and command lines of all my Windows shortcuts in a plain text file, then (re)generate the shortcut files on the fly.  It let me convert all my Web shortcuts from opening in Internet Explorer to opening in Mozilla/Firebird with one quick search and replace.  Not bad.
+
+Now, what else do I need to move to a centralized text file?

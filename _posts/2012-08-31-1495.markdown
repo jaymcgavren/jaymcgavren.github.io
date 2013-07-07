@@ -1,0 +1,26 @@
+---
+layout: post
+title: SVG in a URL!
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1125'
+  original_post_id: '1495'
+  _wp_old_slug: '1495'
+---
+Some folks were messing around with a "data:text/html" URL in Campfire (paste it into your address bar to render the accompanying HTML), which I hadn't known was possible...  Well, of course I immediately had to see if other MIME types would work, and the first thing I tried was SVG...
+
+Raw form (copy-paste in your address bar):
+
+<pre>
+data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg'&gt;&lt;g transform="rotate(50),scale(9)"&gt;&lt;text&gt;SVG in a URL!&lt;/text&gt;&lt;/g&gt;&lt;/svg&gt;
+</pre>
+
+Link form (uses entities for the angle brackets):
+
+<a href="//www.w3.org/2000/svg'&gt;&lt;g transform='rotate(50),scale(9)'&gt;&lt;text&gt;SVG in a URL!&lt;/text&gt;&lt;/g&gt;&lt;/svg&gt;">SVG in a URL!</a>
+
+Tested in Chrome, Safari and Firefox on OSX.  If it <em>doesn't</em> work for you (or is expected to be deprecated in the future), I'd be curious to know.

@@ -1,0 +1,18 @@
+---
+layout: post
+title: Ahhhh...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '742'
+  original_post_id: '801'
+  _wp_old_slug: '801'
+---
+Typing this from our new Dell Inspiron 1501.  ("Mini Me".)  Got here via "open new journal entry", from my <em>speedily</em> working Enso installation, using a shortcut created by my working Ruby installation from a config file stored in my fully-preserved $home folder.  All without bluescreening once.
+
+We still have 360 glorious days of warranty coverage, but just in case, I checked their out-of-warranty options - $160 to repair any problem outside of the mobo or LCD.
+
+Lappy486 failed the very same week that its warranty ended, and Acer won't touch it.  We knew we were taking a risk on it, but damn, we didn't think it would go <em>that</em> badly.  Frankly, I'm done with all brands besides Dell and Apple until the field changes.

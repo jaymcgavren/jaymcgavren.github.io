@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '671'
+  original_post_id: '699'
+  _wp_old_slug: '699'
+---
+The Zyps presentation went pretty well.  I got a lot of good feedback and encouragement.  James Britt got the GUI up and running on Kubuntu (something that had eluded me thus far).  Chris Matthieu wants me to record a screencast for <a href="http://rubyology.com">Rubyology</a>.  David Koontz vowed to steal my behavior/action/condition setup and use it in Railgun (if I don't steal his first).
+
+Now if only it had been to a group of more than <em>eight</em> people...  The change in location (now at the Rising Tide Software office) is partly responsible, I'm sure; people either couldn't find it or didn't want to trek the extra distance.  Also, no one was able to connect to the dRuby server like I'd hoped.
+
+Oh, well, it was a fun evening, regardless.  Note to self - next time you order the teriyaki mushroom burger, have 'em go easy on the teriyaki.

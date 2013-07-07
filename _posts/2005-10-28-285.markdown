@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '911'
+  original_post_id: '284'
+  _wp_old_slug: '284'
+---
+Wow, yakamoto, bet you didn't know that little job referral was going to consume 8 years of my life, move me to another state, and indirectly result in my meeting my future wife, did you?
+
+Worked out pretty good, overall...

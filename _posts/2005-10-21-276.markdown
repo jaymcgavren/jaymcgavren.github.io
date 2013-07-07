@@ -1,0 +1,28 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_8a66af42358161a17189e24a1d00a149: '{{unknown}}'
+  _oembed_1d9c44f8e2886cd5bb8a8ef742992cac: '{{unknown}}'
+  _oembed_636564fd623dc7d40fc94785f531178e: '{{unknown}}'
+  original_post_id: '277'
+  _wp_old_slug: '277'
+---
+The new Flock browser inspired me to establish a del.icio.us account:
+
+http://del.icio.us/nephariuz
+
+I then went through my Google Search History and added everything that seemed worthwhile. It's mostly tech and development stuff, so I won't be participating in the shared account thing (haven't visited any J-Pop sites in forever), but if you're interested in such things, take a look.
+
+Oh, and I was able to export everything from del.icio.us and import into Furl, too!
+
+http://www.furl.net/members/nephariuz
+
+And THEN, I found I could use tools like this!
+
+http://kevan.org/extispicious.cgi?name=nephariuz

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Braid
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '897'
+  original_post_id: '1026'
+  _wp_old_slug: '1026'
+---
+Those who want to see something new in gaming owe it to themselves to check out Braid on X-Box Live Arcade. It introduces entirely new concepts, requires thinking in an entirely different way.  The ability to reverse time is exploited in just a huge variety of new and unique ways, and you will repeatedly say to yourself "Wow, that's clever" or "I've never seen that before".

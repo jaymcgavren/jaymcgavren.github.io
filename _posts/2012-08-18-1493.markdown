@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Let's Play: Jay's ROM hacks!"
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  original_post_id: '1493'
+  _wp_old_slug: '1493'
+---
+When I realized kids were posting "Let's Play..." videos of NES games on YouTube, I did a quick search...  Yup!  Someone did Ganon's Revenge back in 2009.  He slogs through 5 videos' worth of the game, and at one point calls me a "jerk" for hiding the wooden sword.  :)  The whole series seems to have gotten about 200 viewers, too.  I think he finally gave up after the fifth video, though.  :(  I was never proud of not being able to edit the dungeons, and it looks like he wasn't impressed with that aspect.  Ah, well.
+
+<a href="http://www.youtube.com/watch?v=BwL85ORHBn4">Let's Play - Ganon's Revenge!</a>
+
+So then I search for Metroid X...
+
+Holy crap!  A <a href="http://www.youtube.com/playlist?list=PL82E4B4C2B8AD4947&feature=plcp">12-video playlist</a>!
+
+With quotes like <em>this</em> in the comments!
+
+> it was the first time I ever played any metroid game so I thought that metroid X was a real NES game made by nintendo, like a sequel or something.
+> 
+> After﻿ the the long awkward first screen I got into it, and I think I liked it more than the original.

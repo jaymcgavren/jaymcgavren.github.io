@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '39'
+  _wp_old_slug: '39'
+---
+The ad I posted in the Arizona Republic to sell my sofa has been out of the paper for nearly 2 weeks, yet I'm still getting calls.  WTF?

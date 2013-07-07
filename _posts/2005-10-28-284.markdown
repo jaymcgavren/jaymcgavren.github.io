@@ -1,0 +1,25 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '283'
+  _wp_old_slug: '283'
+---
+&gt; Well, folks, today brings my time at xxxx to a close. It's been a fun and
+&gt; enriching experience, and all of you have influenced my personal and
+&gt; professional development more than you know.
+&gt;
+&gt; Whatever happens in the coming months and years, I'd like
+&gt; to keep in touch.  Drop me an e-mail anytime at this address:
+&gt;
+&gt; xxxx
+&gt;
+&gt; My sincere thanks to each and every one of you for your support and
+&gt; encouragement over the years.  Best wishes in all your future endeavors!
+&gt;
+&gt; -xxxx

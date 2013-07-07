@@ -1,0 +1,15 @@
+---
+layout: post
+title: Whew!
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '150'
+  _wp_old_slug: '150'
+---
+Man, was Halo 2 multiplayer fun last night!  Favorite moments included stealing a Ghost out from under an opponent, and hopping in a Warthog at the same time that Joe (who was on the opposing team) got in the gunner's seat ("All right, now what?").  Fun stuff.  No noticeable network problems, either (although Jeremy and I couldn't seem to get in on any Optimatch games).
+
+Too bad it's impossible to play video games while Lenny's awake (he always wants a turn).  If I didn't have to wait until we put him to bed, I might get a lot more play time in.

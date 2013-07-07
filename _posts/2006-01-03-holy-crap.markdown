@@ -1,0 +1,28 @@
+---
+layout: post
+title: Holy crap...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '300'
+  _wp_old_slug: '300'
+---
+&gt; From: Me
+&gt; To: Gary
+&gt; Subject: Holy crap...
+&gt;
+&gt; $ rm -r /cvs
+&gt; rm: remove write-protected regular file
+&gt; '/cvs/foobar/Attic/DateComparator.java,v'?
+&gt; ^C
+&gt;
+&gt; Can you help me figure out how much damage I did?
+&gt;
+&gt; -Jay
+
+For those who don't know, CVS is a program used for storing source code.  An entire development department's source code is usually stored in a single directory.  And "rm -r" nukes entire directories (and all subdirectories).
+
+Someone up there must like me, because that "write-protected file" was the very first thing it hit, and I cancelled it immediately.  Otherwise, it would have nuked the entire department's work (for the day, at least).  In Gary's words, they would have had to string me up.

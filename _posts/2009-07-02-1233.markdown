@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1028'
+  original_post_id: '1233'
+  _wp_old_slug: '1233'
+---
+Have explosions that push on surrounding objects working in Life-Tank.  Need to tweak that explosion duration, though...
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2009/07/picture-36.png' title='picture-36.png'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2009/07/picture-36.thumbnail.png' alt='picture-36.png' /></a>

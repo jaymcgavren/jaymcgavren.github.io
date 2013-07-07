@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '748'
+  original_post_id: '812'
+  _wp_old_slug: '812'
+---
+I saw this and my jaw dropped...  I thought "not only are they using Zyps in Poland, but they're coding soccer simulations?!"
+
+<a href="http://youtube.com/watch?v=TRczNgh5mrs">Zyps po odbiciu</a>
+
+Well, no.  My best guess is that there's a Polish soccer star whose last name is Zyps.  :)  Hope that doesn't cause search conflicts later.

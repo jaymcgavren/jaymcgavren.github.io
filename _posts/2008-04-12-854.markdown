@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '776'
+  original_post_id: '854'
+  _wp_old_slug: '854'
+---
+So I'm at the gas station and on top of each of the pumps is an LCD TV, it looks like 720P resolution, provided by pumptoptv.com.  It looks a little bit hardened against vandalism, but I can't believe that it's not going to get trashed within a couple of weeks.  It shows advertisements and local traffic and stuff, the traffic at least is cool.  But I'm not sure who accepts the repair bills, whether it's PumpTop TV or the gas station.

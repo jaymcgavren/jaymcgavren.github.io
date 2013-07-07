@@ -1,0 +1,32 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '890'
+  original_post_id: '1007'
+  _wp_old_slug: '1007'
+---
+<blockquote>
+You are logged in as: jay2
+
+
+            <h1>Rails 2.0 Forum</h1>
+
+         Logout | Contact Us
+
+Reply was successfully created.
+
+<b>Forum:</b> Beginners
+
+<b>Subject:</b> Does my username show up?
+
+<b>Body:</b>
+
+		<p><b>Nope.</b></p>
+		<p>I think I need to add a validates_presence_of :user to the Topic and Reply models.</p>
+</blockquote>

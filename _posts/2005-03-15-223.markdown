@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '225'
+  _wp_old_slug: '225'
+---
+Well, after a Herculean effort, Windows 2000 is once again my primary OS.  Linux greatly appeals to the programmer in me, but not to the user.  There are just too many inconsistencies and obstacles in the GUI.  There's also no Picasa, iTunes, or Photoshop (and I'm not about to mess around with Wine to get them working).
+
+That doesn't mean I'm giving it up, though.  Since I had to wipe my hard drive anyway, I did as much experimentation as it took to get Linux working on dual-boot.  That way, when I'm dying to try a Perl package that won't work with Windows, I'll be able to.  And someday, when I can afford another machine (long after the wedding), I'll keep a dedicated Linux box for file serving, backup, and version control.
+
+Now it's time to repeat the loathsome task of customizing all my apps...

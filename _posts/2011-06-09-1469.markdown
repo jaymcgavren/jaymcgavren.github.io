@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1115'
+  original_post_id: '1469'
+  _wp_old_slug: '1469'
+---
+Hmmm... How about a puzzle game where pieces are "if" statements, and the branch evaluates as soon as they're "true"? That makes other statements true, causing them to evaluate, which makes other statements true...  forming a combo - er - cascade.

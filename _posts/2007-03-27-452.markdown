@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '452'
+  _wp_old_slug: '452'
+---
+Watching the Propellerheads Reason tutorial videos...  If the thoughts a person can have are shaped by the language they speak, then Reason is the language of electronic music (or, at least, a major dialect).  Just learning a bit about the tools of the trade teaches you volumes about why music sounds the way it does.

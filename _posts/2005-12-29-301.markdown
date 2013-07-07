@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '304'
+  _wp_old_slug: '304'
+---
+Currently researching how to convert all the old SCCS projects to CVS.  Gary H. has already blazed a trail in that direction, and is being a considerable help.  I'll be a much happier coder once this is complete.

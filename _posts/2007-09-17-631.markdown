@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '614'
+  original_post_id: '631'
+  _wp_old_slug: '631'
+---
+I still have to go through the Windows Run menu and the clipboard if I want to load saved snippets or otherwise pipe data somewhere.  Bummer.  That inconsistency will make learning this new system quite a bit harder.

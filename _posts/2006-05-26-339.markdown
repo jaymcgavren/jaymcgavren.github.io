@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '338'
+  _wp_old_slug: '338'
+---
+Just had my second randomly-started conversation on <a href="http://www.ruby-lang.org/en/">Ruby</a> of the day.  Seems like everybody <i>wants</i> to program in it, but almost nobody actually <i>does</i>.
+
+Doesn't matter; with the kind of mindshare the language is getting, major corporate acceptance is probably less than a decade away.

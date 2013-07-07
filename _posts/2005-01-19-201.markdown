@@ -1,0 +1,23 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '197'
+  _wp_old_slug: '197'
+---
+Tried out <a href="http://www.picasa.com">Picasa 2</a> (the photo organizer software) last night...  Damn this thing is nice, like an iTunes for photos.  (I'm sure Mac users would say it's like iPhoto, but us Windows folks have to take what we can get, ya know?)
+
+It auto-scans your hard drive for images, takes note of their dates, file names, and other info, and plops thumbnails of everything in a huge list.  How is this organization?  Well, they're separated by years, folders, tags, and other information, but the boundaries are much easier to cross (and therefore less tedious) that simply organizing everything by files and folders.  Want to get to the wedding photos from the nature photos?  Just scroll.  Want to get to the 2005 photos from the 1987 photos?  Just scroll.  Or if that's too tedious, just jump to the tag - it's your pick.
+
+It also has all the photo-editing tools one might actually need, just button-clicks away.  It's no Photoshop, but I only ever used a tiny subset of PS's capabilities anyway.  I prefer having all the important stuff (rotate, auto-contrast, saturation, red-eye removal) in one place.
+
+Want to share?  Select the photos you want, and Picasa can export to an HTML page with thumbnails, resize them and attach them to an e-mail, burn them to a CD, post them to (certain types of) blogs, and more.
+
+Oh, and did I mention the whole thing's lightning-fast?  It can scroll through huge thumbnail lists, do smooth scaling while resizing an image, put up transparent windows, and fade images in and out during a slideshow, all with no lag whatsoever.  (Pretty impressive considering the PC I ran it on wasn't exactly top-of-the-line.)
+
+Not bad for free software.  There's more, but I think that's plenty.  It's exactly what my gigabytes of unpublished, unsorted, unedited, un-weeded-out photos need.  Halleluja!  In the not-too-distant future, you can expect some posts of photos that were thought lost.

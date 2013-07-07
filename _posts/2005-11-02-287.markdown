@@ -1,0 +1,21 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '286'
+  _wp_old_slug: '286'
+---
+Reasons I like my new employer:
+
+-I'm getting paid more.
+-I'm not afraid the company will lay me off tomorrow.
+-My hard drive is 4 times as big, my CPU twice as fast.
+-My business cards are on the way.
+-I don't have to buy my own desk supplies.
+
+Yes, I had to buy my own supplies at my prior company; that was how scary their financial situation was.

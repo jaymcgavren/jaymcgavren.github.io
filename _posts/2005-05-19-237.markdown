@@ -1,0 +1,19 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '239'
+  _wp_old_slug: '239'
+---
+There's a software coding methodology called "test driven development", which says that you write automated tests for your code first, giving sample input values and expected output.  If input and output don't match, the test raises an error.
+
+Once the tests are complete, THEN you write the code.  When your code clears all the tests, it's done.  If you make a change, rerun the tests.  If something suddenly fails, you know something's broken.
+
+I was thinking about this last part today, and made an important realization.  Automated tests give your program the sensation of "pain".  Previously, if the program were "injured" by defects, it would simply carry on happily until it died in production.  But with testing in place, your application can actually tell you that something is wrong, and even what "limb" (module) the problem is in.
+
+I have long had a vision of "self-healing" code in my mind - programs that, like a living organism, had internal mechanisms to detect problems and repair them without outside intervention.  Well, outside intervention is still necessary at this point, but I think we've reached an important milestone along the path to self-healing applications.

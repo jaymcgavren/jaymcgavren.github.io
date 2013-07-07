@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '725'
+  original_post_id: '775'
+  _wp_old_slug: '775'
+---
+Yay!  Dreamhost just added PHPbb 3.0 to their 1-click installs page!  (Yes, I could probably do an install myself, but I have better things to do with my time.)  Just waiting for the notification to come through from the "installer robot".
+
+This should take care of my spammer problems.  Zyps can have a forum now!

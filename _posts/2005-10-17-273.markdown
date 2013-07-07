@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '275'
+  _wp_old_slug: '275'
+---
+Now I see why it's customary to give two weeks' notice before leaving a company; it takes you that long just to say good bye.
+
+First I had to draft a resignation letter.  (That wasn't complicated.  For legal reasons, sites on the subject actually advise you to keep it to a simple statement that you're leaving.)  Then I had to go tell my boss.  (He congratulated me.  John is a nice guy and a good sport.)  Then I had to sit through a call while <i>his</i> boss made a half-assed attempt to get me to stay.  (No counteroffer was made; the company's in no position to right now.)  Then I had to go around to the cubes of everyone I've worked with on our grossly overstaffed projects, and smile and nod through "let's trade e-mails" and "let's do lunch before you go" and so forth.  (There are a few people I geniunely intend to keep in touch with, though.)  THEN I had to go to my original department, and do it all over again.  I still have to find my old boss to let her know, otherwise the first she'll hear of it will be my announcement during a project meeting tomorrow.
+
+Google's opening an office in the Valley.  Maybe next I'll get hired on there, and remain happily until retirement, so that I never have to go through this again.

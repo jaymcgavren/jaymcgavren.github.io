@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1054'
+  original_post_id: '1298'
+  _wp_old_slug: '1298'
+---
+Three runs of the same drawing script, with the only difference being that it's hooked up to different generators...
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2009/09/picture-21.png' title='SineGenerator'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2009/09/picture-21.thumbnail.png' alt='SineGenerator' /></a><a href='http://jay.mcgavren.com/blog/wp-content/uploads/2009/09/picture-22.png' title='RandomGenerator'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2009/09/picture-22.thumbnail.png' alt='RandomGenerator' /></a><a href='http://jay.mcgavren.com/blog/wp-content/uploads/2009/09/picture-19.png' title='FlashGenerator'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2009/09/picture-19.thumbnail.png' alt='FlashGenerator' /></a>

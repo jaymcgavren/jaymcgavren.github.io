@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '468'
+  _wp_old_slug: '468'
+---
+Man, I am on a *roll* this week!  I think it's taken me this long to overcome the incredible inertia imposed on me by our build, defect tracking, and release systems, because there are umpteen steps with each that you have to stop and think about.  Well, after a year and a half, I finally have enough experience with each that I don't have to think about them any more.  And now, I can think about *coding*!  Imagine that!

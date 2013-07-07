@@ -1,0 +1,21 @@
+---
+layout: post
+title: Et tu, Jay?
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '562'
+  original_post_id: '65'
+  _wp_old_slug: '65'
+---
+This was a personality quiz that even I had to go for.
+
+<a href="http://www.geocities.com/jurjyfrort/homestarquiz.html" target="new">Which Homestar Runner character are you?</a>
+
+<a href="http://www.geocities.com/jurjyfrort/thecheat.html" target="new">You are: The Cheat!</a>
+
+this quiz was made by <a href="mailto:jurjyfrort@yahoo.com">jurjyfrort</a>
+

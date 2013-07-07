@@ -1,0 +1,13 @@
+include:     ['.htaccess']
+exclude:     []
+timezone: "America/Phoenix"
+future: false
+pygments:    true
+
+markdown: redcarpet
+
+excerpt_separator: "\n\n"
+
+paginate: 15
+
+baseurl: "/"

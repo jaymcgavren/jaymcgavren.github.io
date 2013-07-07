@@ -1,0 +1,16 @@
+---
+layout: post
+title: Baby Izzy
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '773'
+  original_post_id: '850'
+  _wp_old_slug: '850'
+---
+<a href='http://jay.mcgavren.com/blog/archives/850/isabella-mcgavren-day-one/' rel='attachment wp-att-852' title='Isabella McGavren - Day One'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2008/04/cap0116.jpg' alt='Isabella McGavren - Day One' /></a>
+
+Introducing my niece Isabella (as photographed by my Dad).

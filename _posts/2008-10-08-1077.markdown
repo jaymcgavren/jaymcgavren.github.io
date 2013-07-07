@@ -1,0 +1,19 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '941'
+  original_post_id: '1077'
+  _wp_old_slug: '1077'
+---
+Was Googling a bit to see if anyone else had ever considered naming their computer "Chiark Hub" (answer: 2 people have).  I came across a quote I'd read before, but not realized the relevance of:
+
+<blockquote>
+"In all the human societies we have ever reviewed, in every age and in every state, there has seldom if ever been a shortage of eager young males prepared to kill and die to preserve the security, comfort and prejudices of their elders, and what you call heroism is just an expression of this fact; there is never a scarcity of idiots."
+--Iain M. Banks, Use of Weapons
+<blockquote>

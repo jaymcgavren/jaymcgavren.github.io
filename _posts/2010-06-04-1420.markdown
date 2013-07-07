@@ -1,0 +1,18 @@
+---
+layout: post
+title: Legal fallout...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1097'
+  original_post_id: '1420'
+  _wp_old_slug: '1420'
+---
+Uh, oh, I may have exposed myself to significant legal liability.  I haven't included a section like this in the license for <em>any</em> of my software releases...
+
+> You acknowledge that this software is not designed, licensed or intended for use in the design, construction, operation or maintenance of any nuclear facility.
+> 
+> --License agreement for a java.net library

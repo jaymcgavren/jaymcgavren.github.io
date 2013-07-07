@@ -1,0 +1,18 @@
+---
+layout: post
+title: 0.5.1...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '618'
+  original_post_id: '638'
+  _wp_old_slug: '638'
+---
+<a href="http://jay.mcgavren.com/blog/archives/638/051-gui/" rel="attachment wp-att-639" title="0.5.1 GUI"><img src="http://jay.mcgavren.com/blog/wp-content/uploads/2007/09/zyps_051.thumbnail.PNG" alt="0.5.1 GUI" align="left" hspace="10" /></a> The zyps GUI is actually tolerable now - the main addition was a simple speed limiter EnvironmentalFactor.  The Push and Pull actions are pretty cool, too.  I also ripped out user-defined conditions, as they just made things complicated and didn't offer much useful functionality.
+
+The GUI actually isn't my top priority, but it will be most people's introduction to the library, so it's important to put my best foot forward.
+
+Now to get a reliable, safe dRb server (is that an oxymoron?) going before the next Ruby users group meeting.  The programming challenge at Desert Code Camp showed me a shared environment for programmers to play around in, however unstable, can be a great deal of fun.

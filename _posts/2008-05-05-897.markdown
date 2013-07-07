@@ -1,0 +1,20 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '810'
+  original_post_id: '897'
+  _wp_old_slug: '897'
+---
+Playing with Fedora 8 on the new Dell at work...  Pretty nice.  I feel like I jumped from Windows 95 straight to XP.  It's <em>fast</em>.  Firefox popped up in 3 seconds.  Even turned on wobbly windows for the hell of it.  The main system menu and the various app menus still aren't organized worth crap, though.
+
+OK, why the <em>hell</em> can't I find a Windows text editor with a "Filter Selection Through Command" option?  TextMate has it.  Even freaking KDevelop has it.  Ctrl-A, Shift-space, "sort", Enter, and my document's sorted.  (The Ctrl-space is a custom setting.)  And piping it through Ruby only takes a fraction of a second.
+
+Oh, I could very readily become a Linux user for that alone.  But the experience outside my editor might drive me mad.  Wonder if TextMate would be as fast as KDevelop?
+
+Heh, 8 days till I'm outdated again - that's when Fedora 9 is released.

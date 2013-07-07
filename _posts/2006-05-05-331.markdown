@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '330'
+  _wp_old_slug: '330'
+---
+Ye gods, what a crappy day.  The following individuals are now on my shit list:
+
+-David Korn
+-The creators of md5sum
+-Sun Microsystems (*why* does your "cd" spit out the directory name?!)
+-The guy who decided that using shell scripts to work around one of Ant's shortcomings was a good idea

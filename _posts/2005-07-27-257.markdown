@@ -1,0 +1,34 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '259'
+  _wp_old_slug: '259'
+---
+F:workwedding&gt;cvs log wedding_guest_list.sxc
+
+RCS file: f:developmentcvs/wedding/wedding_guest_list.sxc,v
+Working file: wedding_guest_list.sxc
+head: 1.2
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: b
+total revisions: 2;     selected revisions: 2
+description:
+----------------------------
+revision 1.2
+date: 2005/07/27 06:41:02;  author: jay;  state: Exp;  lines: +37 -37
+Finished copying info from Diana's printed sheet.
+Added address info for some of groom's guests.
+----------------------------
+revision 1.1
+date: 2005/07/20 02:18:08;  author: jay;  state: Exp;
+Initial commit.
+=============================================================================

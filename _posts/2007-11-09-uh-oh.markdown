@@ -1,0 +1,16 @@
+---
+layout: post
+title: Uh, oh...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '669'
+  original_post_id: '697'
+  _wp_old_slug: '697'
+---
+Well, I <em>was</em> liking Copernic Desktop Search 2.  But it just locked up my whole machine trying to preview an 8-meg plain-text log file (that I didn't even intend to view).
+
+Google Desktop has been failing me lately (not finding documents, demaninding too much precision in search terms, etc.), which is why I switched.  But maybe the alternatives aren't that much better...

@@ -1,0 +1,27 @@
+---
+layout: post
+title: I am??
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '609'
+  original_post_id: '626'
+  _wp_old_slug: '626'
+---
+I've had a copy sitting on my shelf forever.  Guess I really need to get around to reading it.
+
+<p><img src="http://bluepyramid.org/ia/aohfmt.jpg"><br />
+<font face="Georgia, Georgia Ref, Book Antiqua, Garamond" size="5">
+You're <i>Adventures of Huckleberry Finn</i>!<br />
+<font size="4">by Mark Twain</font><br />
+<i><font size="3">With an affinity for floating down the river, you see things in black
+and white. The world is strange and new to you and the more you learn about it, the less
+it makes sense. You probably speak with an accent and others have a hard time
+understanding you and an even harder time taking you seriously. Nevertheless, your
+adventurous spirit is admirable. You really like straw hats.</font><br />
+<font size="2" face="Times New Roman"></i>
+Take the <a href="http://bluepyramid.org/ia/bquiz.htm">Book Quiz</a>
+at the <a href="http://bluepyramid.org">Blue Pyramid</a>.</font></font></p>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Flickr
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '265'
+  _wp_old_slug: '265'
+---
+This is a test post from <a href="http://www.flickr.com/r/testpost"><img alt="flickr" src="http://www.flickr.com/images/flickr_logo_blog.gif" width="41" height="18" border="0" align="absmiddle" /></a>, a fancy photo sharing thing.

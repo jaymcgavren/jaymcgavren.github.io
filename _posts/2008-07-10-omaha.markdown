@@ -1,0 +1,21 @@
+---
+layout: post
+title: Omaha
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '860'
+  original_post_id: '968'
+  _wp_old_slug: '968'
+---
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2008/07/0703081222a.jpg' title='Iz Izzy!'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2008/07/0703081222a.thumbnail.jpg' alt='Iz Izzy!' /></a>
+Iz Izzy!
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2008/07/0703082203.jpg' title='Enter the Nate'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2008/07/0703082203.thumbnail.jpg' alt='Enter the Nate' /></a>
+Enter the Nate
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2008/07/0703082203a.jpg' title='Jeremy Loves Mexican Juices.'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2008/07/0703082203a.thumbnail.jpg' alt='Jeremy Loves Mexican Juices.' /></a>
+Jeremy Loves Mexican Juices

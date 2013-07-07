@@ -1,0 +1,50 @@
+---
+layout: post
+title: Learned the hard way...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '904'
+  original_post_id: '1035'
+  _wp_old_slug: '1035'
+---
+When you're setting up logins in Rails, the tutorials tell you to store `action_name` and `controller_name` in the session so you can redirect there later...  Capture `request.path` instead.  This works just fine:
+
+{% highlight ruby %}
+redirect_to :controller => session['intended_controller'], :action => session['intended_action']
+{% endhighlight %}
+
+...until you're using restful resources and a logged-out user clicks an edit link.  When Rails tries to take them to "/entries/edit" (controller followed by action) instead of "/entries/1/edit", it'll bomb:
+
+<pre>
+ActiveRecord::RecordNotFound in EntriesController#show
+
+Couldn't find Entry with ID=edit
+</pre>
+
+So this is better:
+
+{% highlight ruby %}
+redirect_to session['intended_path'] #request.path stored earlier
+{% endhighlight %}
+
+Oh, and when they say to put this in your `ApplicationController`:
+
+{% highlight ruby %}
+before_filter :authenticate, :authorize, :except => [:login]
+{% endhighlight %}
+
+Do this instead:
+
+{% highlight ruby %}
+before_filter :authenticate, :authorize
+{% endhighlight %}
+
+...and then put this in specific Controllers where you need the exception:
+
+{% highlight ruby %}
+skip_before_filter :authenticate, :authorize, :only => [:login, :verify]
+{% endhighlight %}

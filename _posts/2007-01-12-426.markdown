@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_eaaa6476c60d74bf84303c93ff5d2f28: '{{unknown}}'
+  original_post_id: '426'
+  _wp_old_slug: '426'
+---
+Diana's been watching Alton Brown on Food Network.  This is a bad thing because it convinces her we need all kinds of kitchen gear.  It's a good thing because this week alone, I have enjoyed from-scratch cinnamon rolls, and this lovely little chili recipe:
+
+http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_28231,00.html

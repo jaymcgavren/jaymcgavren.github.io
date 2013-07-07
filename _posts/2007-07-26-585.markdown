@@ -1,0 +1,18 @@
+---
+layout: post
+title: Zyps 0.1.1
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '584'
+  original_post_id: '585'
+  _wp_old_slug: '585'
+---
+OK, Zyps 0.1.1 is at last released.  Here's the site...
+
+<a href="http://jay.mcgavren.com/zyps">http://jay.mcgavren.com/zyps</a> (now W3C-validated!)
+
+<a href="http://jay.mcgavren.com/zyps" title="Zyps site"><img src="http://jay.mcgavren.com/blog/wp-content/uploads/2007/07/zyps_site.thumbnail.png" alt="Zyps site" /></a>

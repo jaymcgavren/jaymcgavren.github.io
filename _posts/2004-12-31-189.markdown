@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '188'
+  _wp_old_slug: '188'
+---
+Been playing around with my GBA Movie Player, which I got not to play movies, but to emulate NES games.  I picked up a 512MB Compact Flash card ($50 minus a $30 Fry's Electronics gift certificate from Diana's folks) and a USB card reader, put some ROMs onto it (even with all my favorites, it only takes 10% of the space), and found that 75% of them didn't work.
+
+It was only then that I learned of the limitation that the player could only handle ROMs up to 200K in size, which rules out almost any NES game made after 1989.  Fortunately, I discovered that someone had written a special utility to compress ROMs, and had rewritten the PocketNES emulator to work with the special format.  Voila - almost everything works perfectly now.
+
+That gives me several dozen classic games on a single cartridge, and still leaves about 450 MB to use with the MP3 playback function.  Now if only I'd had this during my flight to Omaha a couple weeks ago...

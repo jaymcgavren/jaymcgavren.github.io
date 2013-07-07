@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '355'
+  _wp_old_slug: '355'
+---
+Hey, neat!  Google has introduced <a href="http://code.google.com/hosting/">hosting</a> for open-source projects, complete with Subversion repositories!  Getting started is a LOT simpler than with SourceForge, although they don't let you customize your project page much.
+
+Still, it's perfect for a small project.  As a trial run, I released <a href="http://itunes-perl.googlecode.com/svn/trunk/README.txt">my iTunes Perl control script</a> under the GPL.  (I'd been meaning to do it for months anyway.)  Project page is <a href="http://code.google.com/p/itunes-perl/">here</a>.

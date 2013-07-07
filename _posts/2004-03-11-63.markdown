@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_8353353f0b3da83f93f9739a6c209fb1: '{{unknown}}'
+  original_post_id: '63'
+  _wp_old_slug: '63'
+---
+Evidently Chris Rock is unaware of the new cell phone number portability regulations.  Here's an entertaining account from the woman who got his old number when he switched.
+
+http://www.laurasnyctales.com/current/chris-rock.html

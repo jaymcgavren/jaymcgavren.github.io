@@ -1,0 +1,28 @@
+---
+layout: post
+title: N64 tunes...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_785b95134f5f900c5643883282a7f568: '{{unknown}}'
+  _oembed_78dd695702d650aacfa7a8c1f0c39efe: '{{unknown}}'
+  _oembed_b862d9c9dfcaeefe79906cf362e74c77: '{{unknown}}'
+  original_post_id: '367'
+  _wp_old_slug: '367'
+---
+I'd always loved the music from Tetrisphere for the Nintendo 64 (no interest in the game, just the music), but the only copy I had was recorded from my PC's line-in port (noisy).  Tonight I discovered that I didn't even have that any more.
+
+Looks like the clever folks on the emulation scene have come to the rescue with the USF file format, which records N64 music from an emulator.  And some kind soul ripped Tetrisphere!
+
+http://www.zophar.net/usf
+
+Here's the Winamp player plugin:
+
+http://www.winamp.com/plugins/details.php?id=146609
+
+And though not directly related, here's a plugin to encode to MP3 (also useful with MODs and other game audio):
+
+http://out-lame.sourceforge.net/

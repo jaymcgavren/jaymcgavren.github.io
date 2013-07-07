@@ -1,0 +1,32 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '245'
+  _wp_old_slug: '245'
+---
+Just got this automated e-mail from our new Microsoft Project Server installation:
+
+&gt; Below are the latest schedule changes. Contact your project
+&gt; manager if there are any problems with the changes.
+&gt;
+&gt;
+&gt; Project: Admin Time Commercial Development Phoenix
+&gt; 2005-2006
+&gt; Assign to:
+&gt; -----------------------------------------------------------
+&gt; Task Name: Sick Request
+&gt; Start: Jun 1 '05   Finish: Jun 1 '05   Work: 2h      Rem
+&gt; Work: 2h
+&gt;
+&gt; Task Name: Bereavement
+&gt; Start: Jun 3 '05   Finish: Jun 3 '05   Work: 0h      Rem
+&gt; Work: 0h
+&gt; -----------------------------------------------------------
+
+Well, yeah, I do have one problem: the fact that I'm scheduled for bereavement!

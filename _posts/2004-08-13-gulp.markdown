@@ -1,0 +1,15 @@
+---
+layout: post
+title: Gulp...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '113'
+  _wp_old_slug: '113'
+---
+My name didn't appear, but my current project was among a handful of priority projects mentioned in a State of the Business letter BY THE CEO.
+
+So much for flying under the corporate radar.

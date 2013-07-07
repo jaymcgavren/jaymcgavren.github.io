@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1007'
+  original_post_id: '1194'
+  _wp_old_slug: '1194'
+---
+Just submitted a talk proposal for the next <a href="http://desertcodecamp.com">Desert Code Camp</a> at DeVry on June 13:
+
+<blockquote>Though many would argue it's far more elegant, Ruby was inspired in its early days in part by Perl.  That heritage means it's an awesome environment for text parsing, file manipulation, and many other tedious daily chores faced by every developer on earth (and their Aunt Tillie, too).
+
+This session will cover some of the powerful features of the standard Ruby library - utilities that may already be installed on your Linux or OS X machine (and can easily be added to Windows).  Learn to slice and dice files and directories, HTML, XML, shell commands, and more!</blockquote>

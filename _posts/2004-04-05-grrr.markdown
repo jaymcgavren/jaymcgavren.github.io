@@ -1,0 +1,13 @@
+---
+layout: post
+title: Grrr...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '76'
+  _wp_old_slug: '76'
+---
+Have to study up on Java Server Pages for a job interview with the Professional Services department Thursday.  Meanwhile, my mother calls me yesterday and tells me she's about to hop in the car for the drive down here.  (I had e-mailed her a few days ago telling her I'd need more warning.)  I yelled at her, of course, but then told her she could come anyway, if she delayed leaving an extra day to let me study.  :P  She should show up sometime Thurday.

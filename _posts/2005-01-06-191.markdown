@@ -1,0 +1,26 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_eb26992e9ed77881af5d0cfc48b1dab7: '{{unknown}}'
+  _oembed_4f17e90503aed8c3398cdfe6668b581b: '{{unknown}}'
+  _oembed_fcf034c17c160c33cd99277f56df6002: '{{unknown}}'
+  _oembed_54295277db996b9090da7ac1a13ff48f: '{{unknown}}'
+  original_post_id: '189'
+  _wp_old_slug: '189'
+---
+Here's another interesting unintended use for Google...  Evidently many Webcams have a feature that lets you view the feed from anywhere on the Web.  Unfortunately, said feeds are completely un-password-protected by default, letting anyone who knows the URL spy on you.  No problem; just don't give out the URL, right?
+
+Wrong.  Each camera has a standard script responsible for rendering the feed.  If you Google for the name of that script, you get a *huge* list of unsecured cameras.  Just click the link, and see who's on the other end.
+
+http://www.google.com/search?hl=en&amp;lr=&amp;safe=off&amp;c2coff=1&amp;q=inurl%3A%22MultiCameraFrame%3FMode%3D%22
+http://www.google.com/search?sourceid=mozclient&amp;ie=utf-8&amp;oe=utf-8&amp;q=inurl%3A%22ViewerFrame%3FMode%3D%22
+http://www.google.com/search?hl=en&amp;lr=&amp;q=inurl%3A%22view%2Findex.shtml%22&amp;btnG=Search
+http://www.google.com/search?q=inurl%3A%22axis-cgi%2Fmjpg%22&amp;btnG=Google
+
+Right now there's not much to see in North America (too dark/businesses are closed) so I'm watching someone's goldfish in China, and a coin laundry in Japan.

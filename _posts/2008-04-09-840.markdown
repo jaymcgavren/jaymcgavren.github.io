@@ -1,0 +1,27 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '765'
+  original_post_id: '840'
+  _wp_old_slug: '840'
+---
+<a href="http://joshuapang.ca/">Josh Pang</a> just published a site...  Check out the skater in the 3D models.
+
+Argh...  When I am king I will start a game company and hire all my friends.  Here's the roster:
+
+-Josh: Lead artist
+-Chihiro: Lead 2D artist
+-Nate: Design
+-Eric: Website design (duh)
+-Jeremy: Motion capture (and QA)
+-Joe: PR
+-Diana: Testing
+-Lenny: Lead developer (hey, I'm king and CEO, and he'll grow into the position)
+
+People don't do this in the real world because they would lose their friendships, marriage, and children after the first crunch.  But we're in my fantasy, so it will all work out.

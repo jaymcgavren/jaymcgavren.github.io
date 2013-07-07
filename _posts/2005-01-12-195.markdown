@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '193'
+  _wp_old_slug: '193'
+---
+Every blog on Earth is probably saying this right now, but I want one of the new $500 mini Macs SO bad.  Fortunately, I've just come into some money, so I think I can actually do it.

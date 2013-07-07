@@ -1,0 +1,32 @@
+---
+layout: post
+title: Physics...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1040'
+  original_post_id: '1255'
+  _wp_old_slug: '1255'
+---
+{% highlight ruby %}
+    set_manager :physics, create_game_object(:BasicPhysicsManager)
+
+    spawner = create :GameObject, :ReceivesEvents
+    load_keymap :MouseKeymap
+    spawner.handle_event :mouse_pressed do |message|
+      object = create :GameObject, :Physical
+      object.set_physical_debug_mode true
+      case rand(2)
+      when 0
+        object.set_shape :Box, 10, 5
+      when 1
+        object.set_shape :Circle, 10
+      end
+      object.body_position = message.value.pointer
+    end
+{% endhighlight %}
+
+Video <a href="http://www.vimeo.com/6190450">here</a>.

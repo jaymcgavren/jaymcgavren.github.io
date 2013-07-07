@@ -1,0 +1,19 @@
+---
+layout: post
+title: To Do...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '457'
+  _wp_old_slug: '457'
+---
+-Reach the top 10 on FreshMeat/SourceForge.
+-Give a talk at OSCON.
+-Get a book published by O'Reilly.
+-Have at least 10 developers ask for autographs of said book.
+-Have lunch with Yukihiro Matsumoto.
+
+...At least, that's the current plan.

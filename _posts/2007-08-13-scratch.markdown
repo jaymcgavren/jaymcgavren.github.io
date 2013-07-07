@@ -1,0 +1,18 @@
+---
+layout: post
+title: Scratch
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '593'
+  original_post_id: '598'
+  _wp_old_slug: '598'
+---
+<a href="http://scratch.mit.edu/">http://scratch.mit.edu/</a>
+
+Reminds me of Logo, but the turtle can be any sprite you want, there can be any number of turtles, and there's sound support and collision detection.  The language itself is cooler, too: I don't remember Logo having event handlers.
+
+Lenny wants to program a game with me, and I think this is what we'll be doing it in.

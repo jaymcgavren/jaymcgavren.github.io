@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '48'
+  _wp_old_slug: '48'
+---
+I'm getting a little tired of trying to figure out the difference between what people say they want and what they actually want...  My project manager talks on and on about how we must leave no line of code unturned in our reverse engineering.  A week later he pulls me aside and says I'm going into too much detail in my documentation.  :P
+
+I wasted a lot less effort when the only engineer I had to please was myself...

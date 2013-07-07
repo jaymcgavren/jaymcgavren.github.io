@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '697'
+  original_post_id: '737'
+  _wp_old_slug: '737'
+---
+Back from Omaha safe and sound.  Congratulations, Nate and Kara!
+
+I want to write more on friends, family, Rock Band, Fluxx, alcohol consumption, and a slew of other topics, but that will have to wait until I have some actual free time.

@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '318'
+  _wp_old_slug: '318'
+---
+"Find all movies directed by Kurosawa Akira, allowing search in Kanji or Romaji."
+
+That was the use case (think "wish list item") I came up with for my media server.  I had no idea at the time how I was going to implement it, but I wrote it down anyway.
+
+Well, I was going down the list, marking off the cases that could be implemented with my planned system, and my jaw dropped when I got this one.  My God!  I can do this!

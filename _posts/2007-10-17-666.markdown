@@ -1,0 +1,32 @@
+---
+layout: post
+title: cat and control-d...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '640'
+  original_post_id: '666'
+  _wp_old_slug: '666'
+---
+My latest way to make Windows play nice with Linux is to paste in files via the terminal.  I do:
+
+<pre>
+$ cat &gt; file.txt
+[pasted content]
+^D
+$</pre>
+
+That Control-D ends the file and puts me back at a prompt, with [pasted content] saved safely in file.txt.
+
+Well, I just realized the same thing will work with xargs.  I had some noisy terminal output that contained some file names I needed to delete.  I copied it out, pasted it to my favorite text editor, played around with it until only file names were left, and then did this:
+
+<pre>
+$ cat | xargs rm
+[pasted file names]
+^D
+$</pre>
+
+And voila - the files are gone.  I haven't used this (or xargs) extensively, so try at your own risk, but it seems to work nice so far.

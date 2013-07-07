@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_437fadf4cdce7fc9b6d499cd8d388955: '{{unknown}}'
+  original_post_id: '471'
+  _wp_old_slug: '471'
+---
+According to this article, foreign travel to the U.S. has fallen 17 percent since Sept 11, 2001, and not because of fears of terrorist attacks, but fears of overzealous security officials.
+
+http://www.nzherald.co.nz/section/2/story.cfm?c_id=2&amp;objectid=10436518
+
+As usual, hope comes from where the money is - the travel industry, which is currently lobbying for reform.

@@ -1,0 +1,18 @@
+---
+layout: post
+title: Chipmunk
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '783'
+  original_post_id: '862'
+  _wp_old_slug: '862'
+---
+I didn't really like that I was implementing my own collision detection and physics when so many other people were doing the same, and doing a better and faster job.  Behaviors were always the main thing Zyps brought to the table, and yet I wasn't getting to spend much time on them.
+
+<a href="http://wiki.slembcke.net/main/published/Chipmunk">Chipmunk</a> <em>might</em> someday fix that - it's a 2D physics engine.  You create a Body and place it into a Space (sound familiar?) and Chipmunk takes care of the interactions.  If I create a Behavior that simply positions the GameObject and assigns its Vector as the Chipmunk Body tells it to, I should be set.
+
+I'm not going to make it a Zyps dependency, though, nor am I even sure that ChipmunkBehavior will find its way into the main library.  ProximityCondition should fulfill the needs of the simplest games, and I'll probably point those who need something more robust in the direction of Chipmunk (or another physics engine).

@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1083'
+  original_post_id: '1384'
+  _wp_old_slug: '1384'
+---
+If your code base has .xsl files, and you sometimes confuse them with with the .xls files...  You might be a Java dev.

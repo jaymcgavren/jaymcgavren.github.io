@@ -1,0 +1,22 @@
+---
+layout: post
+title: ':)'
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1029'
+  original_post_id: '1234'
+  _wp_old_slug: '1234'
+---
+> from: jay
+> 
+> to: logan
+> 
+> subject: Gemini: Repulsive behavior...
+> 
+> 
+> 
+> No, not from me.  Well, it is from me.  But it's in the source code...  Oh, forget it.

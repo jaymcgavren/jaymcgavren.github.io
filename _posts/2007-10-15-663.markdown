@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '637'
+  original_post_id: '663'
+  _wp_old_slug: '663'
+---
+OK, Campfire Headphase is getting old, and Trans Canada Highway was little more than a teaser.  Where is the next Boards of Canada release?
+
+I haven't heard the loop on their <a href="http://www.boardsofcanada.com/discography.html">discography page</a> before - is that new?  (Yes, I really do need a fix that bad.)

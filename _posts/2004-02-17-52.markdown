@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '52'
+  _wp_old_slug: '52'
+---
+Like most geeks, I'm often called upon to solve technical problems by my co-workers.  But this one's new...  I just had someone ask me to explain the "there are only 10 types of people: those who understand binary, and those who don't" joke.  :P

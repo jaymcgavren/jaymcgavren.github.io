@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '836'
+  original_post_id: '933'
+  _wp_old_slug: '933'
+---
+Looks like my company has purchased a license for a commercial wiki to use internally.  Finally, a means of documenting database tables and applications that isn't too painful to actually use...  I'd been generating HTML from POD, and that was my unique solution - everyone else had their own.

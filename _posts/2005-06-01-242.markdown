@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '575'
+  original_post_id: '244'
+  _wp_old_slug: '244'
+---
+Dunno where I stumbled upon the review of Head First Design Patterns from O'Reilly, but after reading the sample chapter online, I knew I had to have it.  The style is easy to understand, condensed, and every bit as hyperactive as me (sidebars include conversations between Grasshopper and his master on the tao of object-oriented design, for example).
+
+One hour with the first chapter, and I already feel comfortable with the Strategy pattern, something I might not have accomplished in a week with the original Gang of Four book.  I also know how to make simulated ducks fly under rocket power as easily as with a pair of wings.  What more could you ask for?

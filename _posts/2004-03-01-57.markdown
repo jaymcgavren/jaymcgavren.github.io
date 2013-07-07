@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '57'
+  _wp_old_slug: '57'
+---
+In other items I couldn't have predicted a year ago: my car is here at work with a child seat strapped in the back.  :P  We took Lenny to the mall this weekend, and I forgot to take the seat out again.

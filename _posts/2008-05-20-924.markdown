@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '828'
+  original_post_id: '924'
+  _wp_old_slug: '924'
+---
+<a href="http://www.google.com/health">Google Health</a> - well, that's ballsy.  I'd hate to see Google sued out of existence over a service that's only barely in-scope for them, though.  I wouldn't touch the healthcare industry with a 10-foot pole.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '629'
+  original_post_id: '655'
+  _wp_old_slug: '655'
+---
+Just hacked my way through a gnarled jungle of shell script, SQL, and 4GL in a single day.  (I'd never have been able to keep it all in my head otherwise.)  Feeling pretty accomplished.
+
+Of course, a gnarled jungle of Java awaits me for the rest of the week as I try to design something that will play nice with my host app...

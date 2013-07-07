@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '445'
+  _wp_old_slug: '445'
+---
+Wow.  My inbox at work is actually <i>empty</i>.  Considering I'm a David Allen acolyte, this <i>should</i> be an everyday occurrence, but it hasn't been for months.
+
+It really is a relief, though.  Maybe this will motivate me to do the same at home.

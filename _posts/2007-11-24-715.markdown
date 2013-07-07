@@ -1,0 +1,42 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '681'
+  original_post_id: '715'
+  _wp_old_slug: '715'
+---
+Hmmm...
+
+{% highlight ruby %}
+		#Clear the background on the buffer.
+		graphics_context.rgb_fg_color = Gdk::Color.new(0, 0, 0)
+# 		buffer.draw_rectangle(
+# 			graphics_context,
+# 			true, #Filled.
+# 			0, 0, #Lower-left corner.
+# 			@width, @height #Upper-right corner.
+# 		)
+{% endhighlight %}
+
+<a href="http://jay.mcgavren.com/blog/archives/715/turn_chase_noerasepng/" rel="attachment wp-att-712" title="turn_chase_noerase.png"><img src="http://jay.mcgavren.com/blog/wp-content/uploads/2007/11/turn_chase_noerase.thumbnail.png" alt="turn_chase_noerase.png" /></a>
+
+Or...
+{% highlight ruby %}
+		@view = TrailsView.new(
+			:width => options[:view_width],
+			:height => options[:view_height])#,
+			<strong>:trail_length => 100</strong>
+		)
+{% endhighlight %}
+
+<a href="http://jay.mcgavren.com/blog/archives/715/turn_flee_100png/" rel="attachment wp-att-713" title="turn_flee_100.png"><img src="http://jay.mcgavren.com/blog/wp-content/uploads/2007/11/turn_flee_100.thumbnail.png" alt="turn_flee_100.png" /></a>
+
+<a href="http://jay.mcgavren.com/blog/archives/715/push_pull_100png/" rel="attachment wp-att-714" title="push_pull_100.png"><img src="http://jay.mcgavren.com/blog/wp-content/uploads/2007/11/push_pull_100.thumbnail.png" alt="push_pull_100.png" /></a>
+
+Definitely gonna put no-erase and trail length options into the GUI.  Hell, add a few effects, and it might be time to open an exhibition.

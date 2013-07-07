@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_fa4fde3a6256133440780638657a27f8: '{{unknown}}'
+  original_post_id: '390'
+  _wp_old_slug: '390'
+---
+http://www.dilbert.com/comics/dilbert/archive/dilbert-20061031.html

@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '66'
+  _wp_old_slug: '66'
+---
+Diana discovered my car's tilt steering lever this weekend - I'd been driving with the wheel practically scraping my knees.  I really need to RTFM.  :P

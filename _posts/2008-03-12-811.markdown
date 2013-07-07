@@ -1,0 +1,20 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '747'
+  original_post_id: '811'
+  _wp_old_slug: '811'
+---
+Been using GMail tags as my GTD folders, but that approach is showing its weaknesses...  Too many extra clicks to remove or recategorize something.
+
+I set up a free Nozbe account, but haven't done anything with it because I'm not about to re-add all my tasks to a platform I'm not even sure I want to use.  Fortunately, I just discovered their "add tasks by e-mail" feature.  I copied the subjects from the GMail tag summary page, appended an (@ context) and/or (P project) tag as appropriate, and boom - there they were in the appropriate section of Nozbe.
+
+Except that half got plopped in the generic inbox because the task line was too long.  They've promised to fix that, but my faith is now shaken, especially since individual categorization is going to be even worse than via GMail.
+
+<a href="http://www.nozbe.com/api/">The API</a> might be a cure.  I'll add a client to my personal library if I really start using Nozbe.

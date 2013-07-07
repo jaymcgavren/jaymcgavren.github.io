@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '799'
+  original_post_id: '885'
+  _wp_old_slug: '885'
+---
+The Zyps network code is fast morphing into a library that could synchronize objects and their properties in any two remote collections...  Hrmmm, like iTunes libraries...

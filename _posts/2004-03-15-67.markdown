@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '67'
+  _wp_old_slug: '67'
+---
+Layoffs in the IT department were just announced this morning.  Here's to Mark and Stan - good men with great skills who nonetheless got the axe.  Hope there's nobody else.

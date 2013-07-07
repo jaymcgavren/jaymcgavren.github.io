@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '369'
+  _wp_old_slug: '369'
+---
+JavaBeans says that if an object has a boolean attribute Foobar, then the getter method for that attribute must be named "isFoobar()" rather than "getFoobar()".  That makes sense, I guess.
+
+But when objects were designed without the intention of making them JavaBeans (such as XML Schema types that were converted to Java through code generators), you wind up with lovely names like "isOfferBreakfast()".
+
+Well, I suppose "getOfferBreakfast()" is misleading too.  :P  Maybe this whole notion of accessor methods is just plain wrong.  What we need is a language where you can specify onGet() and onSet() events for object attributes, and only in the rare cases they're needed.

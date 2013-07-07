@@ -1,0 +1,19 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '231'
+  _wp_old_slug: '231'
+---
+Diana and her mom are sharing a PC, and they're starting to have "roommate problems".  (Judy doesn't like the apps I install for Diana, etc.)  Since it's Judy's PC anyway, Diana was going to be the one kicked off.  Time to do something.
+
+We're on a tight budget, I set up an eBay automated search to find cheap laptops.  To avoid being outbid all the time, I configured it to only report auctions ending in less than an hour.
+
+The problem with that, I have since figured out, is that it leads to impulse purchases.  We got a laptop for a measly 80 bucks (shipped), but it's only a Pentium, so I doubt it can run anything later than Windows 95.  Not only that, it has *no Ethernet port*.  I have to hunt around and see if anyone still sells adapter cards.
+
+I think I may have just wasted 80 bucks, and the thing hasn't even arrived yet.  Now I have to decide if I'll waste even more of my time trying to make it work (Linux? Thin clients?), or if I'll bite the bullet and go buy her a *real* PC.  Lenny might be getting a laptop for his birthday.

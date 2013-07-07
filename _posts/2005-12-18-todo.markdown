@@ -1,0 +1,25 @@
+---
+layout: post
+title: TODO...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '572'
+  original_post_id: '295'
+  _wp_old_slug: '295'
+---
+jay@MIDORI:F:workzyps
+$ rgrep TODO .
+.design.txt: Address all TODO items.
+.design.txt:  //TODO: Draw GameObjects with trails!
+.design.txt:#    //TODO: If the difference is greater than the number of milliseconds per cycles, skip frames.
+.design.txt:  //TODO: Consider whether to test if this object is destroyed first.
+.sourcenetsourceforgezypsactionsapproachaction.java:  //TODO: Goes in wrong direction when adjusting from a 315 degree velocity angle to a 90 degree target.
+.sourcenetsourceforgezypsviewsbasicgraphicview.java:  //TODO: Clear the canvas.
+.sourcenetsourceforgezypssimulation.java:     exception.printStackTrace(); //TODO: Determine whether to do anything else here!
+.sourcenetsourceforgezypssimulation.java:   //TODO: If the difference is greater than the number of milliseconds per cycle, skip frames.
+.testnetsourceforgezypsenvironmenttest.java:  //TODO: Add environmental factor.
+.testnetsourceforgezypsactionsapproachactiontest.java:  //TODO: Make it so you don't have to.  (Or do you already not have to?)

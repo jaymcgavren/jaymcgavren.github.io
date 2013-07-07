@@ -1,0 +1,29 @@
+---
+layout: post
+title: Grrrr...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '114'
+  _wp_old_slug: '114'
+---
+My technical design document:
+
+If the file cannot be opened, call the Error method of the Log Manager with the message "Could not open [file name] for reading." and return an error value.
+
+The Indian developer's code:
+
+$log-&gt;error("Could not open [$file] for reading and return an error value")
+
+Look, I'm impressed that they know as much English as they do (by and large).  But that doesn't mean they know enough to be used for outsourcing.
+
+And then they're making mistakes that I wouldn't make no matter *what* my native language is.  Here's one example:
+
+elsif(($response =~ /HTX000F0/) || ($response =~ /HTX160F0/) || ($response =~ /HTX000F0/) || ($response =~ /HTX161F0/) || ($response =~ /UTX1XXF0/) || ($response =~ /HTX000F0/))
+
+Never mind the illegibility of that statement for a moment; why did they test for the same value *three times*?
+
+It would have been a *lot* easier (and cheaper) to just code this myself.

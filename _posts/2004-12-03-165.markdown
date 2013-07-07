@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '164'
+  _wp_old_slug: '164'
+---
+This is a test post from the FireFox "search" plugin I just wrote.  It sucks having to type an entry in such a tiny box (and there's no mood or music options), but it might be good for quick posts.
+
+<b>Edit:</b> Whoops; it's not working so good.  It fills in the form, but I have to submit it manually.  Oh, well.  I should just get a paid account so I can post by e-mail...

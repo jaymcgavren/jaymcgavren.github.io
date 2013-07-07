@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '610'
+  original_post_id: '627'
+  _wp_old_slug: '627'
+---
+Maybe I'm falling for a ploy to generate links, but...  At Dave and Buster's on Monday night, omahanightlife.com had a couple people going through snapping photos.  They asked to take ours (we were practically the only people in there, after all), and we obliged.  (Though you can't even tell I'm in the resulting photo...)
+
+<a href="http://omahanightlife.com/gallery2/v/091007_daveandbusters/DSC01256.jpg.html">A winner is us!</a>

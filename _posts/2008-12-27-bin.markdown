@@ -1,0 +1,449 @@
+---
+layout: post
+title: ~/bin
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '977'
+  original_post_id: '1143'
+  _wp_old_slug: '1143'
+---
+OK, just finished porting my toolbox to OS X.  I've gotten rid of all those dumb text files and generators, as they were really only needed under Windows.
+
+I ported some stuff to take advantage of my Ruby utilities library, and threw out a lot of cruft.  Here's what made the cut...
+
+<!--more-->
+
+`am`
+
+<pre>
+#!/bin/sh
+twtr up -m "$1"
+</pre>
+
+`append`
+
+<pre>
+#!/usr/bin/ruby
+require 'utility'
+
+puts Util.new.get_piped_data.append(ARGV.join(' '))</pre>
+
+`clipboard`
+
+<pre>
+#!/usr/bin/ruby
+require 'utility'
+
+input = Util.new.get_piped_data
+if input
+  IO.popen('pbcopy', 'w').print(input)
+else
+  puts `pbpaste`
+end
+</pre>
+
+`date`
+
+<pre>
+#!/usr/bin/ruby
+require 'utility/enhancements'
+puts Time.new.format_date
+</pre>
+
+`date_time`
+
+<pre>
+#!/usr/bin/ruby
+require 'utility/enhancements'
+puts Time.new.format
+</pre>
+
+`define`
+
+<pre>
+#!/bin/bash
+open http://dictionary.reference.com/search?q=$(echo $@ | sed 's/ /+/g')
+</pre>
+
+`delete`
+
+<pre>
+#!/usr/bin/ruby
+require 'utility'
+
+util = Util.new
+storage = util.load(:storage)
+storage.delete(ARGV.join(' '))
+util.save(:storage, storage)
+</pre>
+
+`email`
+
+<pre>
+#!/usr/bin/ruby
+
+require 'utility'
+
+util = Util.new
+util.parse_rfc822(util.get_piped_data).send
+</pre>
+
+`event`
+
+<pre>
+#!/usr/bin/ruby
+require 'utility'
+
+file = File.open(File.join(ENV['HOME'], "events.txt"), "a")
+file.puts "#{Time.new.format}t#{ARGV.join(' ')}"
+</pre>
+
+`find_movie`
+
+<pre>
+#!/bin/bash
+open "http://www.netflix.com/Search?v1=$(echo $@ | sed 's/ /+/g')"
+</pre>
+
+`find_show`
+
+<pre>
+#!/bin/bash
+open "http://www3.tivo.com/tivo-tco/search.do?searchFor=$(echo $@ | sed 's/ /+/g')&amp;dispatch=simplesearch&amp;searchCategory=&amp;x=0&amp;y=0"</pre>
+
+`get`
+
+<pre>
+#!/bin/bash
+scp -r $@ ~/Downloads
+</pre>
+
+`group_rename`
+
+<pre>
+#!/usr/bin/ruby
+
+require 'utility'
+require 'fileutils'
+
+#Get options.
+usage = "Usage: group_rename.rb expression filesn"
+expression = ARGV.empty? ? raise(usage) : ARGV.shift
+globs = ARGV.empty? ? raise(usage) : ARGV
+
+#For each file in expanded globs:
+globs.each do |glob|
+	Dir.glob(glob).each do |path|
+		#Evaluate the expression.
+		new_path = eval "path.#{expression}"
+		#If the resulting filename is identical to the current filename, skip it.
+		next if path == new_path
+		#If filenames differ only in case, move it to temp file first.
+		if path.downcase == new_path.downcase
+			FileUtils.mv(path, path + ".tmp")
+			FileUtils.mv(path + ".tmp", new_path)
+		#Otherwise, simply move file.
+		else
+			FileUtils.mv(path, new_path)
+		end
+	end
+end
+</pre>
+
+`indent_xml`
+
+<pre>
+#!/usr/bin/ruby
+
+require 'utility'
+
+puts Util.new.get_piped_data.indent_xml
+</pre>
+
+`interpolate`
+
+<pre>
+#!/usr/bin/ruby
+
+require 'utility/all'
+
+print Util.new.get_piped_data.interpolate
+</pre>
+
+`list`
+
+<pre>
+#!/usr/bin/ruby
+require 'utility'
+
+util = Util.new
+print util.load(:storage).keys.sort.join("n")
+</pre>
+
+`load`
+
+<pre>
+#!/usr/bin/ruby
+require 'utility'
+
+util = Util.new
+print util.load(:storage)[ARGV.join(' ')]
+</pre>
+
+`locate`
+
+<pre>
+#!/bin/bash
+open "http://local.google.com/local?q=$(echo $@ | sed 's/ /+/g')&amp;near=[my+address]"
+</pre>
+
+`lower_case`
+
+<pre>
+#!/usr/bin/ruby
+
+STDIN.each{|l| puts l.downcase}
+</pre>
+
+`newsgroup`
+
+<pre>
+#!/bin/bash
+open "http://groups.google.com/group/$(echo $@ | sed 's/ /+/g')"
+</pre>
+
+`nohup.out`
+
+<pre>
+</pre>
+
+`note`
+
+<pre>
+#!/usr/bin/ruby
+
+require 'utility'
+
+util = Util.new
+Utility::Email::Email.new(
+	:senders =&gt; [util.load(:home_email)],
+	:recipients =&gt; [util.load(:home_email)],
+	:subject =&gt; "Note: #{ARGV.join(' ')}",
+	:body =&gt; util.get_piped_data
+).send
+</pre>
+
+`one_line`
+
+<pre>
+#!/usr/bin/ruby
+require 'utility'
+
+puts Util.new.get_piped_data.one_line
+</pre>
+
+`prepend`
+
+<pre>
+#!/usr/bin/ruby
+require 'utility'
+puts Util.new.get_piped_data.prepend(ARGV.join(' '))
+</pre>
+
+`quote`
+
+<pre>
+#!/bin/bash
+wrap 60 | prepend "&gt; "</pre>
+
+`reminder`
+
+<pre>
+#!/usr/bin/ruby
+
+require 'utility'
+
+util = Util.new
+Utility::Email::Email.new(
+	:senders =&gt; [util.load(:home_email)],
+	:recipients =&gt; [util.load(:home_email)],
+	:subject =&gt; "Reminder: #{ARGV.join(' ')}",
+	:body =&gt; util.get_piped_data
+).send
+</pre>
+
+`rgrep`
+
+<pre>
+#!/bin/bash
+find "$2" -type f -exec grep --with-filename "$1" "{}" ;
+</pre>
+
+`run_erb`
+
+<pre>
+#!/usr/bin/ruby
+require 'utility'
+
+print Util.new.get_piped_data.run_erb</pre>
+
+`save`
+
+<pre>
+#!/usr/bin/ruby
+require 'utility'
+
+util = Util.new
+storage = util.load(:storage) || {}
+storage[ARGV.join(' ')] = util.get_piped_data
+util.save(:storage, storage)
+</pre>
+
+`search`
+
+<pre>
+#!/bin/bash
+open http://www.google.com/search?q=$(echo $@ | sed 's/ /+/g')&amp;num=100
+</pre>
+
+`search_code`
+
+<pre>
+#!/bin/bash
+open http://www.google.com/codesearch?as_q=$(echo $@ | sed 's/ /+/g')&amp;num=100
+</pre>
+
+`shop`
+
+<pre>
+#!/bin/bash
+open http://froogle.google.com/froogle?q=$(echo $@ | sed 's/ /+/g')&amp;num=100</pre>
+
+`shorthand`
+
+<pre>
+#!/usr/bin/ruby
+require 'utility'
+print Util.new.get_piped_data.shorthand</pre>
+
+`split_into`
+
+<pre>
+#!/bin/bash
+#Splits a file into X-byte chunks.
+#Usage: split_into nnn[k|m] file
+split -b$1 $2 $2
+</pre>
+
+`subfolders_by_exif_date`
+
+<pre>
+#!/usr/bin/ruby
+
+require 'fileutils'
+require 'exifr'
+
+ARGV.each do |file|
+	begin
+		date = EXIFR::JPEG.new(file).date_time_original
+		dir = sprintf('%04d-%02d-%02d', date.year, date.month, date.mday)
+		Dir.mkdir(dir) unless File.exist?(dir)
+		FileUtils.mv(file, dir)
+	rescue =&gt; exception
+		abort "Error processing #{file}: " + exception.message + "n" + exception.backtrace.join("n")
+	end
+end
+</pre>
+
+`upper_case`
+
+<pre>
+#!/usr/bin/ruby
+
+STDIN.each{|l| puts l.upcase}
+</pre>
+
+`utility`
+
+<pre>
+#!/bin/sh
+ruby -rutility -e "$1"</pre>
+
+`wikipedia`
+
+<pre>
+#!/bin/bash
+open http://en.wikipedia.org/wiki/Special:Search?search=$(echo $@ | sed 's/ /+/g')
+</pre>
+
+`work_note`
+
+<pre>
+#!/usr/bin/ruby
+
+require 'utility'
+
+util = Util.new
+Utility::Email::Email.new(
+	:senders =&gt; [util.load(:home_email)],
+	:recipients =&gt; [util.load(:work_email)],
+	:subject =&gt; "Note: #{ARGV.join(' ')}",
+	:body =&gt; util.get_piped_data
+).send
+</pre>
+
+`work_reminder`
+
+<pre>
+#!/usr/bin/ruby
+
+require 'utility'
+
+util = Util.new
+Utility::Email::Email.new(
+	:senders =&gt; [util.load(:home_email)],
+	:recipients =&gt; [util.load(:work_email)],
+	:subject =&gt; "Reminder: #{ARGV.join(' ')}",
+	:body =&gt; util.get_piped_data
+).send
+</pre>
+
+`wrap`
+
+<pre>
+#!/opt/local/bin/perl
+
+#Get command line options.
+$wrap_column = $ARGV[0] || 60;
+
+#Set up text wrap options.
+use Text::Wrap;
+use Text::Tabs;
+$Text::Wrap::columns = $wrap_column;
+
+#Process each input line.
+LINE: while () {
+
+	#Clean up line.
+	chomp;
+
+	#Get existing indentation to use on subsequent lines.
+	if (/^(s+)/) {$indentation = $1}
+	else {$indentation = undef}
+
+	#Wrap text and print.
+	print expand(wrap(undef, $indentation, $_)) . "n";
+
+}
+</pre>
+
+`zyps_download_count`
+
+<pre>
+#!/bin/bash
+curl --silent http://gems.rubyforge.org/stats.html | grep zyps
+</pre>

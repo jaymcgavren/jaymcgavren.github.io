@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '896'
+  original_post_id: '1025'
+  _wp_old_slug: '1025'
+---
+Finally, finally in communication with the vendor's web service in production.  What an amazingly painful process.  I freaking hate SSL in Java.

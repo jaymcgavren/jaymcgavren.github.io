@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '228'
+  _wp_old_slug: '228'
+---
+SNES game music is back in my playlist.  I'm revisiting SPC plugins for Winamp, and they're actually really well-integrated now; you can edit a track's info and even rate it in the Library.  Currently stuck in my head are tracks from Chrono Trigger, Secret of Mana/Seiken Densetsu 2, and SoulBlazer.
+
+I'm also starting to catch the podcasting wave.  With so much IT news out there to review, the ability to cram it into my 1.5 hours of otherwise-wasted commute time each day is verrry tempting.  There aren't many quality 'casts right now, but a notable exception is <a href="http://slashdotreview.com/">Slashdot Review</a>.  Instead of a stream of uhs, ums, and ers as they try to think up what to talk about next, SR simply takes major Slashdot stories from the day and summarizes them in an audio format.  Simple and useful.  Now if only there were similar feeds for GizModo, GameSpot, and Yahoo! News...

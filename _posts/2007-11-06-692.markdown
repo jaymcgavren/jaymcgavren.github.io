@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '664'
+  original_post_id: '692'
+  _wp_old_slug: '692'
+---
+I shouldn't have gone to work today with my cough, and Lenny shouldn't have gone to school with his.  Neither of us is in bad enough shape to stay home for our own sake, but I hope we don't get anyone sick.

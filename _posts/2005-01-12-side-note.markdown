@@ -1,0 +1,13 @@
+---
+layout: post
+title: Side note...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '192'
+  _wp_old_slug: '192'
+---
+I'm sitting here in my cube at work, and I just pulled a pacifier out of my pocket.  (I had to tuck it in there earlier this morning to hide it from Lenny, since we're trying to wean him off them again.)

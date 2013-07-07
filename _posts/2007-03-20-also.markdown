@@ -1,0 +1,14 @@
+---
+layout: post
+title: Also...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '449'
+  _wp_old_slug: '449'
+---
+&gt; [wscompile] invalid element "configuration" in
+&gt; configuration file (line 2)

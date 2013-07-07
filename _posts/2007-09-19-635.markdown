@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '635'
+  _wp_old_slug: '635'
+---
+This is a test post to see if new LiveJournal entries will show up on Judy's friends page.  So far, they don't.
+
+<em>Edit: Fixed!</em>

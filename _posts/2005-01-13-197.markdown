@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '195'
+  _wp_old_slug: '195'
+---
+Currently fumbling through <u>Advanced Perl Programming</u> to correct an obscure network sockets problem in a program I've had running in production for 3 years now.  This bug potentially affects all communications the program makes.  Needless to say, I'm a bit nervous.

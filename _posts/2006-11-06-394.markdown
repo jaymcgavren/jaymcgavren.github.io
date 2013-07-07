@@ -1,0 +1,24 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '407'
+  _wp_old_slug: '407'
+---
+&gt; Glen and April's house
+&gt; You're in Glen and April's house.
+&gt;
+&gt;  ( 2) A small straw torch sits here.
+&gt;       A hooded lantern sits here.
+&gt;       A boat is docked here.
+&gt; A dog looks at you and whimpers excitedly.
+&gt; Glen is here.
+&gt; An angry Orc marches around.
+&gt; A mean looking troll glares at you.
+&gt; You see Glen here.
+&gt; A dog looks at you and whimpers excitedly.

@@ -1,0 +1,20 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '591'
+  original_post_id: '593'
+  _wp_old_slug: '593'
+---
+Went shopping for a birthday gift today, and realized a few things...
+
+-I haven't been to a shopping mall in about a year.
+-The main purpose of malls seems to be for teenagers to walk around trying to look pretty and/or tough.  (This is common knowledge, of course, but it only sank in today.)
+-Malls contain things I don't want to buy at prices I'm not willing to pay.
+
+This year, I'm gonna start my Christmas shopping early enough that I can just order everything from Amazon.

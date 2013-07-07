@@ -1,0 +1,21 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '59'
+  _wp_old_slug: '59'
+---
+The Windows ports of a lot of open source software are starting to get really good.  I'd passed OSS up before, but now I'm giving it another look.  A few packages that seem promising:
+
+Mozilla Firefox - tabbed Web browser.  It's already replaced Internet Explorer as my default.
+Mozilla Thunderbird - e-mail client.  I'm having some trouble with dates on the Outlook import, but once those are rectified I'm going to switch to this.
+Lynx - text-only Web browser.  Useful when you want to read news without a bunch of ad clutter.
+Image Magick - command line utilities for image manipulation.  Improve the contrast, boost the color, crop and resize your images en masse.
+Audacity - audio editor.  Haven't tried this yet, but it looks to be nearly as good as SoundForge.
+
+It's getting to where you don't really need to pirate expensive professional software to get professional results.  Closed-source still tends to have a bit more polish and usability at this point, but the gap seems to be closing.

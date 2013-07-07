@@ -1,0 +1,14 @@
+---
+layout: post
+title: Fluxx...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '700'
+  original_post_id: '741'
+  _wp_old_slug: '741'
+---
+Glen and April broke this out at Dad's.  It's Uno for big kids, with constantly changing rules.  If you play well you can not only deny your opponents the win, you can do it in ironic and knife-twisting ways.  Just ordered our set off Amazon.

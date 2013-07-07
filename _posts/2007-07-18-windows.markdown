@@ -1,0 +1,16 @@
+---
+layout: post
+title: '%$#@ Windows...'
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '576'
+  original_post_id: '572'
+  _wp_old_slug: '572'
+---
+I just slashed all the stuff to build a Windows executable and installer from the Zyps rakefile.  It's now less than half the size.
+
+I'm still going to offer an executable installer, but I'm moving all that cruft out of the main repository.  Linux and Mac users don't need the pollution.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '948'
+  original_post_id: '1093'
+  _wp_old_slug: '1093'
+---
+SMSed a bunch of people to get out and vote; a bunch have already responded that they're done.
+
+I hear poll lines are huge in Phoenix; Mesa's less so.  Moot point for Diana and I, as we're signed up to get ballots by mail.  (Arizonans can request that service <a href="https://recorder.maricopa.gov/earlyvoteballotnet/permanentevlist.aspx">here</a>.)

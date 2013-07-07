@@ -1,0 +1,19 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '41'
+  _wp_old_slug: '41'
+---
+My project manager is originally from India (I think), and while his English is quite good, it's not perfect...  He was planning to call me later, so he told me he'd "give me a tinkle".  :P
+
+That was funny, but communicating with the Chinese guy on our team is definitely not - his accent makes him really hard to understand, it takes him forever to get a point across in meetings, and the XML specification he made for us recently (which we'll have to publish to customers eventually) was riddled with misspellings.
+
+These are both really smart people, but there is definitely a language barrier.
+
+Welcome to the world of international business.  :P

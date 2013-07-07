@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '579'
+  original_post_id: '575'
+  _wp_old_slug: '575'
+---
+It would be a lot easier to tolerate working in this spaghetti Informix 4GL code and hand-coded SQL if I was not familiar with Active Record.

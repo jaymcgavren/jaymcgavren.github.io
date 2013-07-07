@@ -1,0 +1,30 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '254'
+  _wp_old_slug: '254'
+---
+From the AudioScrobbler listener group <a href="http://www.audioscrobbler.com/group/Radioheads_Not_Our_Top_Artist">Radioheads_Not_Our_Top_Artist</a>:
+
+&gt; We don't hate Radiohead. We just think it's weird that they
+&gt; are the number one artist of practically everyone using
+&gt; audioscrobbler (English speakers, anyway.)
+&gt;
+&gt; So, the only prerequisite for joining this group is that
+&gt; your #1 Top Artist isn't Radiohead.
+
+And here's their artist statistics...
+
+Weekly Artist Chart
+Week prior to Jul 17, 2005, 05:00
+1 	Radiohead
+2 	Coldplay
+3 	The Beatles
+4 	The White Stripes
+...

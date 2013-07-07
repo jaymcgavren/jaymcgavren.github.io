@@ -1,0 +1,21 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '249'
+  _wp_old_slug: '249'
+---
+I'm driving home last night, listening to a tech news program.  I'm pretty spaced out after a hard day's work, so basically what I hear from the stereo is this:
+
+blah blah blah blah Jay McGavren blah blah blah blah...
+
+What the?!  I actually swerved a little bit.  Why was my name on the radio?
+
+Well, the tech news program was actually a podcast, SlashDot Review, burned to CD and playing through my MP3 CD player.  And my name was on there because I had donated to them the week before (to help with their considerable bandwidth costs), and I was selected at random for thanks "on the air".
+
+The production value for this show is good enough that one can forget it's not radio.  Just don't let that catch you off guard...

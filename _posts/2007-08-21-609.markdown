@@ -1,0 +1,50 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '601'
+  original_post_id: '609'
+  _wp_old_slug: '609'
+---
+OK, I've been playing around with Ruby's YAML library, and have confirmed that I need to take Procs out of Zyps.  YAML has no problem serializing a Proc, but the moment it tries to load it again, I'm hit with:
+
+<pre>Error: allocator undefined for Proc</pre>
+
+This is probably why things blew up when I experimented with setting up a server with DRb (which I believe sends YAML over the wire).  Everything was fine until I created a creature with a Behavior.  Never got a real error from that, though; it just locked up.
+
+:::sigh:::  Too bad, Procs are such a cool idea...  I should probably be blaming the YAML and DRb libraries instead, but I need them more than I need Procs.
+
+
+<!--more-->
+
+{% highlight ruby %}
+- !ruby/object:Creature
+  behaviors:
+  - !ruby/object:Demo::Eat
+    actions: []
+
+    conditions: []
+
+    environment: *id001
+  birth_time: 1187737093.55
+  color: !ruby/object:Color
+    blue: 0
+    green: 1
+    red: 0
+  identifier: 40776432
+  location: !ruby/object:Location
+    x: 0
+    y: 150
+  name:
+  size: 157.0
+  tags: []
+
+  vector: !ruby/object:Vector
+    pitch: 0.0
+    speed: 10
+{% endhighlight %}

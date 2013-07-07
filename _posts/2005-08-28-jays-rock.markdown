@@ -1,0 +1,13 @@
+---
+layout: post
+title: Jay's Rock
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '267'
+  _wp_old_slug: '267'
+---
+.flickr-photo { border: solid 1px #000000; }.flickr-frame {	float: right; text-align: center; margin-left: 15px; margin-bottom: 15px; }.flickr-caption { font-size: 0.8em; margin-top: 0px; }<div class="flickr-frame">	<a href="http://www.flickr.com/photos/nephariuz/23978781/" title="photo sharing"><img src="http://photos18.flickr.com/23978781_6ff249e16d_t.jpg" class="flickr-photo" alt="Jay's Rock" /></a><br />	<span class="flickr-caption">		<a href="http://www.flickr.com/photos/nephariuz/23978781/">Jay's Rock</a>,<br /> originally uploaded by <a href="http://www.flickr.com/people/nephariuz/">nephariuz</a>.	</span></div>I'm sure this balancing rock on a dirt road on the northern shore of Lake Powell has another, official name, but I'm betting not many people know it.  We dubbed it Jay's Rock, because I scrambled out of the car and across the brushy sand to get to it for this photo.<br />

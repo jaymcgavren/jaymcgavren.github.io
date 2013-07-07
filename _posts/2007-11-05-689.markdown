@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '661'
+  original_post_id: '689'
+  _wp_old_slug: '689'
+---
+Aza Raskin mentions in his Google talk that he often demonstrates killing explorer.exe and running off of just Enso...  Seems to work pretty good so far, exceprt for the annoying hole at the bottom of the screen where my taskbar should be.
+
+Been playing around with their Developer Prototype, but I'm having a <em>lot</em> of grief so far getting it to work with Ruby XMLRPC.  The demo on the Wiki works fine, but I get communication errors with my own stuff.  I'm sure I'd be done troubleshooting already if I had more time available...

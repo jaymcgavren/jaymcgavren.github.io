@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '686'
+  original_post_id: '723'
+  _wp_old_slug: '723'
+---
+CNN was on the TV in the cafeteria, and I looked up and saw the ticker: "Hostage Situation at Clinton Campaign Office".  There was no audio, so I asked the lady behind the counter, "Did Hillary finally snap?"

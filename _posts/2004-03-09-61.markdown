@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '61'
+  _wp_old_slug: '61'
+---
+Just got my copy of Links 2004.  Not too impressed with the graphics or the cheesy Matrix effects when you get a nice hit, but it's fun to play...
+
+What I really enjoy, though, is playing a course that's just a few miles from Diana's house, with mountain ranges I see on my daily commute in the background.  Hell, I might even go play the real course (after a few trips to the driving range), just so I can see the differences between that and the game.  Dunno what it is, but I love seeing the real world pixelized.

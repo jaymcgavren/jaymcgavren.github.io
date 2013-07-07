@@ -1,0 +1,51 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '732'
+  original_post_id: '781'
+  _wp_old_slug: '781'
+---
+Hrmmm...
+
+Wrote a script to scrape and tally the number of added/changed lines per day from the Zyps repository...
+
+<!--more-->
+
+{% highlight ruby %}
+require 'utility'
+
+def main
+	url = ARGV[0]
+	start_date = Utility.parse_date(ARGV[1]) #Date.new(2007, 12, 01)
+	end_date = Utility.parse_date(ARGV[2]) #Date.new(2008, 02, 19)
+	(start_date .. end_date).each do |date|
+		today = format_date(date)
+		tomorrow = format_date(date.succ)
+		STDERR.puts(today)
+		begin
+			result = Utility.run "svn diff -r {#{today}}:{#{tomorrow}} #{url}"
+		rescue
+			retry
+		end
+		puts today + "t" + result.split(/n/).grep(/^+/).length.to_s
+	end
+end
+
+def format_date(date)
+	sprintf("%04d-%02d-%02d", date.year, date.month, date.day)
+end
+
+main
+{% endhighlight %}
+
+And here's the result:
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2008/02/swvl_pltcs_26630923_1203463526_42899.png' title='swvl_pltcs_26630923_1203463526_42899.png'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2008/02/swvl_pltcs_26630923_1203463526_42899.thumbnail.png' alt='swvl_pltcs_26630923_1203463526_42899.png' /></a>
+
+...kinda tapering off toward the end there.  Now if only I could be sure whether it's the natural result of having a stable code base that I'm reluctant to change, or my productivity dropping...

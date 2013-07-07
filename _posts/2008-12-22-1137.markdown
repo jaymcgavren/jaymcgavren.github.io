@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '973'
+  original_post_id: '1137'
+  _wp_old_slug: '1137'
+---
+So many of our websites and applications and business processes share at least some of the same functionality.  So many of them have redundant implementations that aren't versatile enough to re-use.  If we could <em>somehow</em> reduce that redundancy...  I think the benefits of the reduced maintenance cost would completely offset the drop in performance.

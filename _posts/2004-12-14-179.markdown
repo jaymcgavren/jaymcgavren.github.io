@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '178'
+  _wp_old_slug: '178'
+---
+So the program blew up when we tried to install it Monday.  Now I have to worry about fixing the bugs, whether they'll can the project, and whether they'll lay me off if they do so.  I can't sit down and think about it because I've also got last minute shopping and preparations for the trip to worry about.  I didn't get to sleep until 2 AM for the last two nights in a row.  I am not happy.

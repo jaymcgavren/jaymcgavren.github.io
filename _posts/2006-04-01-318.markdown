@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '317'
+  _wp_old_slug: '317'
+---
+You videophiles in the audience will be pleased to know that Lenny prefers to watch his movies in widescreen.  ("I want the black bars!")

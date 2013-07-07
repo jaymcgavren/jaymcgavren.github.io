@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '32'
+  _wp_old_slug: '32'
+---
+Tim Berners-Lee has been <a href="http://news.bbc.co.uk/1/hi/technology/3357073.stm">knighted</a> for his invention of the World Wide Web.  This puts him in the company of Sir Isaac Newton, among others, and I'd say he deserves it.
+
+As far as I know, Sir Berners-Lee still drives an old Volkswagen to work every day, though.  :)

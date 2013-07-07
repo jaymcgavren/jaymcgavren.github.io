@@ -1,0 +1,44 @@
+---
+layout: post
+title: Anarchy...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '264'
+  _wp_old_slug: '264'
+---
+From: 	XXXXXX, Jay
+Sent:	Tuesday, August 23, 2005 3:51 PM
+To:	XXXXXX, Evelyn
+Cc:	XXXXXX, Nate
+Subject:	FW:
+
+Evelyn,
+
+Nate has the failover setup ready to go.  I'll let him get in touch with you about docs when they're ready.
+
+-Jay
+
+
+From: 	XXXXXX, Evelyn
+Sent:	Tuesday, August 23, 2005 3:53 PM
+To:	XXXXXX, Jay
+Cc:	XXXXXX, Nate; XXXXXX, Jo Ann
+Subject:	RE:
+
+Great
+I knew he would have it under control.
+
+
+From: 	XXXXXX, Nate
+Sent:	Tuesday, August 23, 2005 3:54 PM
+To:	XXXXXX, Evelyn; XXXXXX, Jay
+Cc:	XXXXXX, Jo Ann
+Subject:	RE:
+
+That's funny!  If this is control, I'd hate to see chaos...
+
+Nate

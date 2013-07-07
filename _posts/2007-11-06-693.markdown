@@ -1,0 +1,47 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '665'
+  original_post_id: '693'
+  _wp_old_slug: '693'
+---
+<a href="http://www.apple.com/macosx/features/300.html">Apple - Mac OS X Leopard - Features - 300+ New Features</a>
+
+Spaces (and of course Time Machine) are probably the most interesting parts...  No one else has implemented multiple desktops quite right yet.  They don't say whether a specific key combination can be assigned to always go to a specific workspace, though.
+
+<!--more-->
+
+<blockquote>
+UI Recording and Playback
+Add even more capabilities to your workflows. Use a new action called Watch Me Do that lets you record a user action (like pressing a button or controlling an application without built-in Automator support) and replay as an action in a workflow.
+
+Command-Line Utility for Automator
+Gain access to other languages for running Automator workflows, as well as the ability to set the initial value of variables contained in the targeted workflow.
+
+Workflow Variables
+Automate more productively by creating workflows that can store and retrieve data during execution. Workflow Variables let you use the same information at different steps of the workflow, giving you added functionality and flexibility.
+
+Time Limits and Bedtimes
+Control exactly how much time your children spend with the computer each day. Limit total daily usage and define hours the computer can or can't be used (set differently for weekdays and weekends). Built-in flexibility allows you to make adjustments on the fly as schedules and schoolwork change.
+
+Application Binding
+Assign an application to a specific space. Anytime you run that application, it will open in its assigned space.
+
+Spotlight Application Launching
+Launch applications quicker. The Spotlight default item is now the Top Hit, so if you search for an application, all you have to do is press Return to launch it.
+
+Merge All Windows
+Combine all your open Terminal windows into a single window with multiple tabs.
+
+Go Back In Time
+See what your computer looked like in the past. Select a specific date and let Time Machine find your most recent changes, or do a Spotlight search to find exactly the file you're looking for. Once you do, click Restore and Time Machine brings it back to the present.
+
+Ruby on Rails
+Work in a developer's dreamland. Leopard is the perfect platform for Ruby on Rails development, with Rails, Mongrel, and Capistrano built in.
+</blockquote>

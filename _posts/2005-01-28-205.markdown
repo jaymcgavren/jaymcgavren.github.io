@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '201'
+  _wp_old_slug: '201'
+---
+Back when I got my first Macintosh, it had no hard drive, so I had to buy a 40 MB external drive for over $100.  It was bigger than a phone book.  I now carry a flash drive around in my pocket with six times the capacity, and it only cost me a third of the price.  Ain't technology great?

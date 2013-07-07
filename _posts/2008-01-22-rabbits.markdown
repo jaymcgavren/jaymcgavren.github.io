@@ -1,0 +1,18 @@
+---
+layout: post
+title: Rabbits...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '705'
+  original_post_id: '752'
+  _wp_old_slug: '752'
+---
+<a href='http://jay.mcgavren.com/blog/archives/752/alexs-rabbits/' rel='attachment wp-att-751' title='Alex's Rabbits'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2008/01/rabbits.thumbnail.PNG' alt='Alex's Rabbits' /></a>
+
+About 24 hours after Alex Fenton (wxRuby maintainer) stated his intention to do a demo in Zyps, a complete "rabbit simulation" was sitting in my inbox.  (With Behavior remapped to Behaviour, and Color to Colour. :)  The little critters run around, eat grass, breed, and die, all in 300 lines of code.
+
+This is exactly what I wanted out of Zyps - someone sees it, gets inspired, goes on a mad hackfest, and in a minimal period of time has a finished "game".  Hopefully once the library is sufficiently polished, many more people will be doing the same.

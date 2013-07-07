@@ -1,0 +1,16 @@
+---
+layout: post
+title: <Success/>
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '808'
+  original_post_id: '895'
+  _wp_old_slug: '895'
+---
+Finally!  Got past all the database and scheduler errors, and we're talking to the remote Web service again.  Good thing, 'cause my boss was starting to tap his foot.
+
+I can't tell you how frustrating our in-house ORM is to work with.  Fifty different kinds of database objects, and you have to know the system right down to the guts to do anything.  If you could just run the generator and use the resulting objects, you'd be fine, but that's never the case in the real world - SQL has to be customized, lists have to be cached, and it's all exposed to all but the most casual user.

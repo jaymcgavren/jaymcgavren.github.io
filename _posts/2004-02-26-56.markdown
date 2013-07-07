@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_e44938a1c2d03a4c7c160240752d680e: '{{unknown}}'
+  original_post_id: '56'
+  _wp_old_slug: '56'
+---
+Club Dread opens Friday.  It's from Broken Lizard, the people that did Super Troopers.  Go see it!
+
+http://www.clubdread.com/

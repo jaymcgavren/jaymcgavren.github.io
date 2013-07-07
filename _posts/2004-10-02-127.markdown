@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '126'
+  _wp_old_slug: '126'
+---
+My new beard's been drawing some good reviews at work...
+
+One guy told me about an episode of the original Star Trek where the crew was warped to an alternate universe.  There they met Evil Kirk and Evil Spock, and evidently Evil Spock had a goatee.  So when my co-worker first saw my new look, his first thought was: "Cool!  Evil Jay!"

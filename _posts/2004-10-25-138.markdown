@@ -1,0 +1,66 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '907'
+  original_post_id: '137'
+  _wp_old_slug: '137'
+---
+LiveJournal never brought out that "find people based on common interests" search they were talking about, much to my disappointment.  So I did a Google to see if anyone had taken matters into their own hands.
+
+Looks like phyxeld wrote <a href="http://www.livejournal.com/community/perl/36793.html">this Perl script</a> that screen scrapes your interests and then runs queries for them.  It's an unreadable mushpile, but I was able to get it running on Windows with only one change.
+
+I can see why LJ never made it a standard feature; a single search took five minutes.  Anyway, here's what I got...
+
+
+User 'doshichan' has 16 common interests:
+   azumanga+daioh, dance+dance+revolution, dreamcast, elf+princess+rane, hayao+m
+iyazaki, iron+chef, japanese, king+of+fighters, kodomo+no+omocha, mirandites, na
+usicaa, osaka, sake, samurai+shodown, serial+experiments+lain, snk
+
+User 'snazin' has 15 common interests:
+   anime, aphex+twin, atheism, coldplay, cowboy+bebop, dj+shadow, dreamcast, ele
+ctronica, fight+club, ghost+in+the+shell, java, south+park, trip+hop, video+game
+s, xbox
+
+User 'scuzzlebutt' has 12 common interests:
+   aphex+twin, artificial+intelligence, dreamcast, electronica, japan, japanese,
+ movies, mp3s, quake, sex, the+simpsons, video+games
+
+User 'ru_idm' has 12 common interests:
+   amon+tobin, aphex+twin, arovane, artificial+intelligence, boards+of+canada, d
+owntempo, drum+and+bass, electronic+music, electronica, idm, orbital, warp
+
+User 'fragilemouse' has 11 common interests:
+   absurdism, animaniacs, aphex+twin, cowboy+bebop, darren+aronofsky, depeche+mo
+de, drum+and+bass, fight+club, hayao+miyazaki, monty+python, orbital
+
+User 'fightlikeagirl' has 11 common interests:
+   anime, cowboy+bebop, electronica, fight+club, kodomo+no+omocha, monty+python,
+ movies, the+matrix, the+simpsons, video+games, writing
+
+User 'jzig' has 11 common interests:
+   anime, computer+science, iron+chef, java, monty+python, movies, mp3s, perl, s
+outh+park, the+simpsons, video+games
+
+User 'warpdude' has 11 common interests:
+   amon+tobin, boards+of+canada, dj+shadow, edward+norton, hayao+miyazaki, idm,
+nausicaa, quake, serial+experiments+lain, studio+ghibli, trip+hop
+
+User 'crashmog' has 11 common interests:
+   aphex+twin, bloom+county, coldplay, electronica, fight+club, mp3s, reservoir+
+dogs, sex, south+park, video+games, writing
+
+User 'mcoletti' has 11 common interests:
+   anime, artificial+intelligence, atheism, cowboy+bebop, depeche+mode, electron
+ic+music, manga, monty+python, movies, mp3s, writing
+
+
+doshichan probably tops the list because I copied most of my interests from his, and, well, because we have a lot of common interests.  (That's probably the only reason we've been able to stand each other this long. :)  I don't recognize anyone else on this list, though.  Maybe it's time to make some new contacts.
+
+If any of you non-Perl users would like me to run it for your username, let me know.

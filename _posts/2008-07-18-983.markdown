@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '871'
+  original_post_id: '983'
+  _wp_old_slug: '983'
+---
+Was gonna do a fake book cover for <em>Speaking LOL</em>, published by O'RLY, but in Googling for materials found that someone had automated the whole process (and that a LOLcats cover was one of their examples).  So I did this instead:
+
+<a href="http://www.oreillymaker.com/link/18757/zyps/">Zyps: Game Development the Lazy Way</a>
+
+The real book, less sarcastically titled, will be coming out as soon as someone gets me an O'Reilly editor's contact info.  :)

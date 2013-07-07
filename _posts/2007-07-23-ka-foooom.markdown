@@ -1,0 +1,16 @@
+---
+layout: post
+title: Ka-FOOOOM!
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '580'
+  original_post_id: '576'
+  _wp_old_slug: '576'
+---
+Bomberman Live is so %$#@%$@#%$@#%$#@%$#@%$#@%#@ing awesome!  It's very nice not to have to gather 4+ people and their SNES controllers at one house.
+
+Of course, we're still plagued by the connection issues we've always had on XBox Live games.  At least we confirmed last night that persistence pays off when trying to establish a session.

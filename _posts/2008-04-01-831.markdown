@@ -1,0 +1,20 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '760'
+  original_post_id: '831'
+  _wp_old_slug: '831'
+---
+Wow - let me see if I've got this straight.  I'm being asked to tear apart multiple systems to change a client number "because the client is very superstitious and his numbers must start in the 800 series."
+
+If this guy's complaining about <em>this</em>, what's next?  Storing all his records on paper because he has a fear of databases?
+
+There's this concept of "firing the customer" floating around, and I think this would have been a good time to employ it.  Of course by now, I'm sure there are signed contracts and it's too late.
+
+<em>Edit:</em> A co-worker just pointed out this seems like an April Fool's joke.  I don't think it is, since the e-mail chain started yesterday, but someone is in <em>serious</em> trouble if it is.

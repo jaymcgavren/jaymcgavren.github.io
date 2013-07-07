@@ -1,0 +1,36 @@
+---
+layout: post
+title: MIDIator...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1036'
+  original_post_id: '1250'
+  _wp_old_slug: '1250'
+---
+Well, that was easy.  Heard about MIDIator (a MIDI event generator for Ruby) on a Confreaks talk, and since I already had MIDI Patchbay and SimpleSynth installed from prior attempts to get things working, I gave it a shot.
+
+Here's some code that hooks it into a Rinda tuplespace:
+
+{% highlight ruby %}
+require 'rinda/rinda'
+require 'rubygems'
+require 'midiator'
+
+MY_URI = ARGV[0] || "druby://127.0.0.1:9999"
+DRb.start_service
+space = Rinda::TupleSpaceProxy.new(DRbObject.new(nil, MY_URI))
+
+midi = MIDIator::Interface.new
+midi.autodetect_driver
+
+loop do
+  key, value = space.take([/Integer/, Integer])
+  midi.play value, 0.01
+end
+{% endhighlight %}
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2009/08/midi_agent.swf' title='midi_agent.swf'>And here's what it sounds like in action.</a>  I'm sure a better/more skilled controller would make it sound less, uh, horrible.  :)  Boy, it sure processes those events fast...

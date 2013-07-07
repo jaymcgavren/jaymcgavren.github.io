@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '214'
+  _wp_old_slug: '214'
+---
+In my performance review at work, one objective for the year that my boss gave me was to get certified in Java.  Well, if I'm going to get certified, I'd better start writing Java programs.
+
+Happily coinciding with this is Tivo's release of their Home Media Engine, the libraries for which are in - you guessed it - Java.  You can't do anything *too* fancy with it, but you can display pictures, play MP3s and (eventually) video, and write simple games.
+
+My first project will be a simple slideshow/music player, after which I'll tackle a port of Robots.  Nothing too ambitious, but I'll learn a whole lot of Java along the way.

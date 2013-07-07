@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '592'
+  original_post_id: '594'
+  _wp_old_slug: '594'
+---
+"Desire for the fruits of one's actions brings worry about possible failure...
+When you are preoccupied with end results you pull yourself from the present into an imagined, usually fearful future.  Then your anxiety robs your energy and, making matters worse, you lapse into inaction and laziness.
+...
+The ideal, Arjuna, is to be intensely active and at the same time have no selfish motives, no thoughts of personal gain or loss.  Duty uncontaminated by desire leads to inner peacefulness and increased effectiveness.  <i>This</i> is the secret to living a life of real achievement!"
+-Krishna, The Bhagavad Gita chapter 2

@@ -1,0 +1,79 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '530'
+  original_post_id: '485'
+  _wp_old_slug: '485'
+---
+I need more practice with Ruby mixins, so I thought I'd do a quick port of my Java game/simulation.  It looks like the result will be as little as one source file where there used to be dozens of files and folders, a fraction of the number of classes, and a fraction of the line count.
+
+I haven't gotten to mess with mixins much yet, though.  What I am learning about is Procs, blocks of code that keep all their context (variables, methods, etc.)
+
+In Java, I always had to call an action object with both the actor and the target, even if the action only cared about one of those two.  Now, I just provide a block (I don't even have to create an action object), and refer to the variables I need from the scope in which the block is declared.  Magically, even though the block is called from a completely different context, it acts from the block "owner's" perspective.
+
+A code sample is in order...
+
+
+<!--more-->
+
+{% highlight ruby %}
+class Creature
+	attr_accessor :behaviors, :name
+	def initialize
+		@behaviors = []
+	end
+	def act(target)
+		@behaviors.each {|behavior| behavior.perform(target)}
+	end
+end
+
+class Behavior
+	attr_accessor :actions
+	def initialize
+		@actions = []
+	end
+	def add_action(&action)
+		@actions << action
+	end
+	def perform(target)
+		@actions.each {|action| action.call(target)}
+	end
+end
+
+#Add an action to an instance...
+cat = Creature.new
+cat.name = "Felix"
+behavior = Behavior.new
+behavior.add_action {|target| puts "#{cat.name} is targeting #{target.name}"}
+cat.behaviors << behavior
+
+mouse = Creature.new
+mouse.name = "Mickey"
+cat.act(mouse)
+
+#Or to a class...
+class Dog < Creature
+	def initialize
+		super
+		eat = Behavior.new
+		eat.add_action {|target| puts "#{self.name} the #{self.class} eats #{target.name}!"}
+		@behaviors << eat
+	end
+end
+
+dog = Dog.new
+dog.name = "Scooby"
+dog.act(cat)
+{% endhighlight %}
+
+Prints:
+
+<pre>
+Felix is targeting Mickey
+Scooby the Dog eats Felix!</pre>

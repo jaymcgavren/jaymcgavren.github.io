@@ -1,0 +1,20 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_cc8f864e5832270a94b8e3900c9c1a1b: '{{unknown}}'
+  original_post_id: '368'
+  _wp_old_slug: '368'
+---
+I wanted a dead-tree version of my LiveJournal, because I want my kids to be able to read it someday, and I know a soft-copy will go poof well before then.  LJ's own export feature excludes comments, and I'm not about to download one month at a time, so I had to keep looking.  Fortunately, a quick Google produced this:
+
+SourceForge.net: ljArchive
+"ljArchive is a tool for downloading, browsing, and analyzing journal entries and comments from LiveJournal (or LiveJournal clones)."
+http://sourceforge.net/projects/ljarchive/
+
+I was able to export the entire journal (comments included) to both XML and HTML formats.  One single file for each.  A couple more clicks, and the whole thing was printed (well, I also had to refill the paper tray - it was 117 pages).

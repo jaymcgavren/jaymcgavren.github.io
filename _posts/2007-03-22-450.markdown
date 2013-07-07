@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '450'
+  _wp_old_slug: '450'
+---
+Me, working in Java: "God dammit.  God dammit...  GOD DAMMIT!!!"
+Me, working in Ruby: "Hey, neat.  Hey, neat!  Whoa, COOL!"

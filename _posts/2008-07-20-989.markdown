@@ -1,0 +1,19 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '874'
+  original_post_id: '989'
+  _wp_old_slug: '989'
+---
+<pre>
+jay@MIDORI:D:applicationsInstantRails-2.0-winrails_appstest
+$ ruby script/generate scaffold Recipe title:string instructions:string
+</pre>
+
+Man, you miss out on a lot if you're following Rails 1.0 tutorials.  In fact, I tried setting up on Heroku and gave up, tried setting up on DreamHost and gave up, and was <em>about</em> to give up on InstantRails as well.  Wonder how much of that was due to 1.0/2.0 incompatibilities?

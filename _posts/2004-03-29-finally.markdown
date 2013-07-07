@@ -1,0 +1,17 @@
+---
+layout: post
+title: FINALLY!
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '72'
+  _wp_old_slug: '72'
+---
+I finally have my Perl module talking with the Apollo system!  (I've been trying to do that for over a year, but other projects keep coming up.)  It was always an embarrassment having to say that I support "all the GDSs.  Well, except for Apollo."
+
+Kinda dumb that I couldn't get to it until it looked like I'd be leaving my department.  Oh, well, at least it's done.
+
+P.S.: While I was writing this, my test script freaked out and crashed.  :P  Hopefully it's nothing major.

@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '83'
+  _wp_old_slug: '83'
+---
+I sometimes make little mistakes when giving commands to open files in Perl, and the result is usually empty files with snippets of Perl code as their names lying around my hard drive.  I just deleted a file named "update_properties(@objects)" from my work folder...
+
+Wonder how long before I overwrite an essential OS file?  :P

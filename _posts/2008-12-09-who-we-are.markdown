@@ -1,0 +1,18 @@
+---
+layout: post
+title: Who We Are
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '966'
+  original_post_id: '1123'
+  _wp_old_slug: '1123'
+---
+<a href="http://integrumtech.com/whoweare.html">integrumtech.com</a>
+
+<blockquote>
+Jay's personal motto is to be vicariously lazy: he believes he can make everyone's lives easier through software development. Though he enjoys coding in pure Ruby, his allergy to configuration files led him to Rails.
+</blockquote>

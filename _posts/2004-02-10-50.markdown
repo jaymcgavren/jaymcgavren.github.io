@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '206'
+  _wp_old_slug: '206'
+---
+"2D?  How can they do Zelda in *2D*?"
+    -Diana, upon learning of the NES and SNES Zelda games
+
+Diana's been playing the hell out of Zelda: Wind Waker.  And she's asked me to burn her an MP3 CD with some downtempo so she can listen while she does homework.
+
+Yeah, she's a keeper.  :)

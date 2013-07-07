@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '724'
+  original_post_id: '774'
+  _wp_old_slug: '774'
+---
+A change to our vendor's WSDL has me back to dinking around with wscompile and wsimport again.  I think they've screwed up somewhere in their chain of a dozen XSD imports, 'cause I'm getting "already defined" errors.  I don't dare refer to any book published before 2006 for help, because it will be flat-out wrong.  Argh - so, so frustrating.

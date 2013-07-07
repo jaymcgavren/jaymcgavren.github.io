@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1014'
+  original_post_id: '1205'
+  _wp_old_slug: '1205'
+---
+Me with Jason Seifer and Greg Pollack (The RailsEnvy guys) after their talk at RailsConf Thursday.
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2009/05/sn853557-2.jpg' title='RailsEnvy'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2009/05/sn853557-2.thumbnail.JPG' alt='RailsEnvy' /></a>
+
+If you're a Rails developer and haven't been listening to their <a href="http://www.railsenvy.com/">podcast</a>, you need to start!

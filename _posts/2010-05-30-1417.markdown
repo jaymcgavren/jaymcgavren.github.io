@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1095'
+  original_post_id: '1417'
+  _wp_old_slug: '1417'
+---
+This reads like science fiction:
+
+> So to turn on GPS for the first time, go outside and find a direct line of sight to the sky (you only need to do this the very first time). Then on your phone, press &gt; Settings &gt; Location &amp; security.
+> 
+> --Motorola Droid Tips and Tricks manual

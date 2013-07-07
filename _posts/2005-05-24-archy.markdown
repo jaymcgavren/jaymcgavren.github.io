@@ -1,0 +1,23 @@
+---
+layout: post
+title: Archy...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '241'
+  _wp_old_slug: '241'
+---
+I'm typing this message in <a href="http://rchi.raskincenter.org/aboutrchi/index.php">Archy</a>, the Raskin Center Humane Interface.  I've been waiting for this day roughly five years, ever since reading the (now late) Jef Raskin's The Humane Interface, which basically informed me that the entire direction human interfaces to software has taken for the last two decades has been wrong.
+
+At one point, I was convinced I'd have to code this thing myself if I was ever going to see it, but here it sits on the screen in front of me; split-cursor blinking merrily away.  A year ago, the installation instructions included directions to get Python and <b>outdated</b> versions of several libraries, because Archy wouldn't work with the most current ones.  Then the Raskin Center got a two-million-dollar grant to develop this (roughly coinciding, unfortunately, with Jef's untimely death of pancreatic cancer).  But his son Aza and associates have carried on, and  now the program comes with a self-contained Windows installer.  Evidently the Linux and Mac builds work fine too, although they're officially unsupported while a few bugs are worked out.
+
+So what the heck is it?  At this point, little more than a glorified text editor.  "Leaping", a form of search, is absolutely central to its use, as there is no mouse.  (Yay!)  Rather than wait for a search dialog to load, I simply hold down the left Alt key to search backwards, or right Alt to search forwards through the text.  It's so easy and automatic that I find myself doing it a lot.  If I don't like the last sentence I typed, I simply leap to the period of the one before, highlight the text I leapt over, and hit delete.  Gone in half a second.  Infinite levels of undo (still available even after quitting the environment) ensure I can change my mind later.  Demos can be found <a href="http://rchi.raskincenter.org/aboutarchy/demos.html">here</a> to give you an idea.
+
+Commands to use within the editor are easy to write, since they don't need a GUI.  I'm going to be submitting versions of several basic Unix utilities (sort, grep, etc.), and I expect each will take maybe a single night to code.  There are already commands to access and respond to e-mail, right within the editor.
+
+Most interesting is that Archy has no concept of files.  "Document characters" separate sections of the text, which is auto-saved upon exiting and restored upon reentry.  It'll make work with formats where files are central (like MP3s, HTML documents, and Perl modules) quite challenging at first.  I think it's doable though.
+
+One year from now, I expect this program will have replaced not only my text editor, but my e-mail client and iTunes as well, and I think I'll be loving it.  It's that powerful.  I'm already a lot less awkward than when I started typing this entry, and learning fast.  Someday soon, I will likely refuse to work in anything else.

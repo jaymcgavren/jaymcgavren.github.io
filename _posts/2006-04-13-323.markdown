@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '322'
+  _wp_old_slug: '322'
+---
+I'm sitting here using Google's new calendar feature (which I'd been waiting months for), and I just had an "aha" moment.  I realized that from now on, this is the only way I want to do calendaring.  No messing around with a calendar app on the PC that won't share data with anyone else...
+
+And then I thought: hey, how long before I no longer want to mess with ANY app on my PC?  Reinstallation and reconfiguration every time you upgrade hardware is something end users have no business doing, and it's a pain even for geeks.  People should be worried about their data, not their apps.  And here Google is, rolling out online applications that replace the basic functionality of every piece of the Microsoft Office suite.  Zero installation, zero configuration.
+
+I'd been listening to predictions of Google taking on Microsoft for months.  But now, having used one of the key apps, I can actually envision them winning.

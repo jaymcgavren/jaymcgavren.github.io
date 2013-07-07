@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '727'
+  original_post_id: '778'
+  _wp_old_slug: '778'
+---
+I think I'm gonna go cold turkey on coffee.  It may help keep me awake, but drinking 3 cups a day probably isn't doing much for my productivity (anymore), and certainly isn't good for my stomach lining.
+
+We'll see how much I regret that decision later.  Even now I can hear the coffee maker here at work, and am having to resist the urge to grab my mug and head over there.

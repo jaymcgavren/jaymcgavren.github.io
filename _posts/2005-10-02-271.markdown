@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '273'
+  _wp_old_slug: '273'
+---
+First I was laid up for a week with strep throat.  And now I think I'm catching Lenny's cold.  (If it's not the strep reoccurring.)
+
+I am very, very tired of being sick.

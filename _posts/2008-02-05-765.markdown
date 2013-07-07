@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '715'
+  original_post_id: '765'
+  _wp_old_slug: '765'
+---
+OMG OMG OMG it's SO much FASTER!!!  This is freaking awesome!
+
+Oh, and I was able to keep the Behavior API backwards-compatible.  I'm pretty proud of that.
+
+I still have to run CollisionConditions every update to ensure things don't pass through each other, though, which sucks because it's the slowest Condition I have.  The GUI may develop telekinetic breeding and eating if I have to change those to ProximityConditions.

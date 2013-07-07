@@ -1,0 +1,74 @@
+---
+layout: post
+title: coerce()
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '737'
+  original_post_id: '791'
+  _wp_old_slug: '791'
+---
+Wow.
+
+Normally, Vector expects its pitch to be a floating point number, or <em>some</em> kind of number.  Well, how powerful would it be if I could say this:
+
+{% highlight ruby %}
+object.vector.pitch = RandomValue.new(360)
+{% endhighlight %}
+
+...and have RandomValue present itself as a different random number each time it's <em>accessed</em>?
+
+Turns out I can:
+
+<!--more-->
+
+{% highlight ruby %}
+class RandomValue < Numeric
+	attr_accessor :max
+	def initialize(max)
+		@max = max
+	end
+	def coerce(other)
+		if Integer === other
+			[other, to_int]
+		else
+			[Float(other), to_f]
+		end
+	end
+	def to_int; rand(max); end
+	def to_f; rand * max; end
+	def +(other); x, y = coerce(other); x + y; end
+end
+
+r = RandomValue.new(10)
+puts r + 5
+puts r + 5.0
+puts r + "5"
+{% endhighlight %}
+
+<pre>
+jmcgavre@JMCGAVREN:C:work
+$ test.rb
+8
+7.81092549559889
+8.82379682351498
+
+jmcgavre@JMCGAVREN:C:work
+$ test.rb
+11
+8.87522649726433
+14.0951821993958
+</pre>
+
+...let's see, here's what I'm thinking of so far:
+
+RandomValue
+InitiallyRandomValue
+ModulatingValue
+InverseValue
+RoundedValue (say, to nearest integer, or nearest multiple of 90)
+
+Wow.

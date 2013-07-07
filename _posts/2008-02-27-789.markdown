@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '735'
+  original_post_id: '789'
+  _wp_old_slug: '789'
+---
+Wow.  Git on Windows is janky and scary right now.
+
+Wired had that article eons ago with a fictitious letter from Linus Torvalds to Bill Gates, hashing out some issues arising from a version of Windows that ran on top of Linux.  I would really, really like to see that come true.

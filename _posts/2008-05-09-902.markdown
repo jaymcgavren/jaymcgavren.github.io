@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '814'
+  original_post_id: '902'
+  _wp_old_slug: '902'
+---
+A senior analyst here at work didn't seem too keen on my upgrading Fedora, since the rest of the team is still using version 5.  Guess Java runs willingly no matter how old your distro is.
+
+Well, he just borrowed my DVD so he could upgrade his own machine.  We'll modernize this place yet, hopefully.

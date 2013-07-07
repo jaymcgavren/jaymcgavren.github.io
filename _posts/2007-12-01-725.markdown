@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '688'
+  original_post_id: '725'
+  _wp_old_slug: '725'
+---
+Mario Steele from the wxRuby list solved my problem - I was creating an extra device context and then not even using it.  draw_bitmap works a lot better, too.
+
+It's working within Zyps as well, but it's about 50% slower than Ruby-Gnome2.  :(  Now to find out if that's my fault or the library's.

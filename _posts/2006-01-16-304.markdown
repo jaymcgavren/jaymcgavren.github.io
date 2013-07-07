@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '302'
+  _wp_old_slug: '302'
+---
+I was running late this morning, and when I walked into the office it was completely empty.  Crap, I thought, today must be the off-site meeting.  I looked up the address and raced off, in gross violation of the speed limit.  Arrived at the meeting site to find an empty parking lot there, too.
+
+I headed back to work to doublecheck the address and time, wondering if my boss would write me up for this one.  I run into Dean, who works in the cube across from me, and in a half-panic ask him where the off-site meeting is.  "That's tomorrow," he says.  "Then where is everyone?" I gasp.  "It's MLK Day," he says.  "I'm just here to drop off a photo someone ordered."
+
+Whew.  I seriously had no idea that my new company took Martin Luther King Jr. Day off.  Well, now I'm just annoyed that I drove all this way needlessly.  (When your commute is as long as mine, it's not a trip to make lightly.)  Guess I'll spend some time coding on Zyps, since I have a nice quiet office to do it in.

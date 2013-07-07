@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '227'
+  _wp_old_slug: '227'
+---
+Just grabbed <a href="http://johnhaller.com/jh/mozilla/portable_thunderbird/">Portable Thunderbird</a> and installed it on the beat-up USB flash drive in my pocket.  It looks like it will finally see some use now.  I can walk up to any Windows PC with a USB port, plug in the drive, and run Thunderbird with no installation whatsoever.  It even saves my articles back to flash, without ever touching the hard drive.  I don't trust the drive enough to handle my actual e-mail, but it's perfect for reading RSS news.
+
+On a related note, this <a href="http://www.gizmodo.com/gadgets/peripherals/storage/udinternet-usb-memory-with-firefox-thunderbird-036887.php">Gizmodo article</a> discusses a flash drive sold with Portable Firefox and Thunderbird pre-loaded.  Now THAT's simple enough for Aunt Tillie to use.
+
+Hmmm, wonder if I could make a Portable Perl?

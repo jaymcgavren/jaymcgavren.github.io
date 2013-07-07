@@ -1,0 +1,25 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_dd215c9586a35eea4523fa69dfc5e230: '{{unknown}}'
+  original_post_id: '333'
+  _wp_old_slug: '333'
+---
+&gt; Nintendo E3 Press Conference Report news from 1UP.com
+&gt; "Wii Connect 24 is what the Wii goes into in standby mode,
+&gt; allowing the machine to operate key functions and remain
+&gt; connected to the Internet, yet it only uses the power of a
+&gt; mini-light bulb. The idea is that gamers can leave the
+&gt; machine on standby, yet other gamers can even still
+&gt; interact with your hardware. In Animal Crossing, someone
+&gt; could visit your village while you're asleep!
+
+http://www.1up.com/do/newsStory?cId=3150566
+
+That addresses a major gripe with the DS Animal Crossing - we had to be logged on for others to visit our town.  We even went so far as to leave the system powered on overnight, but given how crash-prone the connection was, it wasn't at all practical.  I found myself wishing for a PC app that would continue to "serve" our town while the DS was off.  This may be the next-best thing.

@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '807'
+  original_post_id: '894'
+  _wp_old_slug: '894'
+---
+The second box was a monitor.  :/  But that's OK, now I can have a dedicated view to my task list like I've been wanting.  And a replacement for the Windows machine should arrive within a month.
+
+Plus, I can (temporarily) look super-important with my own in-cube server farm!
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2008/05/0502081700.jpg' title='0502081700.jpg'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2008/05/0502081700.thumbnail.jpg' alt='0502081700.jpg' /></a>

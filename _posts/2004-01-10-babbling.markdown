@@ -1,0 +1,34 @@
+---
+layout: post
+title: Babbling...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '34'
+  _wp_old_slug: '34'
+---
+This journal entry has been processed with babble.pl, a standalone program that does the same thing. The nice thing about my setup, though, is that I can pipe into it from files, or from the clipboard, or anything else with a quick command.
+
+
+
+Er...
+
+
+
+This journal entry has been processed with babble.pl, a simple script I wrote for scrambling text. Any text before it continues printing. The result is something that almost, but not quite, makes sense.
+
+I based this off of Babble, a a simple script I wrote for scrambling text. Any text you give the script, it prints out, but at random points it will jump to another occurrence of the same word within the clipboard, or anything else with a quick command.
+
+
+
+
+Er...
+
+
+
+This journal entry has been processed with babble.pl, a simple script I wrote for scrambling text.  Any text you give the script, it prints out, but at random points it will jump to another occurrence of the same word within the text before it continues printing.  The result is something that almost, but not quite, makes sense.
+
+I based this off of Babble, a standalone program that does the same thing.  The nice thing about my setup, though, is that I can pipe into it from files, or from the clipboard, or anything else with a quick command.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '626'
+  original_post_id: '650'
+  _wp_old_slug: '650'
+---
+Diana and I spent a good part of last night playing Halo 3 on Legendary with the Thunderstorm skull enabled...  A narrow passageway with 10+ heavily-armed Brutes is not a funny thing.  The sound of Spiker rounds clanging off the walls over and over is now permanently etched in my brain.

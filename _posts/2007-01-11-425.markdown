@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '425'
+  _wp_old_slug: '425'
+---
+It still blows my mind that my wife not only understands what it means to "fire up a Perl interpreter", but appreciates the overhead involved.
+
+I have chosen... wisely.

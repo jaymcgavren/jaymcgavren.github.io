@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '43'
+  _wp_old_slug: '43'
+---
+At work chomping on an orange that came from a tree in a backyard, not a supermarket.  Sometimes living in the desert *can* be cool...

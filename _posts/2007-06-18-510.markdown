@@ -1,0 +1,40 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '540'
+  original_post_id: '510'
+  _wp_old_slug: '510'
+---
+Our last calendar update made it such that reminders are off by default.  I turned mine on, but when someone else schedules the meeting I can be pretty much assured it's off.  No reminder means I won't be at the meeting, which means embarassment in front of my boss.  Not acceptable.
+
+Fortunately, Ruby's OLE bindings made a workaround easy.  I pass the output of this script to my "alert" program and set the whole thing up as a scheduled task.  If there are future meetings with no reminder, I'll have a warning sitting on my desktop as soon as I log in.
+
+<!--more-->
+
+{% highlight ruby %}
+#!/usr/bin/ruby
+require 'win32ole'
+require 'date'
+
+#Set up constants.
+CALENDAR_ID = 9
+
+#Establish control of Outlook.
+outlook = WIN32OLE.new('Outlook.Application')
+mapi = outlook.GetNamespace("MAPI")
+
+#For each appointment on calendar...
+calendar_items = mapi.GetDefaultFolder(CALENDAR_ID).Items
+calendar_items.each do |appointment|
+  #Show future appointments with no reminder set.
+  unless appointment.ReminderSet or DateTime.parse(appointment.end) < DateTime.now then
+    puts ["No reminder:", appointment.Start, appointment.Subject].join("t")
+  end
+end
+{% endhighlight %}

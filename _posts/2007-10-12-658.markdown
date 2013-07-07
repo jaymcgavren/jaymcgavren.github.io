@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '632'
+  original_post_id: '658'
+  _wp_old_slug: '658'
+---
+I forgot to update a production crontab after last night's installation, and the old version (which used a different release mechanism) ran instead of the current one - a potentially hazardous situation that fortunately worked out OK anyway.  I got a slap on the wrist from my boss, though.  I need to ensure the next release goes smoother, which means having a checklist of pitfalls, even the ones I've never encountered before.
+
+I sought advice from a co-worker, which essentially amounted to "live and learn".  I sought advice from Code Complete, which offered no advice on releasing your highly-polished code.  I need to check Release It! tonight, though I'm not sure how helpful that will be with a small-scale app like this.
+
+It's very frustrating.  This stuff <em>really</em> needs to be automated, so I can just code.

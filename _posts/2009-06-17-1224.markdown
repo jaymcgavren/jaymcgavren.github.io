@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1025'
+  original_post_id: '1224'
+  _wp_old_slug: '1224'
+---
+My proposal for Ignite Phoenix on November 3rd:
+
+<blockquote>Scratch is a free visual programming language for kids created at MIT.  It lets kids as young as 5-6 easily create interactive stories or games and share them on the Web.  It's also easy to teach - just set machines up and turn the kids loose!</blockquote>
+
+A member of the Ignite steering committee was among the parents that brought their kids to my June 6th class, so hopefully they're half-sold on the idea already.

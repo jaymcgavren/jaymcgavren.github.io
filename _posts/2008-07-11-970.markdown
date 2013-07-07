@@ -1,0 +1,35 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '862'
+  original_post_id: '970'
+  _wp_old_slug: '970'
+---
+Here's where my Safari Bookshelf sits at the moment:
+
+<blockquote>
+Cross-Platform GUI Programming with wxWidgets
+By 	Julian Smart; Kevin Hock; Stefan Csomor
+
+Design Patterns in Ruby
+By 	Russ Olsen
+
+Ruby on Rails: Up and Running
+By 	Bruce A. Tate; Curt Hibbs
+
+The Rails Way
+By 	Obie Fernandez
+
+The Ruby Way: Solutions and Techniques in Ruby Programming, Second Edition
+By 	Hal Fulton
+</blockquote>
+
+I'm actually pretty much done with the wxWidgets and Rails: Up and Running books, but I generally don't delete books until I need the shelf slots.  I retrieved The Rails Way because I'm not too pleased with the organization of the Rails: Up and Running book, and besides, I need a reference more than a tutorial now.
+
+Gonna play with my new "purchases" starting tonight, so look for impressions in the coming weeks.

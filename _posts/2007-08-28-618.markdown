@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljxp_privacy: friends
+  ljID: '605'
+  original_post_id: '618'
+  _wp_old_slug: '618'
+---
+Thus far, LJXP (the LiveJournal Cross-Poster) seems to just work.  That's a lot more than I can say for WordPress's own post by e-mail feature...

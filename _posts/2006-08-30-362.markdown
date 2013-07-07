@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '361'
+  _wp_old_slug: '361'
+---
+Getting distracted by too many e-mails during the day, but don't want to close the client in case your boss wants something?
+
+Create a rule in Outlook (or a filter in GMail or Thunderbird) that finds e-mails from your boss/wife/friend's address.  Have it forward them to the SMS address for your cell phone (usually number@provider.com).  Then just ignore or turn off the new mail indicator for your mail client.  You won't have your workflow interrupted just to read about new specials in the cafeteria, and you can impress your boss by responding immediately to his e-mails at 8 PM on Sunday (from the comfort of home).

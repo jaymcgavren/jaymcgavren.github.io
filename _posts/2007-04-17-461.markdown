@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '461'
+  _wp_old_slug: '461'
+---
+Did anyone ever actually *try* to build an app with JAX-RPC before it was unleashed on an unsuspecting world?  You wouldn't believe the contortions I have to go through to do a simple thing like altering SOAP headers.
+
+I desperately want to switch to the newer JAX-WS, but that framework no longer allows the message format that our vendor wants.  (Yeah, there's a good sign.)

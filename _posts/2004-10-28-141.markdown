@@ -1,0 +1,20 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '908'
+  original_post_id: '140'
+  _wp_old_slug: '140'
+---
+As you Slashdot readers may already know, Google bought the Keyhole 3D mapping service that, for example, the NBC Nightly News uses in its Iraq coverage.  No big changes yet, except for the reduction of an annual subscription from $60 to $30, and the introduction of a 7-day free trial.
+
+The 3D features aren't that impressive (at least on my hardware), but the satellite imagery is amazing.  I typed in addresses for my family and friends, and voila - I was flying over their houses within seconds.  (mr_mooph, I'm pretty sure I could pick out your car in your parking lot.)  Even if I didn't know the exact address, I'd just type in a nearby intersection and then navigate by landmarks (buildings, trees, whatever).
+
+Then Diana and I went on a world tour - the Eiffel Tower, the Luxor Hotel in Vegas, the Statue of Liberty.  Attempts to visit Venice, Osaka, and the Great Wall of China were unsuccessful, unfortunately, as the available satellite images weren't sufficiently hi-res.  Keyhole promises to keep adding detailed shots of new locations, though, so it won't be too long.
+
+Keyhole's special client software is much easier to use than their major competitor's Website, and flying from location to location is visually spectacular.  (Imagine being on a pogo stick that can jump from continent to continent.)  Simply amazing.

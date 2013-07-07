@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '823'
+  original_post_id: '917'
+  _wp_old_slug: '917'
+---
+Logan Barnett was (rightly) horrified to see during my presentation that I was still using a Windows command prompt...  He pointed me to <a href="http://sourceforge.net/projects/console">Console 2.0</a>.
+
+Sweet!  I've long been wondering how I could get PuTTY or the Gnome Terminal working on Windows (without resorting to CygWin).  This is every bit as good.

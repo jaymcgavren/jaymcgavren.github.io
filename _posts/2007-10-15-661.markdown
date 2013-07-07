@@ -1,0 +1,22 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '635'
+  original_post_id: '661'
+  _wp_old_slug: '661'
+---
+<a href="http://www.webmd.com/brain/news/20070821/second-thoughts-are-real">"researchers now say last-minute second thoughts come from a specific part of the brain."</a>
+
+I remembered this article last night after taking advantage of Halo 3's feature where you have 5 seconds to abort just after hitting the "start game" menu.  Someone at Bungie is keeping up on their cognitive psychology.
+
+(Actually this feature's been around since Halo 2, which predates this particular study.  But that feature wasn't thrown in at random, and the study vindicates it.)
+
+Finished Legendary on Saturday. Collected the last of the skulls last night.
+
+I told Diana she has to let me sleep now.

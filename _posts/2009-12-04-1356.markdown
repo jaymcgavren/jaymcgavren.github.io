@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1072'
+  original_post_id: '1356'
+  _wp_old_slug: '1356'
+---
+RubyConf in 22 Minutes video just posted by <a href="http://twitter.com/greggpollack">@greggpollack</a>, featuring my handsome mug!  I give the elevator pitch version of our Jemini talk.
+
+<a href="http://blog.envylabs.com/2009/12/rubyconf-videos/">http://blog.envylabs.com/2009/12/rubyconf-videos/</a>

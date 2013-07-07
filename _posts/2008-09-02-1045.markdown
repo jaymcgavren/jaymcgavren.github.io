@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '921'
+  original_post_id: '1045'
+  _wp_old_slug: '1045'
+---
+Well, it sounds like Google Chrome <em>could</em> offer a substantial speed increase to AJAX apps.  The Javascript VM that compiles down to native instructions is interesting if nothing else is.  And hey, if Ben Goodger is on board, it can't be any <em>worse</em> than Firefox, right?
+
+<a href="http://www.google.com/googlebooks/chrome/index.html">Google Chrome for Dummies</a>
+
+<em>Update 2008-09-02 13:20:21:</em> No noticeable speed increase on GMail or Reader in Google Chrome over Firefox 3 on XP. Rest of experience is different but decent.

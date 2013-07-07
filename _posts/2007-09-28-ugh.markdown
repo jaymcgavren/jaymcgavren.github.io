@@ -1,0 +1,16 @@
+---
+layout: post
+title: Ugh.
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '621'
+  original_post_id: '645'
+  _wp_old_slug: '645'
+---
+Baby was up at 6:30 this morning after sleeping about 6 hours.  I got about 5, for the third time this week.  I'm so tired I'm dizzy.
+
+Configuring a new (used) Fedora box at work.  If I was more used to Linux's quirks I would probably enjoy setting up a new system, but right now it's just a pain.

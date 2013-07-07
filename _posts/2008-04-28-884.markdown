@@ -1,0 +1,19 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '798'
+  original_post_id: '884'
+  _wp_old_slug: '884'
+---
+Java: log.debug("Found chain '" + chain + "' for property '" + propertyCode + "'");
+Ruby: @log.debug "Found chain '#{chain}' for property '#{property_code}'"
+
+Those few extra characters may not seem like much, but they actually reduce the amount and detail of log statements I put in the code.  They're painful to type, and worse, painful to read.
+
+Logging is fast taking a place next to unit testing in my essential toolbox.  Anything that important needs to be as painless as possible.

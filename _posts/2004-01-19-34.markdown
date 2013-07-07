@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '36'
+  _wp_old_slug: '36'
+---
+Anybody else notice that the title track from Enigma's new Voyageur album has a sample from Tone Loc's Funky Cold Medina?  :)

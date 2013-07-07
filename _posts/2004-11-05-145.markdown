@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '144'
+  _wp_old_slug: '144'
+---
+Some of you may remember my post last year from my short-lived Linux installation.  Well, here's the sequel, and I think this installation will stick around a bit longer.  I just installed the new <a href="http://www.ubuntulinux.org/">Ubuntu Linux</a>, and I have to say I'm fairly impressed.  Not only are there now drivers for my *existing* hardware (I bought a cheap but all-new PC to run the prior installation), the whole distribution is much cleaner and well thought out.  And most importantly, it runs faster than Win2K, which is nice on my aging hardware.
+
+Don't worry, I've still got Windows on dual-boot, so my friends and I can still play games if we ever get around to it again.

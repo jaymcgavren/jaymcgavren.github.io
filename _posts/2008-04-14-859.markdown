@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '780'
+  original_post_id: '859'
+  _wp_old_slug: '859'
+---
+Akismet is doing a good job blocking blog spammers, but now and again I'll get a registration from a .de address or someone named "Nataljia" or so forth.  I'm getting so I automatically delete these users without a second thought.
+
+It must suck to be an Eastern European geek...  You try to post an honest question, and everyone automatically assumes you're a spammer...

@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_b035e58b789600097a6c658c854bb511: '{{unknown}}'
+  original_post_id: '77'
+  _wp_old_slug: '77'
+---
+Wow - looks like CXBX, the XBox emulator, can succesfully run its first commercial game at full speed on a Pentium 4.  And if you "overclock" it, the game runs at *4x* speed.
+
+http://www.caustik.com/cxbx/index.htm
+
+Good to know that someday I'll be able to play Halo with the same ease that I currently play Bomberman.

@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '346'
+  _wp_old_slug: '346'
+---
+My latest project is forcing me to learn all about Web services in a very short period of time.
+
+Good.
+
+I've been wanting to work with SOAP for years now, and signs suggest that's where the IT industry is headed.  (No, it's not there yet, believe it or not.)  I could be securing myself a job for the next decade.  An interesting one, even.

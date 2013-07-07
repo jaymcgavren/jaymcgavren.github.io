@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '46'
+  _wp_old_slug: '46'
+---
+Just got introduced to Hornsby's Draft Cider.  Tasty stuff.  I'm always looking for new recommendations - what's everyone drinking these days?

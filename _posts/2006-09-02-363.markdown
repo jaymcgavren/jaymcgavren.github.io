@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '362'
+  _wp_old_slug: '362'
+---
+If, like me, you haven't played Animal Crossing: Wild World in 4 months (the critters all reminded me exactly how long I'd been gone), you may want to pay your town a brief visit.  I found a ton of fish and insects that I'd never seen before.  I also found a ton of weeds, but at least there was a four-leaf clover among them.  I even found a ton of cockroaches in my house!  (Actually, there's no upside to that.)

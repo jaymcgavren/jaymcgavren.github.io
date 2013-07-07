@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '350'
+  _wp_old_slug: '350'
+---
+I have nearly 700 automatically generated classes here in front of me.  I need exactly one of those 700 classes, and I can't just keep the others because some of them won't compile.  Unfortunately, I don't know which of the others that one class depends on.
+
+The best solution I can come up with right now is to move all but the target class to the trash, attempt to compile, and restore the classes it says are missing, one by one.
+
+It's going to be a long afternoon.

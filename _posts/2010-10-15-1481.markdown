@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1121'
+  original_post_id: '1481'
+  _wp_old_slug: '1481'
+---
+<a href="/files/ruboto_mountain_rb.mp4">My mountain.rb talk on Ruboto</a> (Ruby for Android phones) is out!
+
+Published by <a href="http://confreaks.net/">Confreaks, LLC</a> under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share-Alike</a> license.

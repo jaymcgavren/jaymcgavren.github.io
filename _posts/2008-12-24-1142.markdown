@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '976'
+  original_post_id: '1142'
+  _wp_old_slug: '1142'
+---
+Found a folder in the Quicksilver catalog that was indexed to infinite depth, adding hundreds of (wrong) entries and blocking the correct ones.  I can actually use it now that I've fixed it.
+
+Not being able to navigate without the mouse was actually stressing me out quite a lot.  Feels like I just surfaced for air.  <em>Gasp</em>!

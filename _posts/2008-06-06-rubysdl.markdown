@@ -1,0 +1,26 @@
+---
+layout: post
+title: Ruby/SDL
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '844'
+  original_post_id: '942'
+  _wp_old_slug: '942'
+---
+Goddamn, you mean to tell me the difference between full-screen and windowed in (Ruby) SDL is from this:
+
+{% highlight ruby %}
+SDL::setVideoMode(640,480,16,SDL::SWSURFACE)
+{% endhighlight %}
+
+...to this?
+
+{% highlight ruby %}
+SDL::setVideoMode(640,480,16,SDL::FULLSCREEN)
+{% endhighlight %}
+
+I'm going to like this framework, even if the English documentation is crap right now.

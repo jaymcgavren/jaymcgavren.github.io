@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '873'
+  original_post_id: '987'
+  _wp_old_slug: '987'
+---
+NerdsOfAFeather.com is taken by a squatter.  How %$#@ing clever do I have to be to get a cool domain name?!
+
+Maybe I just need to get rid of this fixation on getting a .com...  Surely laymen know about .org, .net, and .us by now...

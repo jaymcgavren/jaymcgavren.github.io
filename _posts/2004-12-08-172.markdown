@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '171'
+  _wp_old_slug: '171'
+---
+Four different developers are taking my translator model from an old project of mine and adapting it to a new hotel brand.  They're whipping through the code in no time.
+
+I've always worked solo, so I was never sure how my code would hold up when someone else was maintaining/extending it.  It's a huge relief to see that others can actually grok it.

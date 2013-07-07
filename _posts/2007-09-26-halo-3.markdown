@@ -1,0 +1,18 @@
+---
+layout: post
+title: Halo 3...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '617'
+  original_post_id: '641'
+  _wp_old_slug: '641'
+---
+Jeremy and Nate had the good sense to get to bed at 1 AM (their time).  Why didn't we?
+
+Halo 3 isn't spectacular, just rock-solid.  On a system plagued by connection issues, it hooked us up to people 2,000 miles away without a hitch.  In an era where split-screen gameplay is rapidly being abandoned, my wife and I were both playing <em>co-op</em> (not just deathmatch) over Live.  We fired up the movie editor and reviewed a game that was (automatically!) saved, and marvelled at explosions frozen in time with a flick of the pause button.
+
+I am not a game developer, but I know enough to know these features were <em>not</em> easy to implement.  They required careful forethought, and in some cases, intentional sacrifices in game performance.  And they are <em>great</em>.  It's nice to see a company care about the overall quality of the game experience, rather than fitting a few more polygons into the back-of-box screenshots.  I hope they license the movie, party, and lobby features as a framework, because I know other developers won't (can't?) do this stuff if they have to code it from scratch.

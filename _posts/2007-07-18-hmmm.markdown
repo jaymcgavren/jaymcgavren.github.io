@@ -1,0 +1,16 @@
+---
+layout: post
+title: Hmmm...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '577'
+  original_post_id: '573'
+  _wp_old_slug: '573'
+---
+I'm LGPLing the Zyps code...
+
+What if I made a shareware game out of it for Windows?  I'd broaden my audience, but still compensate myself for the massive pain in the ass that is releasing for Windows.  The code is perfect for doing that target shooting game I sketched out years ago, too...

@@ -1,0 +1,18 @@
+---
+layout: post
+title: Enso scratchpad demo...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '752'
+  original_post_id: '820'
+  _wp_old_slug: '820'
+---
+I'm sure you all remember <a href="http://jay.mcgavren.com/blog/archives/762">my earlier rant</a> about Enso 2.0 and the discussion with [ICR] that followed...  Well, Andreas Schuderer is even more doubtful about the new design that I - so much so that he's done <a href="http://www.schuderer.net/experiments.shtml#ensoid">a lengthy writeup</a> on his reasoning <em>and</em> <a href="http://www.schuderer.net/ensoid/">a usable demo</a> with a possible fix.
+
+I like his scratchpad a lot better than "open notepad", that's for sure.
+
+By not providing (or insisting upon the use of) an editor, Enso has moved away from the noun-verb interaction that Archy encouraged.  This may be a step in the right direction again.

@@ -1,0 +1,17 @@
+---
+layout: post
+title: Spore...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '334'
+  _wp_old_slug: '334'
+---
+Wow.  Was browsing the new Top 100 on Google Video, and they had a gameplay video of Will Wright's _Spore_.  I'd heard it mentioned on the 1UP podcast, so I checked it out - this is *amazing*.  I'm not even going to spoil the video for you, except to say that this is probably the deepest game in existence.
+
+http://video.google.com/videoplay?docid=8372603330420559198&amp;q=spore
+
+You can share your creations with other players, so I hope all of you will get it, too.

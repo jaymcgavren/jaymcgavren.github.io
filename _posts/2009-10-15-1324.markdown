@@ -1,0 +1,21 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1060'
+  original_post_id: '1324'
+  _wp_old_slug: '1324'
+---
+This is an XSD example from a normally stodgy tutorial site; were they <em>trying</em> for innuendo?
+
+<pre>
+&lt;xs:complexType name="jeans"&gt;
+  &lt;xs:simpleContent&gt;
+    &lt;xs:extension base="size"&gt;
+      &lt;xs:attribute name="sex"&gt;
+</pre>

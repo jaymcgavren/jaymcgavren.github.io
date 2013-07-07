@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '662'
+  original_post_id: '690'
+  _wp_old_slug: '690'
+---
+Revamping some legacy processes to use my co-worker's ORM...  A lot of this amounts to busy-work.
+
+A code generator would be complex, but it could be done, and it would definitely stave off carpal tunnel syndrome for me.  Why, oh why are we rolling our own solution here?

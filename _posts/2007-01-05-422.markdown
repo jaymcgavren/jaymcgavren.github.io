@@ -1,0 +1,21 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '422'
+  _wp_old_slug: '422'
+---
+The call:
+&gt; CodeConvDAO(transaction).get(code, system.toString(), context.toString())
+
+The declaration:
+&gt; public CodeConvRecord get(String sysCode, String context, String code) throws DAOException {...}
+
+...Even without knowing Java, you can probably figure out what's wrong with the call.  (Hint: the order of the parameters.)
+
+So of course I don't see it until the moment my co-worker arrives at my desk to help me troubleshoot...

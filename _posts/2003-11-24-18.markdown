@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '21'
+  _wp_old_slug: '21'
+---
+Latest wildlife sighting: a coyote, just ambling down the middle of Greenway this morning.

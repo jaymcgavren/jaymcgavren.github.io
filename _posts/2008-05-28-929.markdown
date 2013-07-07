@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '832'
+  original_post_id: '929'
+  _wp_old_slug: '929'
+---
+WhiteCap 5 is absolutely beautiful.  I haven't messed with it (or any visualizer) since, oh, version 2.0.  Bought the Gold version of that and G-Force, and then never touched them.  I barely have time to listen to music these days, much less trip out to a screensaver while I do it.
+
+Hmmm, speaking of G-Force, that's next...
+
+...and I need to create an EnvironmentalFactor for Zyps that manages the colors of all GameObjects according to their Location (for rainbows and such).

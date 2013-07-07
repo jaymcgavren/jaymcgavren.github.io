@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '427'
+  _wp_old_slug: '427'
+---
+It seems I never just sit down and pick a programming language up...  I flirt with it for a couple years, trying to convince myself that I really need it.
+
+Well, I'm <i>really</i> liking Ruby now.  The reason is the whole "Ruby classes are never closed" thing.  Feel like going back and adding methods to a class?  Go for it.  Want to add methods to an individual object?  It'll create a virtual class for that object behind the scenes.  Mixins aren't so mysterious if you view them as a batch-adding of methods to an existing class.

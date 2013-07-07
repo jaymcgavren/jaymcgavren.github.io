@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '387'
+  _wp_old_slug: '387'
+---
+Since I don't really like laptop keyboards, I was using Remote Desktop to copy my config from Midori to Lappy 486.  It occurred to me that I'd need a way control Midori from Lappy as well, so I set up VNC on Lappy and went to test it, forgetting that I was attempting to control to PC that was controlling Lappy...
+
+You know the effect you get when you stand between two mirrors, how the reflections stretch away into infinity?  Yeah, it was like that.  I had to close Remote Desktop and break the loop to regain control.

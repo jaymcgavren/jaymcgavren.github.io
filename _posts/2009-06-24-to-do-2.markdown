@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'TO-DO:'
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1027'
+  original_post_id: '1229'
+  _wp_old_slug: '1229'
+---
+Background color and...  What else?  Oh, yeah, win conditions.
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2009/06/picture-32.png' title='picture-32.png'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2009/06/picture-32.thumbnail.png' alt='picture-32.png' /></a>

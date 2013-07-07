@@ -1,0 +1,17 @@
+---
+layout: post
+title: Generics...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '555'
+  original_post_id: '527'
+  _wp_old_slug: '527'
+---
+There's a study group at work for the Sun Certified Java Programmer exam; just finished leading the session for collections and generics.  This is not because I have any particular expertise in the area; we just each take a turn writing a study guide and leading the discussion for each chapter.
+
+Man, am I fried.  Collections are fine, but declaring classes with parameterized types (need to make a DogList class that only takes Lists of Dogs, anyone?) was confusing to everyone at the table, not just me.  Good thing we're not likely to need any of this after the exam.
+.

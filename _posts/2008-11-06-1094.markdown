@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '949'
+  original_post_id: '1094'
+  _wp_old_slug: '1094'
+---
+Day 2 at Integrum.  I'd have posted before now, but I haven't really had time.  The evening was spent setting up my various accounts (they use web apps for everything) and hanging out with Diana.  (Jeremy has the cold that won't go away, and it's stressing her out a lot.)
+
+I think this place is gonna be a good fit.  Gamers everywhere, and they have similar ideas about development practices.  Learning the ropes is gonna take a little time (whatever you might expect, OSX and TextMate aren't an easy transition), but I'll get the hang of it.  I'll be a Mac snob in no time.  More details as I have time to post 'em...

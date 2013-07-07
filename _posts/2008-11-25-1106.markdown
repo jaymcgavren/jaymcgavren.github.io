@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '957'
+  original_post_id: '1106'
+  _wp_old_slug: '1106'
+---
+Dinner at Pink Taco in Scottsdale.  Sacrelicious!
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2008/11/sn852626.jpg' title='sn852626.JPG'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2008/11/sn852626.thumbnail.JPG' alt='sn852626.JPG' /></a>

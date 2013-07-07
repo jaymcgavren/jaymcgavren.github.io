@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '967'
+  original_post_id: '1125'
+  _wp_old_slug: '1125'
+---
+After 1 level of a <a href="http://gitorious.org/projects/gemini">Gemini</a> demo game...
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2008/12/gravitor_ending.png' title='gravitor_ending.PNG'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2008/12/gravitor_ending.thumbnail.PNG' alt='gravitor_ending.PNG' /></a>
+
+I haven't laughed that hard in weeks...

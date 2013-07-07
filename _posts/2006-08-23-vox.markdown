@@ -1,0 +1,21 @@
+---
+layout: post
+title: Vox...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '357'
+  _wp_old_slug: '357'
+---
+Lessee...
+
+* AJAXey goodness.
+* Management for photos, audio, and video as well as text/journal entries.
+* A single RSS (er, Atom) feed for all my friends.  (Not sure if that will contain their photos as well as their writings.)
+* Bulleted lists.  :)
+
+
+I am definitely liking this Vox thing.  If there's a tool to let me import my LiveJournal posts, I'm switching and never looking back.

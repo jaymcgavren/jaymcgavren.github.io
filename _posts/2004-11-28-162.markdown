@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '161'
+  _wp_old_slug: '161'
+---
+Lenny's playing Zelda - The Minish cap on an emulator window in the background as I type this...  Not that he knows what he's doing, but he advances through the conversation dialogs like a pro.  :)
+
+Haven't played that far, but the graphics are ultra-slick.  This might be a rival to Link to the Past...

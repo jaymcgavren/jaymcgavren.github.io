@@ -1,0 +1,22 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '979'
+  original_post_id: '1146'
+  _wp_old_slug: '1146'
+---
+Heard this one before, but I have new appreciation for it...
+
+<blockquote>
+On two occasions I have been asked by members of Parliament, "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?"
+
+I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+
+--Charles Babbage
+</blockquote>

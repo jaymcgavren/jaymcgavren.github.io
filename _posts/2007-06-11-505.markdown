@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '532'
+  original_post_id: '505'
+  _wp_old_slug: '505'
+---
+Verizon wants to lock us in for two more years, so we're eligible for subsidized cell phones again.  I could stand my crap cheapo Nokia no longer; we took the bait.
+
+Mine will be the <a href="http://reviews.cnet.com/cell-phones/lg-vx8300/4505-6454_7-31812933.html">LG VX8300</a>, hers the <a href="http://reviews.cnet.com/cell-phones/motorola-razr-maxx-ve/4505-6454_7-32432738.html">Razr Maxx VE</a>.  They're due to arrive tomorrow.
+
+Only my line was eligible for the "new every two" discount, but she wants the more expensive phone, so I ordered each under the opposite line.  I called Verizon to confirm we could switch assigned numbers on the phones, so hopefully that'll go off without a hitch.

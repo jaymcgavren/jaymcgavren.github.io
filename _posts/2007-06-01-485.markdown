@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '484'
+  _wp_old_slug: '484'
+---
+The power button on my PC refused to work last night.  Fiddling with the connections got it going, but then it turned off in mid-boot.
+
+Finally got it running, but I shut it down for the day while I'm at work, lest it catch fire or something.  Diana keeps telling me to quit messing with this home-built crap and get a Dell or some such.  Maybe she's right.

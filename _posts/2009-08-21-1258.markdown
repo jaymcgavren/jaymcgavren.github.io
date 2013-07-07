@@ -1,0 +1,30 @@
+---
+layout: post
+title: Don't blame me, blame @bm5k.
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  enclosure: |-
+    http://jay.mcgavren.com/blog/wp-content/uploads/2009/08/beer.mp3
+    1685546
+    audio/mpeg
+  ljID: '1041'
+  original_post_id: '1258'
+  _wp_old_slug: '1258'
+---
+> @bm5k `a,b,c,d,e=" bottles of beer","on the wall"," Take 1 down pass it around ",a+b,d+c;(1..99).map{|i|"#{i}"+d+" #{i}"+e+"#{i-1}"+d} #songsincode`
+
+Resulted in:
+
+> 99 bottles of beeron the wall 99 bottles of beeron the wall Take 1 down pass it around 98 bottles of beeron the wall
+> 
+> 99 bottles of beeron the wall 99 bottles of beeron the wall Take 1 down pass it around 98 bottles of beeron the wall
+> 
+> 98 bottles of beeron the wall 98 bottles of beeron the wall Take 1 down pass it around 97 bottles of beeron the wall
+
+Which resulted in:
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2009/08/beer.mp3' title='beer.mp3'>beer.mp3</a>

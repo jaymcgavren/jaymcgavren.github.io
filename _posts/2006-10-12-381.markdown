@@ -1,0 +1,32 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_ed01eef00881fc49b61c74b3a5fc89d0: '{{unknown}}'
+  original_post_id: '380'
+  _wp_old_slug: '380'
+---
+You know, if I had never gotten into ROM hacking, I might have made a good genetic researcher...
+
+&gt; MIT World » : DNA Mutation, Repair and the Environment
+
+&gt; Samson wants to figure out how to protect cells against
+&gt; carcinogenic effects in the environment, and whether a
+&gt; tumor cell will be susceptible to treatment. She has been
+&gt; painstakingly studying the Saccharomyces cerevisiae yeast
+&gt; organism, trying to identify all the factors that determine
+&gt; whether or not DNA damaging agents kill or mutate cells.
+&gt; She interrogated each of this organism's 5,800 genes,
+&gt; "asking one by one, which of you is making a product that's
+&gt; important to helping a cell recover from damage." In what
+&gt; was a "huge surprise," Samson learned that there are more
+&gt; than 2,000 gene products involved in helping a yeast cell
+&gt; repair itself, "from areas of the cell never suspected
+&gt; before for being important" in this way.
+
+http://mitworld.mit.edu/video/387/

@@ -1,0 +1,29 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '786'
+  original_post_id: '868'
+  _wp_old_slug: '868'
+---
+Apparently the Scottsdale Chamber of Commerce's <a href="http://getphoenix.org/">Phoenix Young Professionals site</a> was designed in Mumbai...
+
+<blockquote>
+Get Phoenix: Growing * Emerging * Talent
+As a young professional, your career is very important to you. You are smart and ambitious - and you want to be recognized for your talents and your skills. We can help you GET ahead.
+...
+Benefits to Employers:
+-Attract talented employees
+-Compete in the competitive marketplace
+-Develop their workforce of tomorrow
+...
+About Young Professionals
+MEET THE NEXT GENERATION
+...
+They are a very diverse group between the ages of 25-40, are self employeed, employeed or actively seeking employment.
+</blockquote>

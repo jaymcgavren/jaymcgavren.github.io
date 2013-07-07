@@ -1,0 +1,15 @@
+---
+layout: post
+title: Bird flu...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '115'
+  _wp_old_slug: '115'
+---
+High on my worry list these past few months - <a href="http://story.news.yahoo.com/news?tmpl=story2&amp;u=/ap/20040826/ap_on_he_me/flu_pandemic">bird flu in Asia</a>.  Few remember the strain in 1918 that killed 20 million worldwide, but if bird flu mutates into a strain that can infect people, the death toll could be higher this time.  And if Diana's working in a hospital at the time, odds are she's gonna bring it home.
+
+Guess all we can do is stay healthy, get vaccinated every year, and hope for the best.

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Wow...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '123'
+  _wp_old_slug: '123'
+---
+If you ever donate to an election campaign fund, do so anonymously if you can.  I've been getting e-mail, snail mail, and phone calls from the Democratic Party ever since May.  &gt;:(  Of course, the Republicans seem even worse - I've gotten junk mail from them addressed to "resident".

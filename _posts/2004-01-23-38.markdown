@@ -1,0 +1,19 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '40'
+  _wp_old_slug: '40'
+---
+I kid you not...  The program I'm analyzing contains the following line of code:
+
+<pre>set you_smell 'Y'</pre>
+
+I *think* that's supposed to indicate that there's a problem with the system connection.  Of course, in other places they indicate that with the "hosed_ua" variable.
+
+I want to go upstairs and inflict serious bodily harm on the person who wrote this unreadable crap...

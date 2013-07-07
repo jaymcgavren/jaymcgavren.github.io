@@ -1,0 +1,19 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '16'
+  _wp_old_slug: '16'
+---
+OK, so here's a weird but cool idea - I've wanted a simple replay editor for fighting games for a while now, but why not go all out and make a full movie-making suite?  Picture this: <i>Tekken Movie Maker</i>.
+
+They re-use the engine from a popular fighting game (wouldn't have to be Tekken, but that sounds coolest in the title).  :)  They let you set up the scenery and a few basic props, and let you pick one or more character models to be in the scene.  Then they give one or more "actors" full control of the characters' movement, and allow them to enter "battle mode" with each other at will, where the normal fighting engine kicks in.  Their movements are recorded to memory for later playback.  Headphone mics (such as that used for XBox Live) record their speech as well.
+
+Then they allow you to set up lighting, camera speed and angle (bullet time included, of course), and effects (fade to black, text, etc.).  You can also go back and add in timed explosions, car crashes, and more.  Your finished movie is saved to hard disk for further editing or playback.  Networked systems would allow the finished product to be shared with (and edited by) the Net at large.
+
+I know I'd buy it, and I think several of my friends would, too.  It might happen; stranger things have been released.

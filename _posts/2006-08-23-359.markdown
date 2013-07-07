@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '358'
+  _wp_old_slug: '358'
+---
+Orbitz "customer care" has been e-mailing us every two weeks to notify us of changes to our flight itinerary to Omaha.  Not a change in carriers or flight numbers, but arrival and departure times.
+
+The average change is about 3 minutes.  I have to carefully compare the new to the old each time to verify it, though.  :P  If buying this early weren't saving us hundreds of dollars, I might be annoyed.

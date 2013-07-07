@@ -1,0 +1,19 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_3368060ab37b3ec0aa08435eed0d21e0: '{{unknown}}'
+  original_post_id: '112'
+  _wp_old_slug: '112'
+---
+From Gizmodo:
+
+&gt; This is it, folks. We have seen the future, and it is tiny
+&gt; sombreros for consumer electronics.
+
+http://www.gizmodo.com/archives/sombrerowearing-webcam-019430.php

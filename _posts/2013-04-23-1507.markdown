@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1132'
+  original_post_id: '1507'
+  _wp_old_slug: '1507'
+---
+Scary (and not in the terrorism sense).  The stock market is <em>completely</em> <a href="http://www.radiolab.org/2013/feb/05/million-dollar-microsecond/">automated</a> now, and this is all it takes to cause a major disruption.  <a href="http://blogs.wsj.com/moneybeat/2013/04/23/stocks-plunge-quickly-recover-on-fake-tweet/">http://blogs.wsj.com/moneybeat/2013/04/23/stocks-plunge-quickly-recover-on-fake-tweet/</a>
+
+Also, if even the AP can't keep an account secure, what hope do the rest of us have?  We need a <a href="http://www.wired.com/gadgetlab/2012/11/ff-mat-honan-password-hacker/">replacement for passwords</a> that's safe and yet easy to use.

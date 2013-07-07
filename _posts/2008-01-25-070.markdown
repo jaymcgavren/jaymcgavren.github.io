@@ -1,0 +1,22 @@
+---
+layout: post
+title: 0.7.0...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '707'
+  original_post_id: '754'
+  _wp_old_slug: '754'
+---
+Published the new Zyps on Wednesday...
+
+<blockquote>This is a major release for Zyps. Most important is the switch from the Ruby-GNOME2 to WxRuby, which is available as a gem. This means no more manual installation of dependencies before you can run the Zyps GUI. (And a nice little rendering speed boost, too.)
+
+Behaviors now act upon all eligible targets in a single update, as well. This means more flexibility for your Actions and Conditions.</blockquote>
+
+What I don't mention there is the feature I'm most pleased with - window resizing.  I'd intended from day one to have the playfield expand with the window, but I'm just now getting around to implementing it.
+
+It wasn't as bad as I'd feared, but it was still kinda tricky.  And I need to do an 0.7.1 release tonight: Alex Fenton notified me resizing wasn't working right on OS X.  (Actually, I'm just grateful it's running at all on OS X, since I don't have a machine to test it on.)  Anyway, Subversion HEAD should be fixed as of last night, and I'll roll it out ASAP.

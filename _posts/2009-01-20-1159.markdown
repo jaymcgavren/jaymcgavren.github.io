@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags:
+- Image
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '986'
+  original_post_id: '1159'
+  _wp_old_slug: '1159'
+---
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2009/01/grin.gif' title='grin.gif'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2009/01/grin.thumbnail.gif' alt='grin.gif' /></a>

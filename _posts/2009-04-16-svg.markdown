@@ -1,0 +1,16 @@
+---
+layout: post
+title: SVG...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1004'
+  original_post_id: '1191'
+  _wp_old_slug: '1191'
+---
+I'm having way too much fun with the out-of-the-box SVG support in Firefox 3...
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2009/04/picture-18.png' title='picture-18.png'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2009/04/picture-18.thumbnail.png' alt='picture-18.png' /></a>

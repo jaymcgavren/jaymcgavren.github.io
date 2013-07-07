@@ -1,0 +1,25 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_e2f419f1221bb2358845747b38c9256a: '{{unknown}}'
+  original_post_id: '419'
+  _wp_old_slug: '419'
+---
+Diana has to follow certain procedures when taking patients down to MRI, because the magnets in the machine can disable watches and make other stuff fly across the room.  Well, I stumbled across a site that depicts what happens when you're not careful:
+
+&gt; Flying Objects!
+&gt; "Once you've been in the MRI field for any length of time,
+&gt; you start hearing all of the various horror stories about
+&gt; things that have flown into a scanner. Often, newcomers
+&gt; don't take the real danger of flying objects seriously
+&gt; until they witness an oxygen tank or gurney flying into a
+&gt; magnet themselves. This page will contain a collection of
+&gt; pictures and stories of metalic projectiles."
+
+http://www.simplyphysics.com/flying_objects.html#

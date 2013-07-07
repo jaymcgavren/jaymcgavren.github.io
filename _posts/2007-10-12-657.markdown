@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '631'
+  original_post_id: '657'
+  _wp_old_slug: '657'
+---
+I know of at least 3 people in the last 3 months (including my father and my father-in-law) who have gotten viruses, and their solution was to go purchase a new computer.
+
+Anti-virus software needs to be easier to use, and it needs to be more effective.  Failing that, it needs to be easier to wipe a hard drive and reinstall Windows.  And people need to be educated on all of the above.  Why are there still no computer Q&amp;A-type shows on the major TV networks?  I would think they'd get substantial ratings with a minimal budget.

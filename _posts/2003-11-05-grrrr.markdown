@@ -1,0 +1,13 @@
+---
+layout: post
+title: Grrrr...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '8'
+  _wp_old_slug: '8'
+---
+Even Apple software can cause aggravation...  I'm using the new Windows iTunes to organize my MP3 collection, but the autocomplete in the tag editor won't even *let* me capitalize stuff correctly - it changes whatever I enter to the mis-capitalized entry found in some obscure song somewhere in the depths of my music folder.

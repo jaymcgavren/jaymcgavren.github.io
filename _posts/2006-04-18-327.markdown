@@ -1,0 +1,36 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_ae6aad93e35bec630a1ab8d34de0190a: '{{unknown}}'
+  _oembed_528044677f29372087f76ea4b3153eb7: '{{unknown}}'
+  _oembed_9e3b774c18be05a8a4d47a02a3267e71: '{{unknown}}'
+  original_post_id: '326'
+  _wp_old_slug: '326'
+---
+So until this morning, I believed AJAX was the domain of masochists - people who were willing to slog through cross-browser incompatibilities just to build a single transparent list and make their Website a shred cooler than the competition.  Then I listened to this podcast:
+
+&gt; IT Conversations: AJAX Progress and Challenges -
+&gt; Technometria
+&gt; "In this conversation, Phil Windley sits down with Ben
+&gt; Galbraith, Bruce Grant and Scott Lemon, three experienced
+&gt; AJAX developers and evangelists, to talk about progress and
+&gt; challenges in the AJAX world."
+http://www.itconversations.com/shows/detail1010.html
+
+And there I learned of the frameworks: libraries of Javascript functions that abstract away all the problems with working on multiple browsers.  Now, you don't code a transparent menu from scratch; you put a menu object in your page and the framework handles it all for you.  Not all features work across all browsers today, but at least now you can let the framework authors worry about that - your site's code doesn't need to be touched.
+
+<b>Prototype</b>
+This is the more polished framework.  It's also integrated with Ruby on Rails.  Check the links to script.aculo.us and Rico, two effects libraries built on top of Prototype.
+http://prototype.conio.net/
+
+<b>Dojo</b>
+This framework doesn't have a pretty set of example pages right now, but click on the HTML files in their unit test directory to see some [i]really[/i] cool widgets.  (Like the full rich text editor!)
+http://archive.dojotoolkit.org/nightly/tests/
+
+So what's the takeaway from all this?  I think AJAX is about to go mainstream.  I hope people will design responsibly and not use it for its own sake, but you should definitely consider whether your site will benefit from it.  Plain-old HTML is going to look dated very soon.

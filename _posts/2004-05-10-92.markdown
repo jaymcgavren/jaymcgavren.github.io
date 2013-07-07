@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '91'
+  _wp_old_slug: '91'
+---
+Anybody see the episode of the Simpsons last night with SSCAGAPWC (Singles, Senior Citizens, And Gays Against Parents With Children) against parents with children?  A few months ago, I would have been on the opposite side of that conflict.  :P

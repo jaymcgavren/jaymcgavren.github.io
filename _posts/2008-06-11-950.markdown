@@ -1,0 +1,24 @@
+---
+layout: post
+title: ':)'
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '851'
+  original_post_id: '950'
+  _wp_old_slug: '950'
+---
+<blockquote>
+(3:41:54 PM) Gary: sql file has been updated
+(3:42:13 PM) jay: Rawk.  Will that just be copy/pasted for production, then?
+(3:42:26 PM) Gary: yes
+(3:42:34 PM) jay: Double rawk.  Thanks!
+(3:42:47 PM) Gary: what the hell is "Rawk"
+(3:43:02 PM) jay: Rock, only more l33t.  :)
+(3:43:12 PM) Gary: I am out it!
+(3:43:17 PM) Gary: out of it
+(3:43:32 PM) jay: No, I'm making this crap up as I go.  :)
+</blockquote>

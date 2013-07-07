@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '545'
+  original_post_id: '515'
+  _wp_old_slug: '515'
+---
+This is my first (and probably last, cause I hate soft keyboards) post from my newly-working DS browser.  Yay!
+
+All my Reader feeds are in my bookmarks (public HTML, DS Opera doesn't like the AJAX), which is all I need from it for now.

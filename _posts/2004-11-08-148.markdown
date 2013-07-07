@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '147'
+  _wp_old_slug: '147'
+---
+<a href="http://www.newstarget.com/002080.html">U.S. Army tests battlefield robot armed with pump action shotgun; bring on the Terminators!</a>
+
+Favorite quote:
+<i>[Bush and Cheney] might as well have said, "We're going to invade Iraq because they have too much sand." And 50% of the American people would have believed that, pitching in to help redistribute the sand to the other sand-poor nations of the world, most notably Canada, which has almost no sand whatsoever but still somehow manages to remain calm.</i>

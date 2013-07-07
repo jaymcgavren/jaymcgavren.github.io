@@ -1,0 +1,18 @@
+---
+layout: post
+title: Betrayed!
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '791'
+  original_post_id: '873'
+  _wp_old_slug: '873'
+---
+GMail, how could you?  I trusted you!
+
+You take the e-mail I've been waiting on for 5 days now, the one I needed to plan life changes around, and you toss it in <em>the spam folder</em>?!
+
+I will never love (a web app) again.

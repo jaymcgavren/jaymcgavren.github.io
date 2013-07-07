@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '603'
+  original_post_id: '615'
+  _wp_old_slug: '615'
+---
+The baby's been fussing since 4 AM...  again.  It's bad for me, but it's gotta be worse for Diana, since she sleeps right next to him.

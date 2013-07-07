@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '672'
+  original_post_id: '701'
+  _wp_old_slug: '701'
+---
+<a href='http://jay.mcgavren.com/blog/archives/701/zyps-on-fedora-core-5/' rel='attachment wp-att-700' title='Zyps on Fedora Core 5'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2007/11/zyps_fedora.thumbnail.PNG' alt='Zyps on Fedora Core 5' /></a>
+
+Zyps is running on my Fedora Core 5 box.  Next stop: OSX.  Thanks, James!

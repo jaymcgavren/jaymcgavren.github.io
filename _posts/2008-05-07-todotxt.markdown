@@ -1,0 +1,20 @@
+---
+layout: post
+title: todo.txt...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '812'
+  original_post_id: '899'
+  _wp_old_slug: '899'
+---
+KDevelop allows collaborative editing on a document...  If the file is altered on disk and you haven't made local updates, it'll reload as soon as the other person saves.
+
+I think I'm gonna use this for an always-on todo list at work, which I've wanted for eons..  I've pointed KDevelop at a plain text file on a Samba share, then loaded the same file in the editor on my Windows box.  Every time I save in Windows, the change is reflected on the KDevelop screen a second later.
+
+Now when I want to know what I should to next (or need a reminder after spacing out), I should be able to just flick my eyes to my left, instead of waiting for an e-mail client to load.  (And yes, I could accomplish something similar with paper and pen, but I want something searchable, automatically archived, and universally accessible.)
+
+A similar setup with Google Docs seems to work as well.  The view only refreshes automatically if you have edit permissions on the document, though.  If you don't (or don't want to log in all the time), the Firefox "Reload Every" plugin should do the trick.

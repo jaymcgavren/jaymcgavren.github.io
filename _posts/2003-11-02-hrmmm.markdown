@@ -1,0 +1,19 @@
+---
+layout: post
+title: Hrmmm...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '6'
+  _wp_old_slug: '6'
+---
+It occurred to me that this <a href="http://www.wired.com/news/print/0,1294,50483,00.html" target="_blank">technology for "ultrasonic sound"</a> might lead to a richer audio experience on PCs.  This stuff produces directed sound that, no matter how loud it gets, cannot be heard outside a certain radius (as small as two or three feet).
+
+One of the reasons our PCs make so little noise nowadays is that we're afraid of what the office soundscape might turn into - a cacophony of computers clamoring for their owners' attention.  Video games, by contrast, provide excellent audio feedback - the particular type of "clank" you hear when you shoot a boss tells you whether you've hit him in his armor or his weak spot, for example.
+
+If our PCs are capable of providing a similar "clank" when you've clicked outside an editable field, etc., that capability is usually turned off, for fear of disturbing others.  But if those noises couldn't be heard by the guy in the next cube, more users would leave them on, and consequently developers would have incentive to improve the quality of the feedback.
+
+If every tool tip that comes up now is one day replaced with a voice explaining it, I'm probably going to turn that off to preserve my sanity.  But "clanks" would definitely be useful in situations where visual feedback might not be noticed or would be too obtrusive.  Maybe, someday soon...

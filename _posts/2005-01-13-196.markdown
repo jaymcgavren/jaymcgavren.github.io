@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '194'
+  _wp_old_slug: '194'
+---
+Lenny has a toy called "My First LeapPad".  You place an ordinary paper book on the pad, and use a stylus to point at words and pictures on the page to have them read aloud or even play simple games.  A cartridge in the side dictates how the pad will respond to the location you point to.  You have to touch a "Go" circle at a unique location each time you flip a page, so that it knows which page you're on.
+
+Lenny has figured out that if the LeapPad starts responding inappropriately, it must have lost track of which page it's on.  He knows to touch the "Go" circle whenever this happens, to remind the Pad what page it's on.
+
+<i>He figured this out on his own, and he's two-and-a-half years old.</i>  This kid is SO going to be a computer whiz when he grows up.

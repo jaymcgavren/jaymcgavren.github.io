@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '675'
+  original_post_id: '705'
+  _wp_old_slug: '705'
+---
+There has never been a major endeavor in my life that I have not, at some point, regretted starting.  That feeling usually fades when I finish.

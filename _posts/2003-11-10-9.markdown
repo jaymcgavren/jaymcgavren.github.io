@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '12'
+  _wp_old_slug: '12'
+---
+Well, my home page looks like shit, but all of my files are just a few mouse clicks away from anywhere in the world.
+
+Now I just need a content manager to make things look pretty and help people find the files they're looking for.  Zope sounds promising, but it doesn't want to work under Windows, and simple installation walkthroughs are proving hard to find.

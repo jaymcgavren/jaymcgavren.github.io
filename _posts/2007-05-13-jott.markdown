@@ -1,0 +1,21 @@
+---
+layout: post
+title: Jott
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '474'
+  _wp_old_slug: '474'
+---
+So I'm using Jott to send myself reminders now, but its speech recognition is less than perfect.  Here's a sampling of the e-mails that result...
+
+Thursday and every Tuesday night take past trash out.
+Mark[?]
+Reminder, replace the battery.
+[unclear speech, please listen]
+Remind her very clean kitchen.
+
+Doesn't matter; anything's better than waiting for Verizon's voice mail menus.

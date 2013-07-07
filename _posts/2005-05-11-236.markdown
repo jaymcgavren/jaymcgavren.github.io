@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '238'
+  _wp_old_slug: '238'
+---
+I just grabbed what I thought was the SQL Pocket Guide off my shelf, to look up some database field types.  I flipped to the index, and was surpised to see an entry for "Orwell, George".  "What is that doing in an IT handbook?", I wondered, and flipped to the entry.  It was only when I saw that it was in a section on creative writing technique that I realized I had grabbed Strunk and White's The Elements of Style (which is about the same size and shape) instead.

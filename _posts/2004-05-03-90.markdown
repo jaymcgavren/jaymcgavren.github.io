@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '89'
+  _wp_old_slug: '89'
+---
+After a grueling 3-day weekend moving into Diana's place, I'm ready to chill for a bit.  Too bad I have to organize a garage sale for *this weekend*.  :P  Hope y'all will understand if turnaround on communications takes a while.

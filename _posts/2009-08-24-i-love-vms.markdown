@@ -1,0 +1,15 @@
+---
+layout: post
+title: I love VMs.
+tags:
+- Image
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1043'
+  original_post_id: '1266'
+  _wp_old_slug: '1266'
+---
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2009/08/picture-1.png' title='picture-1.png'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2009/08/picture-1.png' alt='picture-1.png' /></a>

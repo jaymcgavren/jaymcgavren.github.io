@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '218'
+  _wp_old_slug: '218'
+---
+I find I'm making a *lot* of typos and grammatical errors the last week or so.  I never even used to have to proofread my work.  Yesterday I did almost nothing useful, because I couldn't concentrate enough to plan my new project.
+
+Nothing is so worrying as not being able to trust your own mind anymore.  I hope this is temporary.

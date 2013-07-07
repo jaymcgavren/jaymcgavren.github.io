@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '28'
+  _wp_old_slug: '28'
+---
+The tally of my e-mails sent so far today:
+
+From work: 23
+From home: 0
+
+My life is starting to get seriously imbalanced, and I don't know what I can do about it (other than pray for this promotion)...

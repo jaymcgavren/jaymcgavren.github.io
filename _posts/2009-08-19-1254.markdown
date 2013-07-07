@@ -1,0 +1,43 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1038'
+  original_post_id: '1254'
+  _wp_old_slug: '1254'
+---
+Logan put together a pretty impressive container for Jemini (note the rename for Google-ability) demos.  Just pick from a menu to load a state.  Showing a description?  One line.  Offering running updates on a variable's value?  One line.
+
+{% highlight ruby %}
+class AudibleState < Gemini::BaseState
+
+  def create_ui
+    text "Click in different places in the window to emit a sound at different pitches and volumes."
+    watch('Pitch') { @pitch }
+    watch('Volume') { @volume }
+  end
+
+  def load
+    
+    set_manager :sound, create(:SoundManager)
+
+    audible = create :GameObject, :Audible, :ReceivesEvents
+    
+    audible.load_sound :boom, "boom.wav"
+    
+    load_keymap :MouseKeymap
+    
+    audible.handle_event :mouse_pressed do |message|
+      @pitch = message.value.pointer.x / 100.0
+      @volume = message.value.pointer.y / 100.0
+      audible.emit_sound :boom, @volume, @pitch
+    end
+    
+  end
+end
+{% endhighlight %}

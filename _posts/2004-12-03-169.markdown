@@ -1,0 +1,19 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '168'
+  _wp_old_slug: '168'
+---
+I really like "fire and forget" services like Netflix...  I queue up a bunch of movies on a Website, forget about them, and receive them in the mail days, months, or years later.  (Who cares when?  I get them when I'm ready to watch them.)  Tivo has a similar allure.
+
+So what if there were a similar service for eBay?  You enter an item you want, a maximum price you're willing to pay (which could be a fraction of retail), and forget about it.  The service watches for auctions of the item you want, and automatically bids on them for you if they're still below the price you set.  You could get outbid on dozens or even hundreds of auctions, but sooner or later, you'll win.  Surprise!  You get the item in the mail the next week.
+
+It's like Christmas year-round.  And speaking of Christmas, your family and friends could also access the same wish list, and buy you stuff from it for your birthday, etc. at full retail price.  Surprise again; you got your item a lot sooner than you expected (and for free)!
+
+<a href="http://froogle.google.com/shoppinglist">Froogle Shopping Lists</a>, by the way, seem to be a step in the right direction...

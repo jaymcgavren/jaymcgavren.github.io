@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '994'
+  original_post_id: '1177'
+  _wp_old_slug: '1177'
+---
+Street Fighter IV is a rock solid game, but I'm having a hard time staying interested. Part of it is a lack of parries, part of it is my taste in games maturing, and, well, part of it is that I'm getting old.

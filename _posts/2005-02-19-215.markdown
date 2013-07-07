@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '217'
+  _wp_old_slug: '217'
+---
+There is no feeling on Earth like knowing you've had a really productive day.  I really gotta quit reading news sites and checking my e-mail every five minutes, so I can have more days like this.

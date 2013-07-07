@@ -1,0 +1,24 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1020'
+  original_post_id: '1213'
+  _wp_old_slug: '1213'
+---
+I just finished asking Diana what she thought about cancelling cable TV while the budget was tight.  (She was OK with the idea since she has Hulu.)  I come back to GMail and see this ad at the top:
+
+<blockquote>TV Service Too Expensive? - www.DishNetwork.com</blockquote>
+
+Oh my God, I thought, Google <em>did</em> develop mind-reading technology.
+
+Well, no.  But they may as well have.  They probably displayed that because my last two sent e-mails were:
+
+<blockquote>Reminder: Jobs: Next: Check Chase bank statement for payments to cancel.</blockquote>
+
+<blockquote>I have to backtrack - it looks like the travel budget will be too tight in June.  Don't think we're going to be able to make it.  :(</blockquote>

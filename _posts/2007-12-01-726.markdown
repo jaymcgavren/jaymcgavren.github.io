@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '689'
+  original_post_id: '726'
+  _wp_old_slug: '726'
+---
+The Tivo gets a lot of tech podcasts, and I told Lenny I wanted to pick the next show after his cartoon was done.
+
+Lenny (sincerely): "You mean that show where they talk about a lot of cell phones?  Like nerds?"
+Me (laughing): "Yes, that show."

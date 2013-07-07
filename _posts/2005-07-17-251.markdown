@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '253'
+  _wp_old_slug: '253'
+---
+Why didn't I try <a href="http://www.audioscrobbler.com/">AudioScrobbler</a> sooner?  It's a simple plugin for WinAmp/iTunes/Insertyourmediaplayerhere that tracks which songs/artists you play, and how often.  No ratings, no genres, nothing you need to be as anal retentive as a librarian in order to track.  It uploads this data to a Website, where your listening data is compared with other people's to find those with similar taste.
+
+You can then use their profiles to discover music you might like.  You can even go to their new sister site, <a href="http://www.last.fm/">last.fm</a>, to listen to a personalized radio station.  (Right now I'm listening to a groovin' downtempo/rap song I might never have discovered otherwise.  Because it's in French.)

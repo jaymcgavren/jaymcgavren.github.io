@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '840'
+  original_post_id: '938'
+  _wp_old_slug: '938'
+---
+Have you noticed what a central notion powerup management is to many games?  D and I were playing Gauntlet last night, and we knew we'd barely squeak by the level we were on.  So every hunk of cheese that dropped was carefully rationed to ensure it wasn't wasted on a mostly-full health bar.  This happened on the fly, but required a bit of hasty debate.
+
+I don't think this is even an intentional gameplay mechanic for most games that have it, but maximum HP definitely increases the need for teamwork.  I wonder if the model can even be improved upon...

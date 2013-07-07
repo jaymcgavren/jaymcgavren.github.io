@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+                
+                
+
+                <article class="posts">
+                    
+                    {% for post in paginator.posts %}
+                    
+                        <section>
+                            <a href="{{ post.url }}">
+                                <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                            </a>
+                            {% if post.title != null and post.title != '' %}
+                                <h2>
+                                    <a href="{{ post.url }}">
+                                        {{ post.title }}
+                                    </a>
+                                </h2>
+                            {% endif %}
+                            <p>{{ post.excerpt }}</p>
+                            <a href="{{ post.url }}">Read more...</a>
+                        </section>
+
+                    {% endfor %}
+                    
+                    <div class="pagination">
+                        {% if paginator.previous_page %}
+                            {% if paginator.previous_page != 1 %}
+                                <a href="/page{{ paginator.previous_page }}" class="previous">&laquo; Previous</a>
+                            {% else %}
+                                <a href="{{ site.baseurl }}">&laquo; Previous</a>
+                            {% endif %}
+                        {% endif %}
+                        <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+                        {% if paginator.next_page %}
+                            <a href="/page{{ paginator.next_page }}" class="next">Next &raquo;</a>
+                        {% endif %}
+                    </div>
+                    
+                </article>
+                
+                <aside>
+                    <h3>About Me</h3>
+                    <p>I've been developing software professionally since 2004.  I believe everyone should know how to code, so I give <a href="http://confreaks.com/presenters/169-jay-mcgavren">talks</a> and make online <a href="http://www.codeschool.com/code_tv?filters%5Bauthor%5D=jaymcgavren">screencasts</a> and <a href="http://www.codeschool.com/courses/try-r">interactive courses</a> to help others learn.</p>
+                </aside>
+                
+            </div> <!-- #main -->            
+        </div> <!-- #main-container -->
+

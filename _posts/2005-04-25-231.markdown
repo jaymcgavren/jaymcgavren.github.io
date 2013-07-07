@@ -1,0 +1,21 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '233'
+  _wp_old_slug: '233'
+---
+
+<a href="http://home.uchicago.edu/~alexis/ostan.htm" target="new">
+<img src="http://home.uchicago.edu/~alexis/2k.jpg" border="0">
+</a><br />
+<a href="http://home.uchicago.edu/~alexis/ostan.htm" target="new">Which OStan are you?</a> <p align="center"> You are Windows 2000 Professional Edition. You are the most stable and reliable of all the Windows girls. Of course, since your main comparison is with ME, that's not saying much. You're popular with some, but you're being replaced with XP. You often help take care of your sister ME.</p>
+
+
+
+Sigh...  Yes, I caved and did a survey...

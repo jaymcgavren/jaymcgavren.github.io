@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '456'
+  _wp_old_slug: '456'
+---
+I followed Diana out into the living room.  I thought she was in the mood, which was good, but as I looked around I thought we were in a stranger's house, which was bad.  She was saying something to me insistently, but I have no clue what.
+
+It was only after I'd already been fiddling with the cables for more than a minute that I realized we *were* at home, that Diana was actually asking me to fix the XBox, and that it was 3 AM and I was groggy as hell.

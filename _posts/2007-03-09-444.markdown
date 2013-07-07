@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '444'
+  _wp_old_slug: '444'
+---
+Got the XBox 360...  Not only have I not purchased any games on an actual disc yet, I don't really care.  Everything I'm playing has been downloaded to the hard drive (some actually purchased, some just demos).
+
+I'm actually annoyed at the prospect of having to go pop a disc in once we buy something bigger.  Downloads are definitely the future.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: Oh.  My.  God.
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '838'
+  original_post_id: '935'
+  _wp_old_slug: '935'
+---
+Just spent half the afternoon trying to update a field via this legacy app I maintain, only to find that it reads the value from an update file and then silently discards it.  (And that's what it's "supposed" to do.)
+
+And then while trying to explain my own dumbassery, my co-worker realizes that the field she told me needed fixing wasn't even the right one.  Arrrggghh!

@@ -1,0 +1,23 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '185'
+  _wp_old_slug: '185'
+---
+Here's a sampling of the terminology used in Chapter 1 of Strunk and White's <u>The Elements of Style</u>:
+
+appositive
+posessive singular
+pronominal posessive
+indefinite pronoun
+parenthetic expression
+nonrestrictive relative clause
+restrictive term of identification
+
+The chapter's titled "Elementary Rules of Usage".  No wonder people are daunted by language studies...

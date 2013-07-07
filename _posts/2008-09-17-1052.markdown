@@ -1,0 +1,95 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '924'
+  original_post_id: '1052'
+  _wp_old_slug: '1052'
+---
+More experiments with objects that do weird crap when placed in ordinary situations...
+
+This one lets you wrap an object so that its apparent value changes over time.
+
+{% highlight ruby %}
+class ValueProxy
+	self.instance_methods.reject{|m| m.to_str == '__id__' or m.to_str == '__send__'}.each do |method|
+		undef_method(method)
+	end
+	def initialize(value)
+		@value = value
+	end
+	def method_missing(method, *arguments)
+		value.send(method, *arguments)
+	end
+end
+{% endhighlight %}
+
+Then we subclass it to do various things with `@value`...
+
+{% highlight ruby %}
+class ReverseProxy < ValueProxy
+	def value
+		@value.reverse
+	end
+end
+{% endhighlight %}
+
+And ordinary calls like this suddenly get weird.
+
+{% highlight ruby %}
+string = ReverseProxy.new('foobar')
+puts string
+string2 = string + 'baz'
+puts string2
+puts ReverseProxy.new([1, 2, 3])
+{% endhighlight %}
+
+Output:
+<pre>
+raboof
+raboofbaz
+3
+2
+1
+</pre>
+
+<!--more-->
+
+A different implementation of `#value`...
+
+{% highlight ruby %}
+class IncrementingProxy < ValueProxy
+	def value
+		@value = @value.succ
+	end
+end
+
+number = IncrementingProxy.new(1)
+puts number
+puts number
+letter = IncrementingProxy.new('a')
+puts letter
+puts letter
+{% endhighlight %}
+
+...gives different results.
+
+<pre>
+3
+5
+c
+e
+</pre>
+
+Other stuff I wanna try:
+
+Numeric whose value increases by the number of seconds since its creation.
+Range that iterates over its elements in random order.
+Numeric that always returns negative of itself.
+Boolean that returns opposite of itself.
+Boolean that alternates between returning true and false.

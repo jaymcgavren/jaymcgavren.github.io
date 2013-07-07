@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '541'
+  original_post_id: '511'
+  _wp_old_slug: '511'
+---
+Damn, Parallels is only $80.  Being able to switch live between OSX, Windows and Linux would solve a lot of problems for me.  (Of course, it might also create new ones; I'm already stretched pretty thin maintaining my work, desktop and laptop configs.)
+
+Was waiting for WWDC to see if they announced Mac mini upgrades.  Instead they announced Time Machine, which looks like the backup/versioning solution I've *really* been waiting for.  (Subversion works, but it ain't transparent.)
+.

@@ -1,0 +1,22 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '613'
+  original_post_id: '630'
+  _wp_old_slug: '630'
+---
+I wasn't looking forward to re-issuing fifty "learn as open x" Enso commands on each of my machines.  What I found, though, is that Enso simply stores ordinary Windows shortcuts here:
+
+<pre>%userprofile%/My Documents/Enso's Learn As Open Commands</pre>
+
+I was able to simply run my create_shortcuts.pl in that folder and instantly re-create all my shortcuts as open commands.  That includes stuff Enso can't create with "learn as open", like:
+
+<pre>rundll32.exe Shell32.dll, Control_RunDLL appwiz.cpl</pre>
+
+Not bad.  Now I'm just awaiting the ability to run Python scripts of my own design on the current selection.

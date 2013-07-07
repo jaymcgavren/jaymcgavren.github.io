@@ -1,0 +1,30 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '915'
+  original_post_id: '383'
+  _wp_old_slug: '383'
+---
+OK, so I'm getting pretty involved with World of Warcraft.  I know I won't have a lot of time to devote to the game, though, so I'm probably only going to do 1 character (2 if I have to change servers for some reason).  It looks like my Tauren Druid was a pretty good (lucky) choice.
+
+I want my character to mesh well with other people's in raids/parties/etc.  So here's my plan for talent growth:
+
+<ul>
+	<li>Max Mark of the Wild in Restoration tree: I'm told it's the best buff in the game, and I can start upgrading it immediately at level 10.</li>
+	<li>Max entire feral combat tree: From there, I'll turn my attention solely to feral combat, with these goals:</li>
+		<ul>
+			<li>Boost my bear's threat level, to hold the attention of monsters so I can serve as a tank.</li>
+			<li>Boost my cat's stealth, for quick kills while soloing.</li>
+			<li>Get cat's travel speed bonus, which is available 10 levels before the travel form, to get around the world faster (it'll be a long time before I get a mount).</li>
+			<li>Eventually earn Leader of the Pack, which will boost the entire party's stats.</li>
+		</ul>
+	<li>Alchemist/herbalist: I've already gotten quite a few useful leather items from "jdredd5150" and "mr_mooph", so I'm hoping this will let me create some useful potions instead.</li>
+</ul>
+
+I hope I understand the pros/cons of these abilities right, 'cause it's gonna take a long time to earn 'em...

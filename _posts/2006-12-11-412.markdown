@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '413'
+  _wp_old_slug: '413'
+---
+Wow.  There's no way I'd have waited this long to pick up Shadow of the Colossus if I'd known exactly how good it was.  It was ambitious enough to attempt even one creature that you actually climb on top of, but they made over a dozen.  And then they actually *try to shake you off*?!  Bugtesting this thing had to be a bitch.
+
+The effects are spectacular, too - running for your life on horseback from a towering monster is twice as terrifying when the screen is shaking, the world is a blur from the speed, and the only thing emitting from your stereo is thundering chaos.  And the story...  I've always gravitated toward songs without lyrics, so a story without words is near perfect in my eyes.
+
+On the downside, I've been having dreams all weekend where all I can see is those glowing eyes staring down at me...

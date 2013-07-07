@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '230'
+  _wp_old_slug: '230'
+---
+You are currently reading the blog of my company's newest SENIOR Programmer Analyst.  :)  Not bad after one year.
+
+People used to go half a decade without a promotion in this department.  I am very lucky to have joined in the year the logjam broke.

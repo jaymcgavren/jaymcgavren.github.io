@@ -1,0 +1,13 @@
+---
+layout: post
+title: So sick...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '314'
+  _wp_old_slug: '314'
+---
+I'm debating whether to tough it out a few more hours or go home sick (in which event I have to take a full day's sick time).  I feel like month-old warmed-over hell served cold from the fridge.

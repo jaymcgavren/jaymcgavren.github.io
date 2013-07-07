@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '260'
+  _wp_old_slug: '260'
+---
+There's a travel freeze and a hiring freeze (despite the fact that our department is severely understaffed).  They've just announced that they're halting 401K matching for the rest of the year.
+
+Right now, I'm just hoping I get a severance package if I'm laid off.  We need it to sustain us while I hunt for a job.

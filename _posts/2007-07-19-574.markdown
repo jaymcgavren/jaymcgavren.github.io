@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '578'
+  original_post_id: '574'
+  _wp_old_slug: '574'
+---
+Between the baby, work, upcoming surgeries, and everything else, it'll sometimes take me a whole week to get back to the problems I want to work on.  Not only can I not solve them, I can't even work on them.  I spend the entire interim with them at the back of my mind.
+
+I've always been about instant gratification.  This is really frustrating.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '723'
+  original_post_id: '773'
+  _wp_old_slug: '773'
+---
+Arrrgggh!  Currently getting 8.0 KB/second off my Dreamhost site.  This could kill Zyps.exe downloads - 8MB could take 20 minutes.  I may have a way to reduce the download size to 3MB, but even so...
+
+Guess you do get what you pay for.

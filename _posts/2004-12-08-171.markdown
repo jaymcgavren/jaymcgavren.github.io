@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '170'
+  _wp_old_slug: '170'
+---
+A conference call I was on this morning between like 25 people in Scottsdale, Dallas, and the U.K. was taken completely offline when one of the participants (we still don't know who) put the conference call on hold.  The muzak was so loud that no one could hear anyone else, so everyone had to scramble to switch to another conference bridge.  :)

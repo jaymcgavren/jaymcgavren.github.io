@@ -1,0 +1,24 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_8a66af42358161a17189e24a1d00a149: '{{unknown}}'
+  _oembed_aeb67c7b592b2a3a7bb9b6acc585b4c2: '{{unknown}}'
+  original_post_id: '337'
+  _wp_old_slug: '337'
+---
+Here's yet another glimpse into my daily train of thought - my del.icio.us bookmarks page.
+
+HTML:
+http://del.icio.us/nephariuz
+RSS:
+http://del.icio.us/rss/nephariuz
+
+I use "Lazy Sheep" (http://ejohn.org/apps/sheep/) to add stuff.  It's a JavaScript bookmark that I simply click when I'm viewing an interesting page, and it'll add it to del.icio.us with tags borrowed from other users.  Yes, I'm probably helping pollute the site with lame tags in some cases, but I wouldn't submit at all if it weren't for this shortcut.  At some point I'll go into the account and clean things up a bit.
+
+So, anyone else have a del.icio.us/Furl/othersocialbookmarking account?  If not, <a href="http://del.icio.us/register">get one</a>!

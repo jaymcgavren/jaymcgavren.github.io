@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '392'
+  _wp_old_slug: '392'
+---
+So the Lappy is officially out of commission for a week or two.  I turned my back for a second, and the screen went black, and now it won't even turn on.
+
+I'd get a refund and buy a Dell instead, but Newegg's laptop policy is exchanges-only.  So I gotta ship it back and wait for a replacement, then set everything up from scratch again.  I'd like to wipe the hard drive on this one for security's sake, but that's a little hard when it won't power up.  Hope Newegg/Acer does it for me.

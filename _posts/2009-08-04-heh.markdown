@@ -1,0 +1,19 @@
+---
+layout: post
+title: Heh...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '1035'
+  original_post_id: '1244'
+  _wp_old_slug: '1244'
+---
+In my Google search results (I go by "nephariuz" in various online forums)...
+
+> nepharious :: ruby, rails, consulting
+> We build web applications faster and for less using rapid application prototyping and development with the Ruby on Rails framework.
+> www.nepharious.com/
+

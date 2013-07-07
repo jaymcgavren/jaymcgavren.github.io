@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  _oembed_70b3357b535c93a9f9a1988056071c88: '{{unknown}}'
+  original_post_id: '462'
+  _wp_old_slug: '462'
+---
+Released my first Ruby app last night...
+
+http://code.google.com/p/itunes-control/
+
+...it's just a simple command line controller for Windows iTunes, but the groundwork is laid for much cooler stuff.  After jumping through some hoops I was able to make it a standalone app (no Ruby installation required), in addition to an ordinary Ruby gem.  Future releases will likely have installers for Mac, Linux, and Windows alike, with no additional switch-flipping on my part.

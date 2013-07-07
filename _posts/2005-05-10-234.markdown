@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '236'
+  _wp_old_slug: '236'
+---
+I'm programming!  I'm writing honest to God code - that will go into a PRODUCTION SYSTEM!
+
+How long has it been now - five months?  During that time, all I've been able to do is write documents about programming.  Now I get to actually do it!  Can you imagine?

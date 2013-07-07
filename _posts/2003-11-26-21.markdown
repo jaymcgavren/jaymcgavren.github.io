@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '24'
+  _wp_old_slug: '24'
+---
+I'm in Omaha!  Yay.  I'm posting this from Glen's PC at his new house (which he shares with three roommates).
+
+Definitely a high geek quotient here - there are Dilbert stickers and calendars all over the place, co-ax and cat-5 cable strung everywhere, a video game system occupying every available shelf, and boxes of anime in the basement.  None of this, as far as I can tell, is Glen's doing...

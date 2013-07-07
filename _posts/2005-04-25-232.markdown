@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '234'
+  _wp_old_slug: '234'
+---
+New Halo 2 maps tonight!  Yay!
+
+I should be on about 7:30 PM Arizona time (9:30 Central), with Diana joining me shortly thereafter.

@@ -1,0 +1,17 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '237'
+  _wp_old_slug: '237'
+---
+Our project architect wanted to track files in a database.  I would have been just as happy with a text file, but I put in a database to avoid an argument.  In my experience, arguing over an overly-complex design takes longer than doing it the complex way.
+
+Now the database admin, who I was never even introduced to, is vetoing my design.  She says it's not efficient enough.  I say we're going to be writing 20 records a DAY to it.  She says "we might expand it in the future".
+
+Whatever.  Arguing about it takes longer than doing it the complex way.  I'm hoping my boss sticks a sock in the admin's mouth before I start the redesign, though.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Ahhhh!
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '716'
+  original_post_id: '766'
+  _wp_old_slug: '766'
+---
+Work e-mail inbox is empty.  Hurray!  (This should be a daily occurrence, but it happens so rarely I feel compelled to celebrate.)

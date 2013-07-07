@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '853'
+  original_post_id: '953'
+  _wp_old_slug: '953'
+---
+Whatever your expectations of The Happening may be, it's probably not going to live up to them.  Hell, it didn't even piss me off like I was expecting, cause it actually has a couple moments.  But that's before they begin beating you over the head with the "mystery".

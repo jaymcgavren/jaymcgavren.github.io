@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '875'
+  original_post_id: '992'
+  _wp_old_slug: '992'
+---
+Lenny saw a multi-exposure photo on Flickr and thought it was pretty cool, so I gave him a quick demonstration of how to duplicate the effect in Photoshop:
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2008/07/lenny_ghost.jpg' title='lenny_ghost.jpg'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2008/07/lenny_ghost.thumbnail.jpg' alt='lenny_ghost.jpg' /></a>
+
+<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2008/07/daddy_ghost.jpg' title='daddy_ghost.jpg'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2008/07/daddy_ghost.thumbnail.jpg' alt='daddy_ghost.jpg' /></a>

@@ -1,0 +1,25 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '252'
+  _wp_old_slug: '252'
+---
+I'm downloading some database software, and the license contains this little passage...
+
+&gt; Circumstances may arise where, because of a default on
+&gt; [vendor]'s part or other liability, You are entitled to recover
+&gt; damages from [vendor]. In each such instance, regardless of the
+&gt; basis on which You may be entitled to claim damages from
+&gt; [vendor], (including fundamental breach, negligence,
+&gt; misrepresentation, or other contract or tort claim), [vendor] is
+&gt; liable for no more than 1) damages for bodily injury
+&gt; (including death) and damage to real property and tangible
+&gt; personal property...
+
+Ah, good.  If the database kills anybody or destroys their house, at least I'll be covered.

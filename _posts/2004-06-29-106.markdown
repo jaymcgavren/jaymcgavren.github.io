@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '105'
+  _wp_old_slug: '105'
+---
+OK, this is getting seriously weird - *another* person greeted me by name in the hall today, and I have no clue who they were.  Have I actually met these people, but my memory is going bad?  Or have I gained that much of a reputation?

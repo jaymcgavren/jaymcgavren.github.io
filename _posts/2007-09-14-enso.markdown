@@ -1,0 +1,24 @@
+---
+layout: post
+title: Enso...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '612'
+  original_post_id: '629'
+  _wp_old_slug: '629'
+---
+Ever since using the late Jef Raskin's The Humane Environment, I've been using the Windows Run menu, my "cb" (read/write clipboard) utility, and a few other scripts to do a sad, modal approximation of the THE command quasimode.
+
+<pre>cb | less</pre>
+
+<pre>cb | wc | less</pre>
+
+<pre>cb | upper_case | cb</pre>
+
+<pre>web humanized.com</pre>
+
+Well, it looks like <a href="http://www.humanized.com/">Enso</a> is about to replace all that.  It's out, it's $20, and I just ordered it straight away after watching the demo video.  We'll see soon whether I regret that decision.

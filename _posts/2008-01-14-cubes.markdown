@@ -1,0 +1,16 @@
+---
+layout: post
+title: Cubes...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '702'
+  original_post_id: '748'
+  _wp_old_slug: '748'
+---
+My toy office, now with copy center and Annoying Co-Worker Who Can't See I'm Wearing Headphones(tm)!
+
+<a href='http://jay.mcgavren.com/blog/archives/748/0114081450jpg/' rel='attachment wp-att-747' title='0114081450.jpg'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2008/01/0114081450.thumbnail.jpg' alt='0114081450.jpg' /></a>

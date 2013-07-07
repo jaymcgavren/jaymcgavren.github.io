@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '960'
+  original_post_id: '1110'
+  _wp_old_slug: '1110'
+---
+For anyone who doubts that the Internet is <a href="http://gizmodo.com/5095567/19+year+old-commits-suicide-live-on-justintv-while-commenters-egg-him-on">making us into sociopaths...</a>

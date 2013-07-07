@@ -1,0 +1,28 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '869'
+  original_post_id: '981'
+  _wp_old_slug: '981'
+---
+Got a recommendation to read Kent Beck's <em>Extreme Programming Explained</em>, and while I'm not ready to endorse it yet, there's definitely a few quotes I like:
+
+"Courage is effective action in the face of fear."
+
+"The cost of the redundancy is more than paid for by the savings from not having the disaster."
+
+"If you're having trouble succeeding, fail. Don't know which of three ways to implement a story? Try it all three ways. Even if they all fail, you'll certainly learn something valuable."
+
+"Often, software development doesn't meet human needs, acknowledge human frailty, and leverage human strength."
+
+"I write automated tests that help me design and implement better today. I leave these tests for future programmers to use as well. This practice benefits me now and maintainers down the road."  This is as opposed to written documentation, which only benefits future maintainers (and is therefore going to receive short shrift in the real world).
+
+"There are legitimate reasons for having multiple versions of the source code active at one time. Sometimes, though, all that is at work is simple expedience, a micro-optimization taken without a view to the macro-consequences."
+
+"With pay-per-use systems, you charge for every time the system is used. Money is the ultimate feedback. Not only is it concrete, you can also spend it."

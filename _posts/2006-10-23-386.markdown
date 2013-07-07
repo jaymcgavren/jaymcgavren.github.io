@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '385'
+  _wp_old_slug: '385'
+---
+New laptop just arrived at home.  I confirmed with Diana - it is in fact shiny.

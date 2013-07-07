@@ -1,0 +1,68 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '406'
+  _wp_old_slug: '406'
+---
+&gt; The door is closed.
+&gt; The dining hall
+&gt; This is Dragons' dining hall. There is a large long solid
+&gt; oak table, seating
+&gt; at least 24, with heavy, wooden chairs to match. The oak
+&gt; panel walls are
+&gt; filled with paintings. There are doors to the north and
+&gt; east, and to the west
+&gt; there is a wide double door opening out onto the sunlit
+&gt; terrace.
+&gt;
+&gt; Diana is here, smiling at you.
+&gt; Belrak, the Tauren cleric, looks unhappy about having
+&gt; visitors.
+&gt; Gefyn, the Tauren cleric, looks unhappy about having
+&gt; visitors.
+&gt; Jay, standing idly.
+&gt; Diana is here, smiling at you.
+&gt; Judy is here, smiling at you.
+&gt; Nate, standing idly.
+&gt; Lenny is here, playing tag and other kids' games.
+&gt; A baby crawls about, looking for something to chew on.
+&gt; A girl is here, playing jump jacks and other kids' games.
+&gt; Emma Kate crawls about, looking for something to chew on.
+&gt; Joe looks at you curiously.
+&gt; Laura is here, smiling at you.
+&gt; Eric looks at you curiously.
+&gt; Hitomi is here, smiling at you.
+&gt; Eric's Mom is here, smiling at you.
+&gt; John looks at you curiously.
+&gt; Lacey is here, smiling at you.
+&gt; Glen looks at you curiously.
+&gt; April is here, smiling at you.
+&gt; Alan looks at you curiously.
+&gt; Musetta is here, smiling at you.
+&gt; Chuck looks at you curiously.
+&gt; Ruth is here, smiling at you.
+&gt; Janet is here, smiling at you.
+&gt; Jeremy is standing here, making sure there is no trouble.
+&gt; A mountain lion is roaring at you, ready for a strike!
+&gt; A druid is here in meditation.
+&gt; The Lord of the Western Realm, clothed in ice-white robes.
+&gt;
+&gt; Obvious exits:
+&gt; North: a door, closed
+&gt; East : a door, closed
+&gt; West : a wide, closed
+&gt;
+&gt;
+&gt; 
+&gt; Jeremy says to Jay 'Hello Jay. How's it going?'
+&gt; Nate says to Jay 'Hello Jay. How's it going?'
+&gt; Jay says to himself 'What's up Jay?'
+&gt; Lord Xiphos Rawulf says to Jay 'What's up Jay?'
+&gt; Gefyn says to Jay 'What's up Jay?'
+&gt; Belrak says to Jay 'Hello Jay. How's it going?'

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Cerberus
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '571'
+  _wp_old_slug: '571'
+---
+Been hearing various speakers sing the praises of "continuous integration" testing (automated builds, tests, and reporting on your project at regular intervals) at the Java users' group.  Seems like a way of keeping score, which I like.  But of course my company is a bit behind the curve on such things.  (I know a couple projects with no tests at all.)  So if I want experience, it's gonna be up to me.
+
+Cerberus seems to be the most likely framework to use for Ruby.  My existing tests for Zyps included some stuff that launches a GUI window for a human to check visually, though, which isn't compatible with an automated build.  That's now been moved to a "demo" script.  Hopefully that's the only dumb nonstandard thing I've done.

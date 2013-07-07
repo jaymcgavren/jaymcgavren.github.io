@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '375'
+  _wp_old_slug: '375'
+---
+Found a new emulator called pSX last night.  It's the first PlayStation emulator to bring quality and compatibility on par with those available for older systems.  Anyway, it inspired me to break out a few old games...
+
+Anyone else remember Battle Area Toshinden?  That was actually one of the main reasons I first purchased a Playstation.  Well, I went back and played it last night, and it's a lot worse than I remember.  I mean, it's REALLY bad.  And yet great at the same time.  I cracked up all over again as Fo Fei fell out of the ring during his win pose.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '806'
+  original_post_id: '892'
+  _wp_old_slug: '892'
+---
+Two Dell boxes sitting behind me in my cube...  I know at least one contains a GX755 with 2GB RAM, intended as a replacement for my Linux box.  Hopefully the other contains the same, but with XP, as that would be the cure for my dragging Eclipse environment.
+
+No time to mess with either one today, though.  Gotta get this project debugged and running <em>yesterday</em>.

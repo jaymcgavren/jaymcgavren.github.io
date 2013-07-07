@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '859'
+  original_post_id: '963'
+  _wp_old_slug: '963'
+---
+Here at Gangplank hack night, and in the first 60 minutes I participated in an unexpected podcast and met my first angel investor (didn't have an elevator pitch for him, but I gave myself a good introduction).
+
+Not bad for the space of an hour.  I like this place!

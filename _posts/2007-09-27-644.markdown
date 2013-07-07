@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '620'
+  original_post_id: '644'
+  _wp_old_slug: '644'
+---
+I was picking Lenny up from school today, and I walked by a fourth or fifth grader who was asking his friend, "So does the Master Chief die?"

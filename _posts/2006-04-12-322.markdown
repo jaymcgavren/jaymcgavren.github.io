@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '321'
+  _wp_old_slug: '321'
+---
+After giving me a week off, Lenny has resumed his habit of coming into the room and waking me up at 3 AM.  I put up with it before, but now that I know he can do better, I'm pretty mad at him.

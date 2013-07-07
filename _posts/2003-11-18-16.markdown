@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '19'
+  _wp_old_slug: '19'
+---
+For no reason at all, I go from happy yesterday to grumpy as hell today.  I'm tired, but that alone shouldn't be reason, should it?  Maybe I got a pot of bad coffee.
+
+Anyway, I'm shutting myself in my apartment for the evening, for the good of the rest of the world.

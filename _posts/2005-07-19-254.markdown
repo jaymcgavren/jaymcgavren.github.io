@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '256'
+  _wp_old_slug: '256'
+---
+Heh...  Six years later, people are still <a href="http://www.mindsay.com/tags/ganon's+revenge">discovering Ganon's Revenge</a>.  (And no, I'm not gonna give her any hints.  Heck, I don't even remember most of the design.  Hmmm, I should play it again sometime...)

@@ -1,0 +1,23 @@
+---
+layout: post
+title: Sweeeeet...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '901'
+  original_post_id: '1030'
+  _wp_old_slug: '1030'
+---
+<pre>
+$ ruby %scripts%\xbox_live_alert.rb nephariuz frejya
+
+I, [2008-08-21T21:16:22.343000 #1968]  INFO --
+#Utility::Email::Email:0x793e340:
+@body="nephariuz\tXbox 360 Dashboard\nfrejya\tXbox 360 Dashboard",
+@recipients=["me@wirelesscarrier.com"] ...
+</pre>
+
+Thanks to a Live status feed someone published and a quick REXML script, I can get a text message whenever two or more friends are online, along with what they're playing...

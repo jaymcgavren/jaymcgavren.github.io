@@ -1,0 +1,21 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '173'
+  _wp_old_slug: '173'
+---
+Wish I'd seen this quote a long time ago:
+
+<i>There is always more to do than there is time to do it, especially in an environment of so much possibility. We all want to be acknowledged; we all want our work to be meaningful. And in an attempt to achieve that goal, we all keep letting stuff enter our lives.
+
+The problem, of course, is that we also want to finish what we start. Much of the stress that people feel doesn't come from having too much to do. It comes from not finishing what they've started.</i>
+
+Here's the <a href="http://www.fastcompany.com/magazine/34/allen.html">interview</a> it's from.
+
+I need to figure out a top priority project, drop everything else, and just freaking do it.  I think I'll be a much happier person once I do.

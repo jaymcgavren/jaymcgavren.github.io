@@ -1,0 +1,18 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  enclosure: |
+    http://www.mhat.com/phatdrumloops/audio/wav/schoolboy.wav
+    120040
+    audio/wav
+  ljID: '846'
+  original_post_id: '944'
+  _wp_old_slug: '944'
+---
+Haven't heard everything that <a href="http://www.mhat.com/phatdrumloops/">Phat Drumloops</a> has to offer, but <a href="http://www.mhat.com/phatdrumloops/audio/wav/hoginmach1.wav">"Hogin' Machine"</a> and <a href="http://www.mhat.com/phatdrumloops/audio/wav/schoolboy.wav">"Schoolboy Crush"</a> are freakin' sweeeet.

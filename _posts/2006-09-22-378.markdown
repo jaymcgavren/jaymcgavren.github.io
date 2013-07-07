@@ -1,0 +1,26 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '377'
+  _wp_old_slug: '377'
+---
+&gt; From: hr_drone@mycompany.com
+&gt; To: All Mail Users
+&gt;
+&gt; Did you know September is National Fruit and Vegetable
+&gt; Month?  To reinforce the importance of these food groups we
+&gt; encourage you to eat at least five servings of fruits and
+&gt; vegetables each day throughout September.
+&gt;
+&gt; Each Friday, for the rest of the month, we will be
+&gt; providing plates full of your favorite fruits.  Feel free
+&gt; to enjoy them and pick up a flyer that outlines some of the
+&gt; many benefits.
+
+Wow...  (sniff...)  I've never worked for a company that actually cared whether I got enough fiber.

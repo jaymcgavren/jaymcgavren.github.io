@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '213'
+  _wp_old_slug: '213'
+---
+I just realized my work e-mail's Deleted Items archive is over 11,000 items (none of them spam).  Sent Items isn't too far behind at over 8,500.  :P

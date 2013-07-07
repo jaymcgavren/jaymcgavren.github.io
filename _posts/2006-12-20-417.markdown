@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '417'
+  _wp_old_slug: '417'
+---
+Been playing Secret of Mana with Lenny - he asks to every night.  (Except last night, when he asked to play Return Fire.  The kid's got good taste.)
+
+It's a shame we have to go that far back in the gaming museum to find a good multiplayer adventure.  When I am king, every game will feature a multiplayer component.  (And while I'm not into censorship, options to turn off blood and gore would be nice.)

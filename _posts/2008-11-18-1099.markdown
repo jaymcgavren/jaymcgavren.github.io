@@ -1,0 +1,16 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '952'
+  original_post_id: '1099'
+  _wp_old_slug: '1099'
+---
+Why is it I waited to get a Mac until I hardly even care what OS I'm on?  I had Spotlight replicated via Enso.  (Enso's actually better, since it's quasimodal.)  I had a decent equivalent to the BSD core via Cygwin.  (Though I'll now be able to compile some Ruby extensions that I couldn't on Windows.)  Console2 is an excellent alternative to Terminal.  I had Textmate covered via E - Texteditor.  (Er, wait, that's not really a satisfactory substitute at this point.)
+
+Well, I had to fight tooth and nail to get those Windows equivalents working properly, and the seams are still showing.  The Mac versions work right out of the box, and seem to work marginally better.  I hate everything when I first start using it, but I've already had some "Hmm, that's well-designed" moments with OSX.  It's definitely not the panacea I was hoping for, but I think it's going to grow on me.

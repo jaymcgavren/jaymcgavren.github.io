@@ -1,0 +1,14 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '659'
+  original_post_id: '687'
+  _wp_old_slug: '687'
+---
+Either someone just walked by with a portable fan, or there is a <em>very</em> large insect flying around this office.  And since I don't know which, I'm seriously freaked out right now.

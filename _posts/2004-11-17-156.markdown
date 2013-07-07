@@ -1,0 +1,13 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '155'
+  _wp_old_slug: '155'
+---
+On my way back from picking up lunch, I saw a guy going down the street with a cell phone cradled on his shoulder...  That wouldn't be so bad, except that he was riding a motorcycle.

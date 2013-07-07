@@ -1,0 +1,16 @@
+---
+layout: post
+title: Ergh...
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  ljID: '568'
+  original_post_id: '568'
+  _wp_old_slug: '568'
+---
+I'm reduced to a secretary today.  3 different groups want to know why their pet hotel's records haven't reached the database.  And while my predecessor may have been happy to trip through database tables and log files to hunt this kind of stuff down, I am not.
+
+We need proper reports, proper documentation, and proper user access to both.  And short of a massive refactoring project, we won't be getting any of the above.

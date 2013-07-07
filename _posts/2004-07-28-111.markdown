@@ -1,0 +1,15 @@
+---
+layout: post
+title: ''
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  original_post_id: '110'
+  _wp_old_slug: '110'
+---
+Just got off a conference call with the developers in India.  Veena, the technical lead, usually heads up the discussion, and I can understand her just fine.  But then she put Harish on, who needed to ask some technical question, and I swear all I heard was: "muttermuttermutter prompt muttermuttermutter code muttermuttermutter that?"  It didn't help that this was over a staticky trans-Pacific connection.  All I could do was stammer "Uh, can you repeat that?"  Finally Veena interjected that she thought they could answer his question on their end.
+
+Wonder if any of the local colleges offer a class in Hindi?
