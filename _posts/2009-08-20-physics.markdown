@@ -11,6 +11,8 @@ meta:
   original_post_id: '1255'
   _wp_old_slug: '1255'
 ---
+Video <a href="http://www.vimeo.com/6190450">here</a>.
+
 {% highlight ruby %}
     set_manager :physics, create_game_object(:BasicPhysicsManager)
 
@@ -28,5 +30,3 @@ meta:
       object.body_position = message.value.pointer
     end
 {% endhighlight %}
-
-Video <a href="http://www.vimeo.com/6190450">here</a>.

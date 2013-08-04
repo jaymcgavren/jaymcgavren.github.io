@@ -11,6 +11,8 @@ meta:
   original_post_id: '1405'
   _wp_old_slug: '1405'
 ---
+<!-- -->
+
 {% highlight ruby %}
 # Settings specified here will take precedence over those in config/environment.rb
 

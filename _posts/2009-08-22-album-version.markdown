@@ -11,6 +11,8 @@ meta:
   original_post_id: '1259'
   _wp_old_slug: '1259'
 ---
+#songsincode
+
 {% highlight ruby %}
 class Bitch
   def love(person)
@@ -26,5 +28,4 @@ bitches.each do |bitch|
   bitch.love(me) if me.respond_to? :rock
 end
 
-#songsincode
 {% endhighlight %}
