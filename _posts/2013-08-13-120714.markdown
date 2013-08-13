@@ -1,0 +1,19 @@
+---
+layout: post
+title: ''
+tags: []
+published: true
+---
+Here's the kind of code sample I have to throw away every day because it won't fit in the available space…
+
+{% highlight ruby %}
+scene = ['bullseye teacup prisoner',
+         'ballerina waldo tablecloth',
+         'zebra fencepost awning']
+
+result = scene.find do |area|
+  area.include?('waldo')
+end
+
+puts result # => ballerina waldo tablecloth
+{% endhighlight %}
