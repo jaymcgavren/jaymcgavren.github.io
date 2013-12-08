@@ -1,0 +1,22 @@
+---
+layout: post
+title: ''
+tags: []
+published: true
+---
+
+In the late 20th century, I received a thorough mocking for only
+putting one space after my periods. "*Everyone* puts two spaces after
+a sentence, don't you know that?" I switched, and have been using two
+spaces for over a decade.
+
+I have a very heavily-ingrained habit to undo:
+
+[Why You Should Never, Ever Use Two Spaces After a Period](http://www.slate.com/articles/technology/technology/2011/01/space_invaders.html)
+
+I'm working on a book right now, and the publisher is going to expect
+single spaces after each and every sentence. Even if I take corrective
+action now, some are still going to slip in, and it's going to be very
+time-consuming and error-prone to track them down.
+
+Do your kids a favor, and ensure they're being taught the single-space style.
