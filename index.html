@@ -4,13 +4,11 @@ layout: default
 
         <div class="main-container">
             <div class="main wrapper clearfix">
-                
-                
 
                 <article class="posts">
-                    
-                    {% for post in paginator.posts %}
-                    
+
+                  {% for post in paginator.posts %}
+
                         <section>
                             <a href="{{ post.url }}">
                                 <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
@@ -27,7 +25,7 @@ layout: default
                         </section>
 
                     {% endfor %}
-                    
+
                     <div class="pagination">
                         {% if paginator.previous_page %}
                             {% if paginator.previous_page != 1 %}
@@ -41,14 +39,21 @@ layout: default
                             <a href="/page{{ paginator.next_page }}" class="next">Older &raquo;</a>
                         {% endif %}
                     </div>
-                    
+
                 </article>
-                
+
                 <aside>
                     <h3>About Me</h3>
-                    <p>I've been developing software professionally since 2004.  I believe everyone should know how to code, so I give <a href="http://confreaks.com/presenters/169-jay-mcgavren">talks</a> and make online <a href="http://www.codeschool.com/code_tv?filters%5Bauthor%5D=jaymcgavren">screencasts</a> and <a href="http://www.codeschool.com/courses/try-r">interactive courses</a> to help others learn.</p>
-                </aside>
-                
-            </div> <!-- #main -->            
-        </div> <!-- #main-container -->
+                    <p>I'm the author of <a href="http://shop.oreilly.com/product/9780596803995.do">Head First Ruby</a>, published by O'Reilly.</p>
 
+                    <div class="image">
+                      <a href="http://shop.oreilly.com/product/9780596803995.do">
+                        <img src="head_first_ruby_cover_200.png" width="200px" height="232px" alt="Head First Ruby Cover"/>
+                      </a>
+                    </div>
+
+                    <p>I believe everyone should know how to code, so I give <a href="http://confreaks.com/presenters/169-jay-mcgavren">talks</a> and make <a href="http://teamtreehouse.com">interactive courses</a> to help others learn.</p>
+                </aside>
+
+            </div> <!-- #main -->
+        </div> <!-- #main-container -->
