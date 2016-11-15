@@ -4,8 +4,6 @@ timezone: "America/Phoenix"
 future: false
 highlighter: true
 
-markdown: redcarpet
-
 excerpt_separator: "\n\n"
 
 baseurl: "/"
