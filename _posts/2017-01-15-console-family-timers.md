@@ -13,6 +13,7 @@ Each entry will be followed by a list of systems that offer that feature.
 * When time is up, the system doesn't shut down. Instead, it blocks the screen from being viewed, with the option to add more time. In the event that a child is caught off-guard by time expiring, this allows the parent to give them a few more minutes to save their progress. (XBox 360, Windows 8, Mac OS)
 * Can set times of day system can be used to prevent midnight playing. (Windows 8, Mac OS)
 * Can suspend timer so others can play without affecting child's remaining time. (XBox 360)
+* Can adjust time remaining (up or down) via web account, so it can be done without interrupting play on the system. (This is a wish-list item, as no system I know of allows this. Windows 8 allows adjustment of overall settings (not time remaining) via a Microsoft web account, but in my experience this feature is completely broken anyway; no limits were enforced until I switched to managing them locally on the PC itself.)
 
 ## Aspects to avoid in a system's time limit feature
 
