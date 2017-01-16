@@ -2,7 +2,7 @@ The most recent game console generation (Xbox One and PS4) offers NO parental ti
 
 Many parents who ask for a feature like this get accused of shirking their responsibilities. And a timer is certainly no substitute for appropriate supervision. But my teenager knows all the tricks to try and get extra screen time out of me (and my fiancee), and I find that the timer avoids a great many arguments. Time's up? You're done playing. No discussion necessary.
 
-I'm putting together this post so that future parents know what they *should* be able to expect from a the parental controls of a game console, computer, etc. I feel it's needed, because *very* few manufacturers get everything right (if they even try at all). This will be a "living" post; I intend to update this as new use cases come to light, or as errors are found.
+I'm putting together this post so that future parents know what they *should* be able to expect from the parental controls of a game console, computer, etc. I feel it's needed, because *very* few manufacturers get everything right (if they even try at all). This will be a "living" post; I intend to update this as new use cases come to light, or as errors are found.
 
 ## Aspects to look for in a system's time limit feature
 
