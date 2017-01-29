@@ -1,3 +1,10 @@
+---
+layout: post
+title: 'Leveraging Ruby Libraries webcast'
+tags: []
+published: true
+---
+
 The most recent game console generation (Xbox One and PS4) offers NO parental time limits for kids. Microsoft (and presumably Sony as well) continues to ignore the [thousands of requests it's getting for this feature](http://www.forbes.com/sites/andyrobertson/2015/11/20/xbox-one-still-failing-families-with-missing-family-timer). The last console to do this (mostly) right, as far as I know, is the XBox 360, with its "Family Timer" feature. This is unfortunate. In my case, it means we've been unable to purchase any of the new consoles in order to avoid giving my screen-addicted teenager a constant distraction from homework.
 
 Many parents who ask for a feature like this get accused of shirking their responsibilities. And a timer is certainly no substitute for appropriate supervision. But my teenager knows all the tricks to try and get extra screen time out of me (and my fiancee), and I find that the timer avoids a great many arguments. Time's up? You're done playing. No discussion necessary.
