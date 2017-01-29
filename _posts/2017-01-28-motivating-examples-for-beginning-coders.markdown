@@ -11,19 +11,15 @@ One thing I learned from the authors in the Head First series who came before me
 
 * Many involve advanced math problems, slowing programming learning down with high [extraneous cognitive load](https://en.wikipedia.org/wiki/Cognitive_load#Extraneous) (if the reader can even understand the problem in the first place).
 * Many involve a [premise that is not only silly, it takes too long to explain](http://rosettacode.org/wiki/Sailors,_coconuts_and_a_monkey_problem).
-* Many focus on [minutiae that are only interesting to Computer Science majors](http://rosettacode.org/wiki/Category:Sorting_Algorithms).
+* Many focus on [details that aren't important to a beginning programmer](http://rosettacode.org/wiki/Category:Sorting_Algorithms).
 
 But there are a lot of great beginner-friendly examples too. I've collected promising-looking ones here, for people to mine for inspiration.
 
 <DL><p>
         <DT><A HREF="http://rosettacode.org/wiki/Align_columns">Align columns</A>
         <DT><A HREF="http://rosettacode.org/wiki/Anagrams">Anagrams</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Animation">Animation</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Append_a_record_to_the_end_of_a_text_file">Append a record to the end of a text file</A>
         <DT><A HREF="http://rosettacode.org/wiki/Averages/Median">Averages/Median</A>
         <DT><A HREF="http://rosettacode.org/wiki/Averages/Mode">Averages/Mode</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Bulls_and_cows">Bulls and cows</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Chaos_game">Chaos game</A>
         <DT><A HREF="http://rosettacode.org/wiki/Character_codes">Character codes</A>
         <DT><A HREF="http://rosettacode.org/wiki/Chat_server">Chat server</A>
         <DT><A HREF="http://rosettacode.org/wiki/Check_that_file_exists">Check that file exists</A>
@@ -31,7 +27,6 @@ But there are a lot of great beginner-friendly examples too. I've collected prom
         <DT><A HREF="http://rosettacode.org/wiki/Command-line_arguments">Command-line arguments</A>
         <DT><A HREF="http://rosettacode.org/wiki/Compare_a_list_of_strings">Compare a list of strings</A>
         <DT><A HREF="http://rosettacode.org/wiki/Count_occurrences_of_a_substring">Count occurrences of a substring</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Count_the_coins">Count the coins</A>
         <DT><A HREF="http://rosettacode.org/wiki/Create_an_HTML_table">Create an HTML table</A>
         <DT><A HREF="http://rosettacode.org/wiki/CSV_data_manipulation">CSV data manipulation</A>
         <DT><A HREF="http://rosettacode.org/wiki/Echo_server">Echo server</A>
