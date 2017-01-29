@@ -5,7 +5,7 @@ tags: []
 published: true
 ---
 
-One thing I learned from the authors in the Head First series who came before me is the important of good "motivating examples" - a task that the reader can easily understand but requires learning a whole suite of skills to actually implement (coinciding as closely as possible with the skills you want to teach). Motivating examples are valuable because they give a reader a sense of progress as they work toward a goal.
+One thing I learned from the authors in the Head First series who came before me is the importance of good "motivating examples" - a task that the reader can easily understand but requires learning a whole suite of skills to actually implement (coinciding as closely as possible with the skills you want to teach). Motivating examples are valuable because they give a reader a sense of progress as they work toward a goal.
 
 [Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks) is basically a wiki-based collection of motivating examples for beginning developers. There are tons and tons of tasks on there, each showing solutions in a wide variety of programming languages. But a large portion of them aren't ideal for beginners:
 
