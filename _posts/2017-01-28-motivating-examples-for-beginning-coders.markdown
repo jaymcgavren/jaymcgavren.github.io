@@ -84,4 +84,3 @@ But there are a lot of great beginner-friendly examples too. I've collected prom
         <DT><A HREF="http://rosettacode.org/wiki/Web_scraping">Web scraping</A>
         <DT><A HREF="http://rosettacode.org/wiki/Word_wrap">Word wrap</A>
         <DT><A HREF="http://rosettacode.org/wiki/XML/Input">XML/Input</A>
-    </DL><p>
