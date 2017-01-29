@@ -11,19 +11,15 @@ One thing I learned from the authors in the Head First series who came before me
 
 * Many involve advanced math problems, slowing programming learning down with high [extraneous cognitive load](https://en.wikipedia.org/wiki/Cognitive_load#Extraneous) (if the reader can even understand the problem in the first place).
 * Many involve a [premise that is not only silly, it takes too long to explain](http://rosettacode.org/wiki/Sailors,_coconuts_and_a_monkey_problem).
-* Many focus on [minutiae that are only interesting to Computer Science majors](http://rosettacode.org/wiki/Category:Sorting_Algorithms).
+* Many focus on [details that aren't important to a beginning programmer](http://rosettacode.org/wiki/Category:Sorting_Algorithms).
 
 But there are a lot of great beginner-friendly examples too. I've collected promising-looking ones here, for people to mine for inspiration.
 
 <DL><p>
         <DT><A HREF="http://rosettacode.org/wiki/Align_columns">Align columns</A>
         <DT><A HREF="http://rosettacode.org/wiki/Anagrams">Anagrams</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Animation">Animation</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Append_a_record_to_the_end_of_a_text_file">Append a record to the end of a text file</A>
         <DT><A HREF="http://rosettacode.org/wiki/Averages/Median">Averages/Median</A>
         <DT><A HREF="http://rosettacode.org/wiki/Averages/Mode">Averages/Mode</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Bulls_and_cows">Bulls and cows</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Chaos_game">Chaos game</A>
         <DT><A HREF="http://rosettacode.org/wiki/Character_codes">Character codes</A>
         <DT><A HREF="http://rosettacode.org/wiki/Chat_server">Chat server</A>
         <DT><A HREF="http://rosettacode.org/wiki/Check_that_file_exists">Check that file exists</A>
@@ -31,26 +27,21 @@ But there are a lot of great beginner-friendly examples too. I've collected prom
         <DT><A HREF="http://rosettacode.org/wiki/Command-line_arguments">Command-line arguments</A>
         <DT><A HREF="http://rosettacode.org/wiki/Compare_a_list_of_strings">Compare a list of strings</A>
         <DT><A HREF="http://rosettacode.org/wiki/Count_occurrences_of_a_substring">Count occurrences of a substring</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Count_the_coins">Count the coins</A>
         <DT><A HREF="http://rosettacode.org/wiki/Create_an_HTML_table">Create an HTML table</A>
         <DT><A HREF="http://rosettacode.org/wiki/CSV_data_manipulation">CSV data manipulation</A>
         <DT><A HREF="http://rosettacode.org/wiki/Echo_server">Echo server</A>
         <DT><A HREF="http://rosettacode.org/wiki/Even_or_odd">Even or odd</A>
         <DT><A HREF="http://rosettacode.org/wiki/File_input/output">File input/output</A>
         <DT><A HREF="http://rosettacode.org/wiki/File_size">File size</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Flipping_bits_game">Flipping bits game</A>
         <DT><A HREF="http://rosettacode.org/wiki/Greatest_element_of_a_list">Greatest element of a list</A>
         <DT><A HREF="http://rosettacode.org/wiki/Guess_the_number/With_feedback">Guess the number/With feedback</A>
         <DT><A HREF="http://rosettacode.org/wiki/Hash_from_two_arrays">Hash from two arrays</A>
         <DT><A HREF="http://rosettacode.org/wiki/I_before_E_except_after_C">I before E except after C</A>
         <DT><A HREF="http://rosettacode.org/wiki/Input_loop">Input loop</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Largest_int_from_concatenated_ints">Largest int from concatenated ints</A>
         <DT><A HREF="http://rosettacode.org/wiki/Leap_year">Leap year</A>
         <DT><A HREF="http://rosettacode.org/wiki/Letter_frequency">Letter frequency</A>
-        <DT><A HREF="http://rosettacode.org/wiki/List_comprehensions">List comprehensions</A>
         <DT><A HREF="http://rosettacode.org/wiki/Longest_string_challenge">Longest string challenge</A>
         <DT><A HREF="http://rosettacode.org/wiki/Mad_Libs">Mad Libs</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Matrix_arithmetic">Matrix arithmetic</A>
         <DT><A HREF="http://rosettacode.org/wiki/Menu">Menu</A>
         <DT><A HREF="http://rosettacode.org/wiki/Morse_code">Morse code</A>
         <DT><A HREF="http://rosettacode.org/wiki/N%27th">N&#39;th</A>
