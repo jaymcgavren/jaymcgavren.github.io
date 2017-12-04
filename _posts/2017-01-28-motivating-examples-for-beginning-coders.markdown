@@ -59,7 +59,6 @@ But there are a lot of great beginner-friendly examples too. I've collected prom
         <DT><A HREF="http://rosettacode.org/wiki/Playing_cards">Playing cards</A>
         <DT><A HREF="http://rosettacode.org/wiki/Plot_coordinate_pairs">Plot coordinate pairs</A>
         <DT><A HREF="http://rosettacode.org/wiki/Rate_counter">Rate counter</A>
-        <DT><A HREF="http://rosettacode.org/wiki/Rate_counter">Rate counter</A>
         <DT><A HREF="http://rosettacode.org/wiki/Read_a_configuration_file">Read a configuration file</A>
         <DT><A HREF="http://rosettacode.org/wiki/Read_a_file_line_by_line">Read a file line by line</A>
         <DT><A HREF="http://rosettacode.org/wiki/Read_a_specific_line_from_a_file">Read a specific line from a file</A>
