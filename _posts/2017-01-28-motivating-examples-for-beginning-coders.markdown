@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Motivating Examples for Beginning Coders'
+title: 'Motivating examples for beginning coders'
 tags: []
 published: true
 ---
