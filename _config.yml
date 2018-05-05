@@ -4,7 +4,7 @@ timezone: "America/Phoenix"
 future: false
 highlighter: 'rouge'
 
-excerpt_separator: "\n\n"
+excerpt_separator: "<!--more-->"
 
 baseurl: "/"
 
