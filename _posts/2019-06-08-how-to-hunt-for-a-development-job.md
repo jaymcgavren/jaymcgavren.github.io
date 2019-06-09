@@ -3,7 +3,6 @@ layout: post
 title: 'How to Hunt for a Development Job'
 tags: []
 type: post
-draft: true
 published: true
 ---
 I was laid off from my job a week ago, along with many of my colleagues. Luckily for us, the friendly Twitter developer community has turned out in droves to help us. It's generated a *lot* of leads.
