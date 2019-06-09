@@ -8,7 +8,7 @@ layout: default
                 <article class="posts">
 
                   {% for post in paginator.posts %}
-
+                      {% unless post.draft  %}
                         <section>
                             <a href="{{ post.url }}">
                                 <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
@@ -23,7 +23,7 @@ layout: default
                             <p>{{ post.excerpt }}</p>
                             <a href="{{ post.url }}">Read more...</a>
                         </section>
-
+                      {% endunless %}
                     {% endfor %}
 
                     <div class="pagination">
