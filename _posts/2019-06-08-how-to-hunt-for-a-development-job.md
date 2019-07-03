@@ -3,9 +3,10 @@ layout: post
 title: 'How to Hunt for a Development Job'
 tags: []
 type: post
-draft: true
 published: true
 ---
+_Update 2019-07-02: I've taken an offer! Huge thanks to everyone who got in touch and/or shared that I was looking!_
+
 I was laid off from my job a week ago, along with many of my colleagues. Luckily for us, the friendly Twitter developer community has turned out in droves to help us. It's generated a *lot* of leads.
 
 I've noticed that my communications with contacts at these companies tend to fall into certain patterns. I ask many of the same questions of each. But I also find that I sometimes forget to ask certain details. Or worse, I ask questions in the wrong order, getting a bunch of details about the tech stack but then discovering the position isn't remote-friendly, for example.
@@ -16,7 +17,7 @@ So I'm writing this post to help other job hunters avoid the same pitfalls. I me
 
 ### Vetting the Company
 
-The first step is to find a contact at the company you're interested. Ideally, this will be someone on the development team, not a recruiter. Developers can give you insight into the tech stack, the interview process, and the day-to-day duties of the job. They also tend to be honest about the company's shortcomings.
+The first step is to find a contact at the company you're interested in. Ideally, this will be someone on the development team, not a recruiter. Developers can give you insight into the tech stack, the interview process, and the day-to-day duties of the job. They also tend to be more honest about the company's shortcomings.
 
 Your contact has limited time (and perhaps limited willingness to help you). Don't waste it! Before reaching out, check resources like [Glassdoor](https://glassdoor.com), which can give you info about the company culture and the hiring process.
 
@@ -36,7 +37,7 @@ Here are some questions to ask. Look up as many of the answers as you can on you
     - Algorithmic problems or practical knowledge?
     - Whiteboarding, automated code challenge, pair programming session, or take-home problem?
 - Can I mention I heard about the position from you? How do I do that?
-    - Is there an application form with an appropriate field
+    - Is there an application form with an appropriate field?
     - Do I mention you in my cover letter?
 
 ### Getting Things Done
@@ -51,3 +52,5 @@ You'll have a lot of contacts to keep track of, so you'll need a simplified "CRM
 - Contact name(s): person or people who referred you, or who you've spoken with at the company.
 - Contact medium: Email/Twitter/LinkedIn/etc.
 - Notes: What's the status of this application? Is there a next step you need to take? Are you awaiting a response from someone?
+
+Hope this helps everyone! Drop me a line if you have suggestions for things to add!
