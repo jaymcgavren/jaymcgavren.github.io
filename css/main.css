@@ -174,6 +174,10 @@ a:hover {
 
 
 
+.main aside {
+    text-align: center;
+}
+
 .main aside h3 {
     margin: auto;
     width: 6em;
