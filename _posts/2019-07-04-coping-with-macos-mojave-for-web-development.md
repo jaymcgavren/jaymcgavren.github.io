@@ -7,11 +7,13 @@ draft: true
 published: true
 ---
 
+TODO fix line gap between nested bulleted lists
+
 For pretty much every Mac I've ever owned, I've copied my configuration from machine to machine. But when one does so, a lot of unused cruft builds up over the years. So I've decided to wipe everything and start totally (well, okay, mostly) from scratch. This is a rare learning opportunity and so I'm documenting my setup here, for my reference and for yours.
 
 This post is intended to be a living document. I'll be updating it as I discover improved settings. Comments and suggestions are welcome!
 
-Be warned: the tone is cantankerous. I don't like the direction recent MacOS versions have gone, and many of my settings represent an attempt to get back to "the good old days". If you're one of those fans who think Apple can do no wrong, and you want to make use of all the latest MacOS features, you may want to find another configuration guide. Now get off my lawn!
+Be warned: my tone is cantankerous. I don't like the direction recent MacOS versions have gone, and many of my settings represent an attempt to get back to "the good old days". If you're one of those fans who think Apple can do no wrong, and you want to make use of all the latest MacOS features, you may want to find another configuration guide. Now get off my lawn!
 
 <!--more-->
 
@@ -24,7 +26,7 @@ First, we need to kick off a bootstrapping script to install common tools you'll
 
 ## Fix Terminal.app
 
-By default, MacOS Terminal.app doesn't treat the Option/Alt key as a Meta key. This breaks many shortcuts in `set -o emacs` mode (the default) as well as Emacs itself. Personally, I use iTerm 2 for my terminal, but we should fix Terminal.app regardless.
+By default, MacOS Terminal.app doesppn't treat the Option/Alt key as a Meta key. This breaks many shortcuts in `set -o emacs` mode (the default) as well as Emacs itself. Personally, I use iTerm 2 for my terminal, but we should fix Terminal.app regardless.
 
 * Open `/Applications/Utilities/Terminal.app`.
 * "Preferences..." menu.
@@ -60,6 +62,8 @@ Next, let's visit "System Settings" to fix some terrible defaults:
     * Position on screen: Leave at default of "Bottom".
     * Double click a window's title bar to: Disable this. You should be using a window management program to minimize/maximize windows.
     * Automatically hide and show the Dock: Enable so that at least it's hidden most of the time.
+* "Mission Control"
+    * You don't need it at all; you're going to use your own window manager. Don't bother with the settings here; [disable the whole thing](https://web.archive.org/save/https://www.amsys.co.uk/how-to-disable-mission-control-and-spaces-in-os-x/).
 * "Keyboard"
     * "Keyboard" page
         * Key Repeat rate: Max it out.
@@ -67,10 +71,11 @@ Next, let's visit "System Settings" to fix some terrible defaults:
         * Touch Bar shows: I've never used the Touch Bar and I refuse to start. Change it to show "F1, F2, etc." This also gets your Esc "key" back. The whole setup still sucks because there's no tactile key press, but at least now it won't randomly change functions on you.
         * Unless you enjoy SHOUTING when typing often, the Caps Lock key is worse than useless - it's a booby trap sitting in the middle of your keyboard. Click the "Modifier Keys..." button, and remap Caps Lock to Control.
     * "Text" page
-        * For f's sake, uncheck everything here! Why on earth do they have it messing with your text as you type by default?!
+        * Uncheck everything here! Why on earth do they have it messing with your text as you type by default?!
         * Be sure to click the "-" button to remove any text expansions, too.
     * "Shortcuts" page
         * Full Keyboard Access: Set to "All controls".
+        TODO app-specific shortcuts
 * "Sharing"
     * Computer Name: This includes your user name by default, which is info I'd rather not leak to the network. Rename it to [something cool](https://en.wikipedia.org/wiki/Lists_of_deities)!
 
@@ -95,14 +100,30 @@ Here are some other apps you're going to want to change specific settings in:
         * "General" page
             * "Load preferences from a custom folder or URL": enable
                 * Click "Browse"
-                * Navigate to the folder in your dotfiles repo where you've saved your previous iTerm settings. No need to select the file itself, just the folder.
-                * What?! You didn't export your previous iTerm settings?! Then you are unfortunately going to have to configure iTerm manually. Suggested settings are below. When you're done, click the "Save Current Settings to Folder" button that you see here. I recommend committing the exported settings file to your dotfiles repo. (You _do_ have [one of those](https://github.com/jaymcgavren/dotfiles), right?)
+p                * Navigate to the folder in your dotfiles repo where you've saved your previous iTerm settings. No need to select the file itself, just the folder.
+                * What?! You didn't export your previous iTerm settings?! Then you are unfortunately going to have to configure iTerm manually. Suggested settings are below. When you're done, click the "Save Current Settings to Folder" button that you see here. I recommend committing the exported settings file to your dotfiles repo. (You _do_ have [one of those](https://github.com/jaymcgavren/dotfiles), rinnght?)
         * _Note: if you loaded a previous settings file successfully, then presumably the below settings are already the way you want them. You may not need to change anything further._
         * "Profiles" page
             * Select the profile you want to update, and change the settings below. Unfortunately you will have to repeat this for each profile you want to change.
             * "Keys" subpage
                 * Left [option] Key: "Esc+"
                 * Right [option] Key: "Esc+"
+* Finder (no need to launch, always running)
+    * Preferences
+        * "General" page
+            * New Finder windows show: If you don't like the default Recents search, set this to a directory of your choosing.
+            * Open folders in tabs instead of new windows: I hate tabs, I disabled this.
+        * "Sidebar" page
+            * Add entries you want, like your home directory.
+            * Remove entries you don't want, like tags or "iCloud Drive".
+        * "Advanced" page
+            * Show all filename extensions: enable
+            * Remove items from the Trash after 30 days: I used to do this manually and it didn't get done. Recommend enabling.
 * Screenshots are saved to `~/Desktop` by default. You may want to [fix that](https://www.macworld.co.uk/how-to/mac-software/change-where-mac-screenshots-saved-3682381/).
 
 Hope you found this post helpful (and not _too_ offensive)! I'm open to healthy debate about the merits of these settings. Who knows, you _might_ even change my mind about something. Leave a comment below!
+
+## Other
+
+TODO give google chrome permssion to access camera.
+TODO give google chrome permssion to access microphone.
