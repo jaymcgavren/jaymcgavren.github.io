@@ -63,7 +63,10 @@ Next, let's visit "System Settings" to fix some terrible defaults:
     * Double click a window's title bar to: Disable this. You should be using a window management program to minimize/maximize windows.
     * Automatically hide and show the Dock: Enable so that at least it's hidden most of the time.
 * "Mission Control"
-    * You don't need it at all; you're going to use your own window manager. Don't bother with the settings here; [disable the whole thing](https://web.archive.org/save/https://www.amsys.co.uk/how-to-disable-mission-control-and-spaces-in-os-x/).
+    * Don't use Mission Control:
+        * Habituation to it promotes vendor lock-in with Apple.
+        * It's for damn dirty mouse/trackpad users anyway. You're going to use a window manager that lets you keep your hands on the keyboard.
+    * So don't bother with the settings here; [disable the whole thing](https://web.archive.org/save/https://www.amsys.co.uk/how-to-disable-mission-control-and-spaces-in-os-x/).
 * "Keyboard"
     * "Keyboard" page
         * Key Repeat rate: Max it out.
