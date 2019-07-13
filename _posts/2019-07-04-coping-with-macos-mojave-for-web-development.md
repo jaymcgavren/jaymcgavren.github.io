@@ -98,9 +98,10 @@ Here are some other apps you're going to want to change specific settings in:
 * `open /Applications/iTerm.app`
     * Preferences
         * "General" page
+            * "Applications in terminal may access clipboard": enable
             * "Load preferences from a custom folder or URL": enable
                 * Click "Browse"
-p                * Navigate to the folder in your dotfiles repo where you've saved your previous iTerm settings. No need to select the file itself, just the folder.
+                * Navigate to the folder in your dotfiles repo where you've saved your previous iTerm settings. No need to select the file itself, just the folder.
                 * What?! You didn't export your previous iTerm settings?! Then you are unfortunately going to have to configure iTerm manually. Suggested settings are below. When you're done, click the "Save Current Settings to Folder" button that you see here. I recommend committing the exported settings file to your dotfiles repo. (You _do_ have [one of those](https://github.com/jaymcgavren/dotfiles), rinnght?)
         * _Note: if you loaded a previous settings file successfully, then presumably the below settings are already the way you want them. You may not need to change anything further._
         * "Profiles" page
@@ -108,6 +109,8 @@ p                * Navigate to the folder in your dotfiles repo where you've sav
             * "Keys" subpage
                 * Left [option] Key: "Esc+"
                 * Right [option] Key: "Esc+"
+* `open '/Applications/Google Chrome.app'`
+    * [Reposition Chrome Developer Tools](https://stackoverflow.com/questions/10023640/how-to-reposition-chrome-developer-tools)
 * Finder (no need to launch, always running)
     * Preferences
         * "General" page
@@ -119,9 +122,25 @@ p                * Navigate to the folder in your dotfiles repo where you've sav
         * "Advanced" page
             * Show all filename extensions: enable
             * Remove items from the Trash after 30 days: I used to do this manually and it didn't get done. Recommend enabling.
+    * "File" menu, "New Finder Window". We need a window open to change the settings that follow.
+        * Navigate to your user's home directory. There's a special option that's only visible in that directory that we're going to want to set.
+    * "View" menu, "As list": enable
+    * "View" menu, "Show View Options"
+        * We're going to set options for the currently open view, but then we'll apply them globally to all windows.
+        * Always open in [selected view type] view: Ensure your preferred view type is active, then enable this.
+        * Browse in [selected view type] view: Enable.
+        * Group by: None
+        * Sort by: Name
+        * Show Columns: Recommend enabling these attributes and disabling all others:
+            * Date Modified
+            * Date Created
+            * Size
+            * Kind
+        * Show Library Folder: This is only visible in the view options for your home directory. Enable it.
+        * Use as Defaults: Click this once all options are set up the way you want, so they'll apply to other directories.
 * Screenshots are saved to `~/Desktop` by default. You may want to [fix that](https://www.macworld.co.uk/how-to/mac-software/change-where-mac-screenshots-saved-3682381/).
 
-Hope you found this post helpful (and not _too_ offensive)! I'm open to healthy debate about the merits of these settings. Who knows, you _might_ even change my mind about something. Leave a comment below!
+Hope you found this post helpful (and not _too_ surly)! I'm open to healthy debate about the merits of these settings. Who knows, you _might_ even change my mind about something. Leave a comment below!
 
 ## Other
 
