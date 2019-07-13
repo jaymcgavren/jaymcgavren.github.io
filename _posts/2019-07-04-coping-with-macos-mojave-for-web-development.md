@@ -13,7 +13,7 @@ For pretty much every Mac I've ever owned, I've copied my configuration from mac
 
 This post is intended to be a living document. I'll be updating it as I discover improved settings. Comments and suggestions are welcome!
 
-Be warned: my tone is cantankerous. I don't like the direction recent MacOS versions have gone, and many of my settings represent an attempt to get back to "the good old days". If you're one of those fans who think Apple can do no wrong, and you want to make use of all the latest MacOS features, you may want to find another configuration guide. Now get off my lawn!
+Be warned: I am an Apple skeptic. I don't like the direction recent MacOS versions have gone, and many of my settings represent an attempt to get back to "the good old days". If you're one of those fans who think Apple can do no wrong, and you want to make use of all the latest MacOS features, you may want to find another configuration guide. Now get off my lawn!
 
 <!--more-->
 
@@ -111,7 +111,9 @@ Here are some other apps you're going to want to change specific settings in:
                 * Right [option] Key: "Esc+"
 * `open '/Applications/Google Chrome.app'`
     * [Reposition Chrome Developer Tools](https://stackoverflow.com/questions/10023640/how-to-reposition-chrome-developer-tools)
-* Finder (no need to launch, always running)
+    * Window -> Extensions
+        * Find the extensions you want available in Incognito Mode and enable them. (Not that there will be many of them; I only enabled 1Password.)
+* Finder
     * Preferences
         * "General" page
             * New Finder windows show: If you don't like the default Recents search, set this to a directory of your choosing.
