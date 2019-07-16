@@ -78,6 +78,15 @@ Next, let's visit "System Settings" to fix some terrible defaults:
         * Be sure to click the "-" button to remove any text expansions, too.
     * "Shortcuts" page
         * Full Keyboard Access: Set to "All controls".
+        * "Launchpad & Dock" section:
+            * Turn Dock Hiding On/Off: disable
+        * "Mission Control" section:
+            * Move left/right a space: disable these
+        * "Keyboard" section:
+            * Change the way Tab moves focus: disable
+            * Move focus to the Dock: disable
+        * "Accessibility" section:
+            * Invert colors: enable
         TODO app-specific shortcuts
 * "Sharing"
     * Computer Name: This includes your user name by default, which is info I'd rather not leak to the network. Rename it to [something cool](https://en.wikipedia.org/wiki/Lists_of_deities)!
