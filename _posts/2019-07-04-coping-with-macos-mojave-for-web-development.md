@@ -39,6 +39,9 @@ By default, MacOS Terminal.app doesppn't treat the Option/Alt key as a Meta key.
 
 Next, let's visit "System Settings" to fix some terrible defaults:
 
+* "Security & Privacy"
+    * "General" page
+        * Require password after sleep or screen saver begins: 5 seconds
 * "Desktop & Screen Saver"
     * Theme: "Dark (Still)". Might help you fall asleep after a late night hacking session.
 * "Trackpad"
