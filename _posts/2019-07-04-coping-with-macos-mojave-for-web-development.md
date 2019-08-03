@@ -93,6 +93,14 @@ Next, let's visit "System Settings" to fix some terrible defaults:
         TODO app-specific shortcuts
 * "Sharing"
     * Computer Name: This includes your user name by default, which is info I'd rather not leak to the network. Rename it to [something cool](https://en.wikipedia.org/wiki/Lists_of_deities)!
+* "Users & Groups"
+    * "Login Items" page
+        * Some apps will set themselves up to open on login. For some this is great, for others it's annoying or even peformance degrading.
+        * Consider removing:
+            * Amazon Music
+            * Steam
+        * Consider adding:
+            * Slate or other window manager
 
 ## Set Up Apps
 
