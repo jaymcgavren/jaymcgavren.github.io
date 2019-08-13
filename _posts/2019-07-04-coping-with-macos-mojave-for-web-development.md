@@ -91,6 +91,10 @@ Next, let's visit "System Settings" to fix some terrible defaults:
         * "Accessibility" section:
             * Invert colors: enable
         TODO app-specific shortcuts
+* "Notifications"
+    * You may want to switch certain app alert styles from "Banners" (which could go away unnoticed if you step away from your computer for a moment) to "Alerts" (which stay until you clear them). Examples include:
+        * Messages
+        * Slack
 * "Sharing"
     * Computer Name: This includes your user name by default, which is info I'd rather not leak to the network. Rename it to [something cool](https://en.wikipedia.org/wiki/Lists_of_deities)!
 * "Users & Groups"
