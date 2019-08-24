@@ -7,7 +7,7 @@ draft: true
 published: true
 ---
 
-TODO fix line gap between nested bulleted lists
+<!-- TODO fix line gap between nested bulleted lists -->
 
 For pretty much every Mac I've ever owned, I've copied my configuration from machine to machine. But when one does so, a lot of unused cruft builds up over the years. So I've decided to wipe everything and start totally (well, okay, mostly) from scratch. This is a rare learning opportunity and so I'm documenting my setup here, for my reference and for yours.
 
@@ -192,7 +192,7 @@ Here are some other apps you're going to want to change specific settings in:
 
 Hope you found this post helpful (and not _too_ surly)! I'm open to healthy debate about the merits of these settings. Who knows, you _might_ even change my mind about something. Leave a comment below!
 
-## Other
+<!-- ## Other -->
 
-TODO give google chrome permssion to access camera.
-TODO give google chrome permssion to access microphone.
+<!-- TODO give google chrome permssion to access camera. -->
+<!-- TODO give google chrome permssion to access microphone. -->
