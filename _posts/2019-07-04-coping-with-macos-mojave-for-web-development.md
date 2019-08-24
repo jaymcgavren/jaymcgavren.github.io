@@ -57,7 +57,7 @@ Next, let's visit "System Settings" to fix some terrible defaults:
         * Disable all this crap! Mission Control, Exposé, Launchpad, all of it. Here's why:
             * These features only exist on MacOS (at least in this exact form). Get too used to them and you won't be willing/able to switch to another OS when the time comes.
             * These gestures can be invoked accidentally.
-            * They're only there for damn dirty mouse/trackpad users. Ain't nobody got time for that. _You_ use your keyboard and a window manager.
+            * They're only there for damn dirty mouse/trackpad users. _You_ don't have time for that; you use your keyboard and a window manager.
 * "Dock"
     * The dock is for damn dirty mouse/trackpad users, not for you. I don't think it can be disabled entirely with stock software (please let me know if I'm wrong) but you can minimize how much it gets in the way.
     * Size: minimum
