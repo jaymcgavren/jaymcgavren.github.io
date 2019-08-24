@@ -90,7 +90,15 @@ Next, let's visit "System Settings" to fix some terrible defaults:
             * Move focus to the Dock: disable
         * "Accessibility" section:
             * Invert colors: enable
-        TODO app-specific shortcuts
+        * "App Shortcuts" section:
+            * Click the `+` button to add or change keyboard shortcuts for menu items in various apps. You choose the application you want to modify, type the _exact_ name of the menu item you want to invoke, and press the key combination that should invoke it. Some suggestions for things to add are below.
+            * All Applications: [Re-map the Minimize command to something you won't press accidentally.](https://apple.stackexchange.com/questions/115562/how-do-i-disable-the-minimize-command-m-shortcut-in-mavericks)
+            * Google Chrome:
+                * "Select Next Tab": `Cmd-2` (This will override the shortcut to select the second open tab.)
+                * "Select Previous Tab": `Cmd-1` (This will override the shortcut to select the first open tab.)
+            * Keynote:
+                * "Previous Slide": `Cmd-Shift-[`
+                * "Next Slide": `Cmd-Shift-]`
 * "Notifications"
     * You may want to switch certain app alert styles from "Banners" (which could go away unnoticed if you step away from your computer for a moment) to "Alerts" (which stay until you clear them). Examples include:
         * Messages
