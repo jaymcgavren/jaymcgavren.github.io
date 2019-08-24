@@ -35,6 +35,19 @@ By default, MacOS Terminal.app doesn't treat the Option/Alt key as a Meta key. T
 * "Keyboard" page.
 * "Use Option as Meta key": enable.
 
+## Window Manager
+
+I avoid using the mouse as much as possible in my daily work. Sure, it's well-suited for drawing and such, but for common operations like switching between apps, it's unacceptably slow. MacOS supports some shortcuts like Cmd-Tab, but those are pretty limited.
+
+That's why I use a "window manager" app. A window manager can remember the positions your windows are in, and restore those positions for you at the press of a hotkey.
+
+You have a few good options that I know of:
+
+* [Slate](https://github.com/jigish/slate): This is what I use. Open-source, configured via [text file](https://github.com/jaymcgavren/dotfiles/blob/master/slate). Not actively maintained, but it doesn't need to be; it's been in a "just works" state for years.
+* [Moom](https://manytricks.com/moom/): Closed-source, $10 USD. Looks fancy, seems popular, haven't used it.
+* [SizeUp](http://www.irradiatedsoftware.com/sizeup/): Closed-source, $13 USD. Seems adequate.
+* [Spectacle](https://www.spectacleapp.com): Open-source. Seems adequate.
+
 ## Fix System Settings
 
 Next, let's visit "System Settings" to fix some terrible defaults:
