@@ -26,7 +26,7 @@ First, we need to kick off a bootstrapping script to install common tools you'll
 
 ## Fix Terminal.app
 
-By default, MacOS Terminal.app doesppn't treat the Option/Alt key as a Meta key. This breaks many shortcuts in `set -o emacs` mode (the default) as well as Emacs itself. Personally, I use iTerm 2 for my terminal, but we should fix Terminal.app regardless.
+By default, MacOS Terminal.app doesn't treat the Option/Alt key as a Meta key. This breaks many shortcuts in `set -o emacs` mode (the default) as well as Emacs itself. Personally, I use iTerm 2 for my terminal, but we should fix Terminal.app regardless.
 
 * Open `/Applications/Utilities/Terminal.app`.
 * "Preferences..." menu.
