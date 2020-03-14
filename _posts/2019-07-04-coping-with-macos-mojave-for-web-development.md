@@ -3,7 +3,6 @@ layout: post
 title: 'Coping with MacOS Mojave for Web Development'
 tags: []
 type: post
-draft: true
 published: true
 ---
 
