@@ -11,9 +11,9 @@ I've been reading [Unity in Action: Multiplatform Game Development in C#](https:
 
 I keep remembering that I saw how to do a thing somewhere in the book, and flipping back and forth trying to find it again. This is true for even the most basic stuff, like instantiating a prefab or accessing components of a `GameObject`. I needed a place I could refer back to for a quick refresher.
 
-In case you need that, too, I've created this post. Hope it's helpful! It's possible some of the details are technically incorrect; if you spot something let me know in the comments!
-
 <!--more-->
+
+In case you need that, too, I've created this post. Hope it's helpful! It's possible some of the details are technically incorrect; if you spot something let me know in the comments!
 
 
 # Scripting Essentials
