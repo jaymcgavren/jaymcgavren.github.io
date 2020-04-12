@@ -9,7 +9,7 @@ meta:
 ---
 I've been reading [Unity in Action: Multiplatform Game Development in C#](https://www.amazon.com/Unity-Action-Multiplatform-game-development/dp/1617294969) by Joseph Hocking in my spare time. Like most of the Unity resources out there, it's great as a tutorial, less so as a reference book.
 
-I keep remembering that I saw how to do a thing somewhere in the book, and flipping back and forth trying to find it again. This is true for even the most basic stuff, like instantiating a prefab or accessing components of a `GameObject`. I needed a place I could refer back to for a quick refresher.
+I keep remembering that I saw how to do a thing somewhere in the book, and flipping back and forth trying to find it again. This is true for even the most basic stuff, like instantiating a prefab or accessing components of a `GameObject`. And then there's additional stuff I learned in the docs and on forums. I needed a place I could refer back to for a quick refresher on all this.
 
 <!--more-->
 
@@ -33,6 +33,28 @@ Run a method in a coroutine.
 
 Call in a coroutine to return control to the spawning method, but receive it back after 2 seconds.
 
+
+# MonoBehaviours
+
+
+`void Start() { // your code here }`
+
+Called when the parent `GameObject` is spawned.
+
+
+`void Update() { // your code here }`
+
+Called each frame while the parent `GameObject` is enabled.
+
+
+`void OnEnable() { // your code here }`
+
+Called at the time the parent `GameObject` gets enabled.
+
+
+`void OnDisable() { // your code here }`
+
+Called at the time the parent `GameObject` gets disabled.
 
 
 # Game Objects
