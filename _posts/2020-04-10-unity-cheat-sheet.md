@@ -155,4 +155,4 @@ Set the `Sprite` associated with a GameObject.
 
 # Wrap-up
 
-That's all for now because that's all I have need of. I'll update this post as I discover more frequently-used concepts. Let me know if you have suggestions!
+That's all for now because that's all I have need of. I'll update this post as I discover more universally-used concepts. Let me know if you have suggestions!
