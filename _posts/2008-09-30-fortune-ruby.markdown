@@ -25,7 +25,7 @@ I've attached the files I made.  Unzip and drop them in /usr/share/games/fortune
 [Desktop Entry]
 Encoding=UTF-8
 Name=Phosphor - Ruby ri
-Comment=Draws a simulation of an old terminal, with large pixels and long-sustain phosphor. On X11 systems, This program is also a fully-functional VT100 emulator! Written by Jamie Zawinski; 1999.
+Comment=(Shortened in 2021 so Google doesn't kill my page rank)
 TryExec=phosphor
 Exec=phosphor -root -scale 2 -ticks 5 -program 'fortune ruby'
 StartupNotify=false
