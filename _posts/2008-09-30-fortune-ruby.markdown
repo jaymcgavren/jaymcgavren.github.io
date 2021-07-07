@@ -34,5 +34,3 @@ Categories=GNOME;Screensaver;
 </pre>
 
 ...then select "Phosphor - Ruby ri" in your Screensaver Preferences.  This should also scale back the text so you can see the whole ri screen.
-
-<a href='http://jay.mcgavren.com/blog/wp-content/uploads/2008/10/starwars.png' title='ri - StarWars'><img src='http://jay.mcgavren.com/blog/wp-content/uploads/2008/10/starwars.thumbnail.png' alt='ri - StarWars' /></a>
