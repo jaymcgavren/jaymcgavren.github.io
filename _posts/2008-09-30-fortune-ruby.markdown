@@ -21,7 +21,7 @@ I've attached the files I made.  Unzip and drop them in /usr/share/games/fortune
 
 <em>Edit:</em> On systems using gnome-screensaver, save this in your screensaver config folder, probably as /usr/share/applications/screensavers/xscreensaver-phosphor-ruby.desktop:
 
-<pre>
+``` text
 [Desktop Entry]
 Encoding=UTF-8
 Name=Phosphor - Ruby ri
@@ -31,6 +31,6 @@ Exec=phosphor -root -scale 2 -ticks 5 -program 'fortune ruby'
 StartupNotify=false
 Type=Application
 Categories=GNOME;Screensaver;
-</pre>
+```
 
 ...then select "Phosphor - Ruby ri" in your Screensaver Preferences.  This should also scale back the text so you can see the whole ri screen.
