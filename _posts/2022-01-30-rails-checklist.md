@@ -66,7 +66,8 @@ Review your PR again and check your deployment plan.
 - Ensure feature flags will be set appropriately.
 - Update your monitoring app:
     - With any metrics/logging added to the code.
-    - To track queue latency, run duration, and success/failure status for any background jobs.
+    - Add queue size, run duration, and success/failure status for any background jobs to dashboards.
+    - Add queue latency and job failure alerts with appropriate thresholds.
 
 
 ## Deployment
