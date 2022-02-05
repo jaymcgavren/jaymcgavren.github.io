@@ -64,6 +64,9 @@ Review your PR again and check your deployment plan.
 
 - Ensure any ENV variables will be set not just in production, but also staging and any other environments that need to match production.
 - Ensure feature flags will be set appropriately.
+- Update your monitoring app:
+    - With any metrics/logging added to the code.
+    - To track queue latency, run duration, and success/failure status for any background jobs.
 
 
 ## Deployment
