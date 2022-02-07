@@ -70,6 +70,8 @@ For enum and enum-like attributes, are there valid values you're not allowing?
 
 ## Metrics/Logging
 
+What exceptions could your code possibly throw? Can you differentiate your exceptions from others of the same type? Will you be alerted if they occur too frequently?
+
 The app metrics or logs should record the time lengthy operations take to complete.
 
 In the event an operation fails, the logs should contain the operation parameters to aid in troubleshooting.
