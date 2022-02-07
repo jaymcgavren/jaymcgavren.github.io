@@ -42,6 +42,23 @@ Deploy and run the migration. See [Deployment](#Deployment).
 
 ## Models
 
+### Database
+
+Are you using transactions where you should be?
+
+<details>
+<summary>Why?</summary>
+Does your code make a series of database updates? Will your app be in an inconsistent state if only some of those updates occur?
+</details>
+
+Can your transactions run too long?
+
+<details>
+<summary>Why?</summary>
+Transactions acquire locks on all the records they're updating, which can result in [deadlocks](https://vimeo.com/12941188) under load.
+</details>
+
+
 ### Validations
 
 For enum and enum-like attributes, are there valid values you're not allowing?
