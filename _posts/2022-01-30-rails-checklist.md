@@ -77,6 +77,13 @@ The app metrics or logs should record the time lengthy operations take to comple
 In the event an operation fails, the logs should contain the operation parameters to aid in troubleshooting.
 
 
+## Code Review
+
+Review the diff of your PR. What app features could break, and in what ways?
+
+Use your above analysis to test your own code. As you test, write up directions that will help QA or other devs to test as well.
+
+
 ## Merging
 
 Review your PR again and check your deployment plan.
