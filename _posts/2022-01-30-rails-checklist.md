@@ -83,6 +83,10 @@ Review the diff of your PR. What app features could break, and in what ways?
 
 Use your above analysis to test your own code. As you test, write up directions that will help QA or other devs to test as well.
 
+Deploy your code to QA/staging and carry out those test directions.
+
+Do sanity checks on your code's output or created database records. Does everything match up?
+
 
 ## Merging
 
@@ -103,3 +107,9 @@ Following a deployment:
 - Check the application error reporting or logs for the following:
     - New exceptions never seen before.
     - Post-deploy occurrences of known exceptions. Could they have been caused by your deploy?
+
+## Post-deployment
+
+Run any post-release migrations or Rake tasks.
+
+Repeat your click tests and sanity checks from QA/staging in production.
