@@ -11,9 +11,15 @@ Lately when trying to add new features to a Rails app that runs at scale, I feel
 
 ## Planning
 
-- Run database queries and do other research to determine the following:
-    - Full range of input values your code can receive.
-    - Throughput your code must handle under peak load.
+Run database queries and do other research to determine the following:
+
+- Full range of input values your code can receive.
+- Throughput your code must handle under peak load.
+
+For index views, have the following been considered?
+
+- Pagination.
+- Sorting by various attributes.
 
 If you're fixing a bug:
 
