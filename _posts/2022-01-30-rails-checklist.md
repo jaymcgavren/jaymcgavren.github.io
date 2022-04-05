@@ -73,6 +73,15 @@ For enum and enum-like attributes, are there valid values you're not allowing?
 ## Controllers
 
 
+## Tests
+
+Do your integration tests include a null state, where no data is returned?
+
+<details>
+<summary>Why?</summary>
+Special UI views are often required for empty results. Code that fails to handle empty results can raise errors.
+</details>
+
 
 ## Metrics/Logging
 
