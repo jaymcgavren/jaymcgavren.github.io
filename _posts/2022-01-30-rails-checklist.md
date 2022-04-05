@@ -64,6 +64,12 @@ Can your transactions run too long?
 Transactions acquire locks on all the records they're updating, which can result in [deadlocks](https://vimeo.com/12941188) under load.
 </details>
 
+Have you tested your queries against production data?
+
+<details>
+<summary>Why?</summary>
+Your production system contains more data, with more edge cases, than your development database ever could.
+</details>
 
 ### Validations
 
