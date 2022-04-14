@@ -27,6 +27,8 @@ If you're fixing a bug:
 
 Creating an epic or project plan:
 
+- Do you need to put some or all of the code behind feature flags, so it can be merged and deployed before all components are complete?
+- Does the feature need to be activated for only a subset of customers while it's being beta tested?
 - What components of your team's "definition of done" are required in all new software projects? Are there stories representing these in the project plan? For example, if your company uses a product analytics app, is there a story to add analytics recording to the code?
 - Look through the rest of this checklist. Do any items require adding stories?
 
