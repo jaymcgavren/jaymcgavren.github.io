@@ -25,7 +25,10 @@ If you're fixing a bug:
 
 - Gather a set of inputs that will reproduce the bug. Save them to use in a test, whether manual or automated or both, after you've coded a fix.
 
-What components of your team's "definition of done" are required in all new software projects? Are there stories representing these in the project plan? For example, if your company uses a product analytics app, is there a story to add analytics recording to the code?
+Creating an epic or project plan:
+
+- What components of your team's "definition of done" are required in all new software projects? Are there stories representing these in the project plan? For example, if your company uses a product analytics app, is there a story to add analytics recording to the code?
+- Look through the rest of this checklist. Do any items require adding stories?
 
 
 ## Database Migrations
