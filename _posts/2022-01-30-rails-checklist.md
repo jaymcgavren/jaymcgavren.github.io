@@ -50,14 +50,27 @@ Create a separate pull request for the migration.
 Code that depends on database changes that haven't happened yet throws exceptions. And slow migrations on big tables often have to happen separately from deploys.
 </details>
 
-[Generate the migration](https://guides.rubyonrails.org/v7.0/active_record_migrations.html#creating-a-standalone-migration)
+[Generate the migration](https://guides.rubyonrails.org/v7.0/active_record_migrations.html#creating-a-standalone-migration).
 
 <details>
-<summary>Example</summary>
+<summary>Example: adding a table</summary>
 
-<code>bin/rails generate migration AddPartNumberToProducts part_number:integer:index</code>
+<code>bin/rails generate migration AddProducts catalog:references:index name:string description:text price:float quantity:integer release_date:datetime</code>
 
 </details>
+
+<details>
+<summary>Example: adding a column</summary>
+
+<code>bin/rails generate migration AddPartToProducts part:references:index</code>
+
+</details>
+
+Update the migration file.
+
+- Are all required columns created using `null:false`?
+- Do columns that you're going to query by have indexes? Should you index on multiple columns?
+- Do any columns generated with an integer type need to be changed to `bigint`?
 
 Deploy and run the migration. See [Deployment](#Deployment).
 
@@ -90,7 +103,8 @@ Your production system contains more data, with more edge cases, than your devel
 
 ### Validations
 
-For enum and enum-like attributes, are there valid values you're not allowing?
+- For enum and enum-like attributes, are there valid values you're not allowing?
+- Do any attributes need to be unique? Do they need to be unique within `{scope: :some_parent_id}`?
 
 
 ## Controllers
