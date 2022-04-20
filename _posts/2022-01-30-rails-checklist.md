@@ -32,6 +32,14 @@ Creating an epic or project plan:
 - What components of your team's "definition of done" are required in all new software projects? Are there stories representing these in the project plan? For example, if your company uses a product analytics app, is there a story to add analytics recording to the code?
 - Look through the rest of this checklist. Do any items require adding stories?
 
+How will you validate the feature's deployment is successful?
+
+- Logs?
+- Monitoring dashboards?
+- Database queries?
+- Rails console?
+- Several of the above?
+
 
 ## Database Migrations
 
