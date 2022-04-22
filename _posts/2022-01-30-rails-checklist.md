@@ -15,6 +15,7 @@ Run database queries and do other research to determine the following:
 
 - Full range of input values your code can receive.
 - Throughput your code must handle under peak load.
+- Any backfill jobs/tasks needed to migrate from old data format(s) to new.
 
 For index views, have the following been considered?
 
