@@ -17,6 +17,11 @@ Run database queries and do other research to determine the following:
 - Throughput your code must handle under peak load.
 - Any backfill jobs/tasks needed to migrate from old data format(s) to new.
 
+Have the following design issues been considered?
+
+- What pages will users be directed to after they click a link or submit a form?
+- What are the possible error states (e.g. validation failure)? How will the app behave? What messages will be shown to the user, and how?
+
 For index views, have the following been considered?
 
 - Pagination.
