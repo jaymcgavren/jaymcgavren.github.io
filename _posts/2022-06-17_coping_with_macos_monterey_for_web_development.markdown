@@ -151,7 +151,7 @@ Click the `+` button to add or change keyboard shortcuts for menu items in vario
 
 Some suggestions for things to add are below.
 
-* All Applications: [Re-map the Minimize command to something you won't press accidentally.](https://apple.stackexchange.com/questions/115562/how-do-i-disable-the-minimize-command-m-shortcut-in-mavericks)
+* All Applications: The "Show Help menu" shortcut is incredibly powerful, because the menu opens with the "Search" box focused. This gives you a Spotlight-like search of the menus in every application, and lets you activate even menu items that have no keyboard shortcut without using the mouse. (Give it a try; I promise you'll be hooked!) This shortcut is enabled by default; be sure to keep it that way!
 * Google Chrome:
     * "Select Next Tab": `Cmd-2` (This will override the shortcut to select the second open tab.)
     * "Select Previous Tab": `Cmd-1` (This will override the shortcut to select the first open tab.)
