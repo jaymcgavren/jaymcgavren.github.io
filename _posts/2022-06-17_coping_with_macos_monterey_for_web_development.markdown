@@ -155,6 +155,8 @@ Some suggestions for things to add are below.
 * Google Chrome:
     * "Select Next Tab": `Cmd-2` (This will override the shortcut to select the second open tab.)
     * "Select Previous Tab": `Cmd-1` (This will override the shortcut to select the first open tab.)
+    * "New Window": It's `Cmd-n` by default but remap it to something out-of-the-way like `Ctrl-Opt-Shift-Cmd-N`. Why? Because you want the `Cmd-n` binding for something more powerful...
+    * "Move Tab to New Window": `Cmd-n`. This will take whatever the current tab is and, well, move it to a new window. Type `Cmd-t`, `Cmd-n` and you have the same functionality as the old `Cmd-n`. It takes a little getting used to, but I find this setup far more versatile.
 * Keynote:
     * "Previous Slide": `Cmd-Shift-[`
     * "Next Slide": `Cmd-Shift-]`
