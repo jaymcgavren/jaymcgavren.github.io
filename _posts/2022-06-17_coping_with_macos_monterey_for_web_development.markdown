@@ -122,16 +122,17 @@ The directions [here](https://web.archive.org/save/https://www.amsys.co.uk/how-t
 * Key Repeat rate: Max it out.
 * Delay Until Repeat: Minimize it.
 * Touch Bar shows: I've never used the Touch Bar and I refuse to start. Change it to show "F1, F2, etc." This also gets your Esc "key" back. The whole setup still sucks because there's no tactile key press, but at least now it won't randomly change functions on you.
+* If you're lucky enough to have a newer machine that got rid of the stupid Touch Bar and has function keys back again, you should see a "Use F1, F2, etc. keys as standard function keys" option. You want it enabled (which it should be by default).
 * Unless you enjoy SHOUTING when typing often, the Caps Lock key is worse than useless - it's a booby trap sitting in the middle of your keyboard. Click the "Modifier Keys..." button, and remap Caps Lock to Control.
 
 #### "Text" page
 
 * Uncheck everything here! Why on earth do they have it messing with your text as you type by default?!
-* Be sure to click the "-" button to remove any text expansions, too.
+* Be sure to click the "-" button to remove any "Replace/With" text expansions, too.
 
 #### "Shortcuts" page
 
-* Full Keyboard Access: Set to "All controls".
+* "Use keyboard navigation to move focus between controls": allows you to avoid using the mouse to clear pop-ups. Enable it.
 * "Launchpad & Dock" section:
     * Turn Dock Hiding On/Off: disable
 * "Mission Control" section:
