@@ -33,6 +33,8 @@ We need to kick off a bootstrapping script to install other common tools you'll 
 * My employer uses a fork of Thoughtbot's [Laptop](https://github.com/thoughtbot/laptop) script. Your employer may have their own.
 * I wrote [my own provision_osx_computer.rb Ruby script](https://github.com/jaymcgavren/dotfiles/blob/master/osx/provision_osx_computer.rb) a while back. You might consider forking it and using it as a basis for your own.
 
+After installing so many new programs, I'd recommend rebooting your machine, just in case.
+
 ## Fix Terminal.app
 
 By default, MacOS Terminal.app doesn't treat the Option/Alt key as a Meta key. This breaks many shortcuts in `set -o emacs` mode (the default) as well as Emacs itself. Personally, I use iTerm 2 for my terminal, but we should fix Terminal.app regardless.
