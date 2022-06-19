@@ -62,19 +62,17 @@ You have a few good options that I know of:
 
 ## Fix System Settings
 
-Next, let's visit "System Settings" to fix some terrible defaults:
+Next, let's visit "System Preferences" to fix some terrible defaults.
 
-### "Security & Privacy"
+### "General" Preference Pane
 
-#### "General" page
+* Appearance: "Dark". Might help you fall asleep after a late night hacking session.
 
-* Require password after sleep or screen saver begins: 5 seconds
+### "Security & Privacy" Preference Pane
 
-### "Desktop & Screen Saver"
+On the "General" page: Require password after sleep or screen saver begins: 5 seconds
 
-* Theme: "Dark (Still)". Might help you fall asleep after a late night hacking session.
-
-### "Trackpad"
+### "Trackpad" Preference Pane
 
 #### "Point & Click" page
 
@@ -85,7 +83,7 @@ Next, let's visit "System Settings" to fix some terrible defaults:
 
 #### "Scroll & Zoom" page
 
-* Scroll direction: Natural: Disable. Enabling it seems fine on a trackpad but in my experience it reverses a mouse scroll wheel too, which is just stupid.
+* Scroll direction: Natural: Disable. Enabling it seems fine on a trackpad but in my experience it reverses a mouse scroll wheel too, which is not fine.
 * Other settings: I'm leaving these at the default (enabled), until such time as they piss me off.
 
 #### "More Gestures" page
@@ -96,7 +94,7 @@ Disable all this crap! Mission Control, Exposé, Launchpad, all of it. Here's wh
 * These gestures can be invoked accidentally.
 * They're only there for damn dirty mouse/trackpad users. _You_ don't have time for that; you use your keyboard and a window manager.
 
-### "Dock" Preference Pane
+### "Dock & Menu Bar" Preference Pane
 
 * The dock is for damn dirty mouse/trackpad users, not for you. I don't think it can be disabled entirely with stock software (please let me know if I'm wrong) but you can minimize how much it gets in the way.
 * Size: minimum
@@ -107,12 +105,15 @@ Disable all this crap! Mission Control, Exposé, Launchpad, all of it. Here's wh
 
 ### "Mission Control" Preference Pane
 
-Don't use Mission Control:
+Don't use Mission Control. Habituation to it promotes vendor lock-in with Apple. It's for damn dirty mouse/trackpad users anyway. You're going to use a window manager that lets you keep your hands on the keyboard.
 
-* Habituation to it promotes vendor lock-in with Apple.
-* It's for damn dirty mouse/trackpad users anyway. You're going to use a window manager that lets you keep your hands on the keyboard.
+The directions [here](https://web.archive.org/save/https://www.amsys.co.uk/how-to-disable-mission-control-and-spaces-in-os-x/) for disabling Mission Control entirely _used_ to work (as of MacOS 10.14.6). Now they don't. The best you can do is disable everything in this preference pane:
 
-So don't bother with the settings here; [disable the whole thing](https://web.archive.org/save/https://www.amsys.co.uk/how-to-disable-mission-control-and-spaces-in-os-x/).
+* Disable all the check boxes.
+* Under "Keyboard and Mouse Shortcuts", disable all shortcuts:
+    * Mission Control: select `-` from the dropdown.
+    * Application windows: select `-` from the dropdown.
+    * Show Desktop: leave at the default, blank. Or if that doesn't work, select `-`.
 
 ### "Keyboard" Preference Pane
 
@@ -143,7 +144,9 @@ So don't bother with the settings here; [disable the whole thing](https://web.ar
 
 ##### "App Shortcuts" section
 
-This one is important enough to get its own heading. Click the `+` button to add or change keyboard shortcuts for menu items in various apps. You choose the application you want to modify, type the _exact_ name of the menu item you want to invoke, and press the key combination that should invoke it.
+This section of the Keyboard preference pane is important enough to get its own heading.
+
+Click the `+` button to add or change keyboard shortcuts for menu items in various apps. You choose the application you want to modify, type the _exact_ name of the menu item you want to invoke, and press the key combination that should invoke it.
 
 Some suggestions for things to add are below.
 
