@@ -163,7 +163,9 @@ Some suggestions for things to add are below.
 
 ### "Notifications" Preference Pane
 
-You may want to switch certain app alert styles from "Banners" (which could go away unnoticed if you step away from your computer for a moment) to "Alerts" (which stay until you clear them). Examples include:
+You may want to switch certain app alert styles from "Banners" (which could go away unnoticed if you step away from your computer for a moment) to "Alerts" (which stay until you clear them). Note that an app probably won't appear in the app list here until you've launched it for the first time. (And maybe not until after the app shows you its first notification.)
+
+Examples of apps to consider switching to "Alerts" include:
 
 * Messages
 * Slack
@@ -188,15 +190,21 @@ You may want to switch certain app alert styles from "Banners" (which could go a
 
 Hopefully your boostrap script installed all the apps you need. If not, install them now.
 
+### Log In to Services
+
 Here are a few apps you're going to want to open and log into, if you have/use them.
 
 ``` text
 cd /Applications
-open 'Dropbox.app' # Some other apps depend on DropBox, so do this first!
-open '1Password 6.app' # Why the hell do they put the version in the .app name?!
+# Some other apps depend on DropBox and Google Drive, so do these first!
+open 'Dropbox.app'
+open 'Google Drive.app'
+open '1Password.app'
 open 'Google Chrome.app'
 open Slack.app
 ```
+
+### Settings
 
 Here are some other apps you're going to want to change specific settings in:
 
