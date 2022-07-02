@@ -207,6 +207,8 @@ open 'Google Chrome.app'
 open Slack.app
 ```
 
+### Settings
+
 Here are some other apps you're going to want to change specific settings in:
 
 * `open /Applications/iTerm.app`
