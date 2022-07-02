@@ -178,11 +178,14 @@ Examples of apps to consider switching to "Alerts" include:
 
 #### "Login Items" page
 
-* Some apps will set themselves up to open on login. For some this is great, for others it's annoying or even peformance degrading.
-* Consider removing:
-    * Amazon Music
-    * Steam
-* Consider adding:
+Some apps will set themselves up to open on login. For some this is great, for others it's annoying or even peformance degrading.
+
+Consider *removing*:
+
+* Amazon Music
+* Steam
+
+Consider adding:
     * Slate or other window manager
 
 
