@@ -193,12 +193,16 @@ Consider adding:
 
 Hopefully your boostrap script installed all the apps you need. If not, install them now.
 
+### Log In to Services
+
 Here are a few apps you're going to want to open and log into, if you have/use them.
 
 ``` text
 cd /Applications
-open 'Dropbox.app' # Some other apps depend on DropBox, so do this first!
-open '1Password 6.app' # Why the hell do they put the version in the .app name?!
+# Some other apps depend on DropBox and Google Drive, so do these first!
+open 'Dropbox.app'
+open 'Google Drive.app'
+open '1Password.app'
 open 'Google Chrome.app'
 open Slack.app
 ```
