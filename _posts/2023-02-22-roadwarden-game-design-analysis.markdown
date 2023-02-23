@@ -44,6 +44,8 @@ Looks like subtle training in the game's tradeoffs. Your time is limited, but so
 
 Taking a Scholar specialty opened a new option (craft gunpowder) when encountering a pack of griffons. It was represented simply, as a new dialogue path.
 
+I get the impression that different classes substantially change the way one plays the game, however; changing when one must rest and how long, and how one approaches confrontations.
+
 
 ### Imagery
 
