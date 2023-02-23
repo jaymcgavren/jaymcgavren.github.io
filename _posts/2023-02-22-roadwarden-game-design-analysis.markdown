@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Game Design Analysis - Miscellaneous'
+title: 'Game Design Analysis - Roadwarden'
 tags: []
 type: post
 published: true
@@ -9,6 +9,10 @@ published: true
 Hopefully you've seen my game design [analysis of Subnautica: Below Zero](https://jay.mcgavren.com/2022/09/14/subnautica-below-zero-game-design-analysis.html). Here's another, for Roadwarden. It's an important game to me, as I hope to publish a text adventure myself at some point.
 
 I wrote this while playing, and some of it reflects the mechanics I _hoped_ the game had, rather than what it actually _has_. No disparagement is intended; this is a rock-solid game and its author's choices were likely necessary and correct, grounded in reality rather than my fantasy of the perfect game.
+
+
+<!--more-->
+
 
 
 ### Screen layout
