@@ -10,6 +10,8 @@ Hopefully you've seen my game design [analysis of Subnautica: Below Zero](https:
 
 I wrote this while playing, and some of it reflects the mechanics I _hoped_ the game had, rather than what it actually _has_. No disparagement is intended; this is a rock-solid game and its author's choices were likely necessary and correct, grounded in reality rather than my fantasy of the perfect game.
 
+[Edit: I shared this post with Aureus, the game's creator, and he graciously answered a ton of my questions himself! Check out the interview in [this follow-up post](https://jay.mcgavren.com/2023/02/25/2023-02-25-interview-with-aureus-roadwarden-creator.html)!]
+
 
 <!--more-->
 
