@@ -10,6 +10,10 @@ published: true
 
 I don't think he knew what he was signing up for! But he was incredibly generous with his time, and I asked if I could share his answers here on the blog so other aspiring creators can learn as well. So here's an interview with Aureus, creator and developer of Roadwarden!
 
+
+<!--more-->
+
+
 # Sales
 
 > In this era of AAA and free-to-play games, did you have any worries about publishing a text-based game?
