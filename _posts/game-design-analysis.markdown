@@ -25,3 +25,9 @@ Weird West: When enemies switch to alerted status, a HUD message explains the re
 # Co-op Multiplayer
 
 Deep Rock Galactic: Some enemy types (glyphid grunt guards, praetorians) have extra armor in the front, making them resistant to the player they are approaching. But they are weaker on the sides or rear, meaning a flanking player will do extra damage to them.
+
+# Risk/Reward
+
+Pipe Dream: The cross piece is versatile. If you're in a hurry (or inexperienced), it's just a piece that can complete a horizontal OR a vertical pipe. But it also allows taking a risk to earn points: forming a loop to route the sludge through both the horizontal and vertical portions of the pipe. Loop bonuses even multiply if you nest loops within loops. But trying to complete a loop greatly constrains the path your pipe can follow.
+
+Yoshi: Not a great game overall, but an example of risk/reward: You want to stack tiles as high as you can atop a bottom-half egg shell, and hope you get a top-half before you run out of space. The more tiles compressed into an egg, the bigger the bonus.
