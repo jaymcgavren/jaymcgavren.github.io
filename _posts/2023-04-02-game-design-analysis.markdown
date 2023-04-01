@@ -8,6 +8,8 @@ published: true
 
 Hopefully you've seen my [analysis of Subnautica: Below Zero](https://jay.mcgavren.com/2022/09/14/subnautica-below-zero-game-design-analysis.html). There are many other noteworthy puzzles, mechanics, and conventions in games, but most games don't warrant a blog post unto themselves. This post is a catch-all for other patterns I want to record.
 
+This will be a living document, so expect edits and additions over time.
+
 <!--more-->
 
 If objects need to be interacted with, they are glowing and flashing, or at least heavily lit. They are never static in appearance.
