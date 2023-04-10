@@ -8,11 +8,9 @@ published: true
 
 Hopefully you've seen my [analysis of Subnautica: Below Zero](https://jay.mcgavren.com/2022/09/14/subnautica-below-zero-game-design-analysis.html). There are many other noteworthy puzzles, mechanics, and conventions in games, but most games don't warrant a blog post unto themselves. This post is a catch-all for other patterns I want to record.
 
-This will be a living document, so expect edits and additions over time.
+This will be a living document, so expect edits and additions over time. (Yeah, that's not how blog posts are supposed to work. Send me some traffic and I'll start following the rules.)
 
 <!--more-->
-
-If objects need to be interacted with, they are glowing and flashing, or at least heavily lit. They are never static in appearance.
 
 Power attacks do heavy damage, but have a windup and/or a recovery time, during which you are vulnerable.
 
@@ -23,6 +21,12 @@ Enemies and breakable objects can serve as markers of where you _haven't_ been. 
 Weird West: You can carry raw meat on you, but it can only be prepared at a campfire, and must be consumed immediately. This restricts food consumption to the campfire, while still requiring that inventory space be spent to carry the meat.
 
 Weird West: When enemies switch to alerted status, a HUD message explains the reason e.g.: "A body you left behind was spotted". Avoids confusion over why they were alerted.
+
+# UI
+
+If objects need to be interacted with, they are glowing and flashing, or at least heavily lit. They are never static in appearance.
+
+When a stat changes, animate the change to draw attention to the fact that it's changing as well as the amount of the change. E.g. red delta on the HP bar in Street Fighter, or energy decreases in Citizen Sleeper.
 
 # Co-op Multiplayer
 
