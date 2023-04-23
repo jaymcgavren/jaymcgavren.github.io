@@ -18,7 +18,7 @@ I bet it was possible to prototype this game entirely on paper (regardless of wh
 
 ## Gameplay
 
-The game takes place on a circular space station, which keeps all the locations one needs to travel between in a straight line, which means travelling between them is a simple matter of scrolling the mouse wheel. It's an incredibly efficient interface. In fact, maybe a little _too_ efficient; in one place the developers add a "ferry" one has to click through just to add a little friction.
+The game takes place on a circular space station, which keeps all the locations one needs to travel between in a straight line, which means moving on the map is a simple matter of scrolling the mouse wheel. It's an incredibly efficient interface. In fact, maybe a little _too_ efficient; in a couple places the developers add "ferrys" one has to click through just to add a little friction.
 
 You roll dice each day (from one to five dice depending on your condition), and you choose which actions you'll apply your high rolls to (more likely to succeed), and which actions get your low rolls (more likely to fail). Thus simultaneously introducing elements of both chance and strategy.
 
