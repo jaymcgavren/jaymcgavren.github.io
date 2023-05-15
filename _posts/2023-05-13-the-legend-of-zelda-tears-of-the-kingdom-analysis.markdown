@@ -34,7 +34,15 @@ Initial visit to a cooking pot displays a modal: "You can pass time by the fire.
 
 Treasure chest, visible on a just-barely unreachable platform. I'm sure finding the item/ability that lets me reach it will feel rewarding.
 
-Extremely Cold water used as an impassable obstacle on path to first shrine.
+Extremely Cold water and unclimbable icy cliffs used as impassable obstacles on path to first shrine.
+
+Ukouh shrine: there's a moat that you're unlikely to fall into, but you need a way to climb out in the event that happens. A ladder was placed ascending out of the moat, but it's positioned such that a player won't see it unless/until they fall into the moat. So you see the ladder when you need it, but aren't distracted by it when you don't.
+
+Levitating platforms cannot be grabbed from below and pulled down. It does seem like using a pair of them might allow a player to scale to any height (albeit in a very tedious way). So this probably keeps them from imbalancing the game even further.
+
+Learning to use the Recall ability: you are presented with Recall when you are at a dead end in the Temple of Time. There's a risk players will turn around and leave again, so it's made very clear to you beforehand that this place holds a mainline quest and that now is the time to be pursuing it. With all this in mind, players will be intently looking around the room figuring out how to proceed, _and_ they have this shiny new ability they're eager to use. May as well try it on those giant spindles!
+
+Then you're tasked with finding another shrine, whose location is marked on your map. The puzzle you're presented with requires two abilities. I personally actually forgot about the Ascend ability, and unable to scale the nearby wall, I started descending waterfalls. But it was soon very clear following that route would make it impossible to reach the marked destination. So, now that it was clear I was staring at a dead end again, I went back to the room and this time looked through my abilities again. I spotted Ascend there, and realized it would get me into position to use Recall. Puzzle solved thanks to subtle guidance from the designers.
 
 ## Exploration
 
