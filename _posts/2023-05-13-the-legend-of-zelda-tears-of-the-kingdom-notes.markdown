@@ -24,7 +24,7 @@ Much ado has been made about this series's new weapon durability mechanic. To qu
 
 New in Tears of the Kingdom: When you draw a weapon that is on the verge of breaking, a (non-modal) dialog pops up reminding you of this fact. This seems like a good idea, as the state of your weapons is potentially non-obvious otherwise.
 
-Flurry Rush: bullet time something something drama. TODO: I know this feels good, but how DOES this work?
+Flurry Rush: bullet time something something drama. TODO: I know it looks good, but why DOES bullet time matter here? It's not being used to help you dodge or aim...
 
 ## Gameplay
 
