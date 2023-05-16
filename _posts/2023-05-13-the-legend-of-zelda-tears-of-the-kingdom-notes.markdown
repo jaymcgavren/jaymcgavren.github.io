@@ -8,7 +8,7 @@ published: true
 
 Time for another post in my game design analysis series! This time I'm looking at The Legend of Zelda: Tears of the Kingdom.
 
-Much of what I record here will be obvious to anyone who's recently played the game, or its predecessor Breath of the Wild. But I'm writing this for future readers as well, and hopefully it can provide some inspiration for a busy designers who don't have time to sit down and play the game themselves.
+Much of what I record here will be obvious to anyone who's recently played the game, or its predecessor Breath of the Wild. But I'm writing this for future readers as well, and hopefully it can provide some inspiration for busy designers who don't have time to sit down and play the game themselves.
 
 NOTE: Until such time as this note is removed, this post should be considered a work in progress. (I don't feel like messing around with a "draft" status and hopefully I can get some preliminary feedback this way.)
 
