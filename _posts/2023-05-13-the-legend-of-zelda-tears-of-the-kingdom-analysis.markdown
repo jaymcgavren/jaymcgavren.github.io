@@ -28,7 +28,7 @@ Flurry Rush: bullet time something something drama. TODO: I know this feels good
 
 Moonrise works just the same as in Horizon: Forbidden West. Immediately after sunset there is a period of considerable darkness, to the point that it hampers visibility a bit. _Then_ the moon rises, and it's nearly as bright as day again (but with different hues). Not sure if there's a gameplay purpose to this?
 
-First cooking pot is positioned on a line between the Temple of Time and the first shrine you can see (which is in a Cold area). Spicy Peppers (which stave off Cold) are positioned near the pot.
+First cooking pot is positioned right near the entrance to the first Cold area. Spicy Peppers (which stave off Cold) are positioned near the pot.
 
 Initial visit to a cooking pot displays a modal: "You can pass time by the fire." AFAIK this modal never appears again. Subsequent visits go straight to the modal: "Sit by the fire until: Morning. / Noon. / Night. / Never mind." Now, why ARE we allowed to pass time? Personally, I think the annoyance of walking around in the dark is reason enough, but are there other reasons? Why is there a day/night cycle at all?
 
@@ -40,15 +40,26 @@ Ukouh shrine: there's a moat that you're unlikely to fall into, but you need a w
 
 Levitating platforms cannot be grabbed from below and pulled down. It does seem like using a pair of them might allow a player to scale to any height (albeit in a very tedious way). So this probably keeps them from imbalancing the game even further.
 
-Learning to use the Recall ability: you are presented with Recall when you are at a dead end in the Temple of Time. There's a risk players will turn around and leave again, so it's made very clear to you beforehand that this place holds a mainline quest and that now is the time to be pursuing it. With all this in mind, players will be intently looking around the room figuring out how to proceed, _and_ they have this shiny new ability they're eager to use. May as well try it on those giant spindles!
+There are significant differences in the effective ranges of the different abilities, e.g. Ultrahand requires you to be quite close, whereas Rewind can be used at range. Designers probably simply offered the maximum range for each ability that wouldn't imbalance the game (thereby maximizing the number of contexts in which each can be used), but it's interesting that they saw no need to keep the range consistent between abilities.
 
-Then you're tasked with finding another shrine, whose location is marked on your map. The puzzle you're presented with requires two abilities. I personally actually forgot about the Ascend ability, and unable to scale the nearby wall, I started descending waterfalls. But it was soon very clear following that route would make it impossible to reach the marked destination. So, now that it was clear I was staring at a dead end again, I went back to the room and this time looked through my abilities again. I spotted Ascend there, and realized it would get me into position to use Recall. Puzzle solved thanks to subtle guidance from the designers.
+If the copious weapons from Breath of the Wild were still available, you'd have no need to use the Fuse ability. So the weapons are explained away by saying they were eaten by miasma during the Upheaval. It's super dumb but the player base seems accepting of it.
+
+Dishes made with double the ingredients exactly double their replenishment/duration effects. Dishes made with discoverable, repeatable combinations of ingredients can be significantly more effective than their individual components.
+
+Dishes sell for more than their raw ingredients. Dishes made with twice as many ingredients sell for (a bit) more than twice as much.
+
 
 ## Exploration
 
 Temple of Time entrance: I rolled my eyes in annoyance when I marched all the way over to the Temple, only to be told I must first visit several shrines to gain entrance. But consider how awkward it would have been to be told "okay, go visit these shrines, and that will open the door on this temple you haven't been to yet."
 
 How do you present the player with a couple interesting objectives at any given time, without overwhelming them? This YouTube [video](https://youtu.be/CZzcVs8tNfE) is actually about Breath of the Wild, but I'm sure these insights were re-used for Tears of the Kingdom.
+
+Learning to use the Recall ability: you are presented with Recall when you are at a dead end in the Temple of Time. There's a risk players will turn around and leave again, so it's made very clear to you beforehand that this place holds a mainline quest and that now is the time to be pursuing it. With all this in mind, players will be intently looking around the room figuring out how to proceed, _and_ they have this shiny new ability they're eager to use. May as well try it on those giant spindles!
+
+Then you're tasked with finding another shrine, whose location is marked on your map. The puzzle you're presented with requires two abilities. I personally actually forgot about the Ascend ability, and unable to scale the nearby wall, I started descending waterfalls. But it was soon very clear following that route would make it impossible to reach the marked destination. So, now that it was clear I was staring at a dead end again, I went back to the room and this time looked through my abilities again. I spotted Ascend there, and realized it would get me into position to use Recall. Puzzle solved thanks to subtle guidance from the designers.
+
+Placing a character on the ground straining to look up indicates you need to surmount a wall to find Hoz.
 
 ## UI
 
