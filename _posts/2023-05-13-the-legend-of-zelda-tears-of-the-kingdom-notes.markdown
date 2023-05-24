@@ -46,6 +46,8 @@ There are significant differences in the effective ranges of the different abili
 
 If the copious weapons from Breath of the Wild were still available, you'd have no need to use the Fuse ability. So the weapons are explained away by saying they were eaten by miasma during the Upheaval. It's super dumb but the player base seems accepting of it.
 
+## Economy
+
 Dishes made with double the ingredients exactly double their replenishment/duration effects. Dishes made with discoverable, repeatable combinations of ingredients can be significantly more effective than their individual components.
 
 Dishes sell for more than their raw ingredients. Dishes made with twice as many ingredients sell for (a bit) more than twice as much.
@@ -60,6 +62,8 @@ How do you present the player with a couple interesting objectives at any given 
 Learning to use the Recall ability: you are presented with Recall when you are at a dead end in the Temple of Time. There's a risk players will turn around and leave again, so it's made very clear to you beforehand that this place holds a mainline quest and that now is the time to be pursuing it. With all this in mind, players will be intently looking around the room figuring out how to proceed, _and_ they have this shiny new ability they're eager to use. May as well try it on those giant spindles!
 
 Then you're tasked with finding another shrine, whose location is marked on your map. The puzzle you're presented with requires two abilities. I personally actually forgot about the Ascend ability, and unable to scale the nearby wall, I started descending waterfalls. But it was soon very clear following that route would make it impossible to reach the marked destination. So, now that it was clear I was staring at a dead end again, I went back to the room and this time looked through my abilities again. I spotted Ascend there, and realized it would get me into position to use Recall. Puzzle solved thanks to subtle guidance from the designers.
+
+After descending from the tutorial island, you are immediately given a waypoint to a village where you are given a tutorial on towns, including on stores. Visiting this waypoint first is optional, however.
 
 Placing a character on the ground straining to look up indicates you need to surmount a wall to find Hoz.
 
