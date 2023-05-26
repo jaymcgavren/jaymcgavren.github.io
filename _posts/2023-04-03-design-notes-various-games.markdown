@@ -12,6 +12,8 @@ This will be a living document, so expect edits and additions over time. (Yeah, 
 
 <!--more-->
 
+# General Gameplay
+
 Power attacks do heavy damage, but have a windup and/or a recovery time, during which you are vulnerable.
 
 Heavy objects can only be dragged along level, smooth surfaces, thus constraining them to a particular area (and keeping the player from wasting time and ruining other puzzles by dragging a box everywhere they go).
@@ -20,13 +22,13 @@ Enemies and breakable objects can serve as markers of where you _haven't_ been. 
 
 Weird West: You can carry raw meat on you, but it can only be prepared at a campfire, and must be consumed immediately. This restricts food consumption to the campfire, while still requiring that inventory space be spent to carry the meat.
 
-Weird West: When enemies switch to alerted status, a HUD message explains the reason e.g.: "A body you left behind was spotted". Avoids confusion over why they were alerted.
-
 # UI
 
 If objects need to be interacted with, they are glowing and flashing, or at least heavily lit. They are never static in appearance.
 
 When a stat changes, animate the change to draw attention to the fact that it's changing as well as the amount of the change. E.g. red delta on the HP bar in Street Fighter, or energy decreases in Citizen Sleeper.
+
+Weird West: When enemies switch to alerted status, a HUD message explains the reason e.g.: "A body you left behind was spotted". Avoids confusion over why they were alerted.
 
 # Co-op Multiplayer
 
