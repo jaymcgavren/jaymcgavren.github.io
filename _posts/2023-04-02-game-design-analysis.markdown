@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Game Design Analysis - Miscellaneous'
-tags: []
+title: 'Design Notes on Various Games'
+tags: ['game design']
 type: post
 published: true
 ---
