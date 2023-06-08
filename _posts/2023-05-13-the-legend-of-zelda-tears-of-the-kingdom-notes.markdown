@@ -22,6 +22,8 @@ SPOILER ALERT: I am going to be making no effort whatsoever to avoid spoilers in
 
 Much ado has been made about this series's new weapon durability mechanic. To quickly recap here, some players hate it. But I personally buy into the argument that it's essential. If the first sword you found were durable enough to finish the game with, there'd be no point to looking for additional swords (and no need to explore).
 
+Weapons do extra damage on the hit that breaks them. Other designers have suggested that this is to make breakage a little less frustrating. I would add that it makes it a little less likely to find yourself facing a monster while weaponless (because the breaking blow is more likely to kill your opponent).
+
 New in Tears of the Kingdom: When you draw a weapon that is on the verge of breaking, a (non-modal) dialog pops up reminding you of this fact. This seems like a good idea, as the state of your weapons is potentially non-obvious otherwise.
 
 Flurry Rush: bullet time something something drama. TODO: I know it looks good, but why DOES bullet time matter here? It's not being used to help you dodge or aim...
@@ -50,6 +52,7 @@ Dishes made with double the ingredients exactly double their replenishment/durat
 
 Dishes sell for more than their raw ingredients. Dishes made with twice as many ingredients sell for (a bit) more than twice as much.
 
+Capturing horses may be integrated into the main game, but it's still basically a minigame. And it has difficulty parameters. More powerful horses move around more, requiring careful timing on an approach. They turn more, meaning their field of view shifts more, sometimes requiring multiple changes in approach angle.
 
 ## Exploration
 
@@ -62,6 +65,8 @@ Learning to use the Recall ability: you are presented with Recall when you are a
 Then you're tasked with finding another shrine, whose location is marked on your map. The puzzle you're presented with requires two abilities. I personally actually forgot about the Ascend ability, and unable to scale the nearby wall, I started descending waterfalls. But it was soon very clear following that route would make it impossible to reach the marked destination. So, now that it was clear I was staring at a dead end again, I went back to the room and this time looked through my abilities again. I spotted Ascend there, and realized it would get me into position to use Recall. Puzzle solved thanks to subtle guidance from the designers.
 
 Placing a character on the ground straining to look up indicates you need to surmount a wall to find Hoz.
+
+Shooting stars are a highly valuable material that land some distance away from you and disappear quickly. They encourage you to drop what you're doing and engage in an exciting, haphazard race to collect them.
 
 ## UI
 
