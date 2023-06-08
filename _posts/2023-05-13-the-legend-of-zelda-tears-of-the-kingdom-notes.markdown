@@ -18,13 +18,17 @@ SPOILER ALERT: I am going to be making no effort whatsoever to avoid spoilers in
 <!--more-->
 
 
+## Overall
+
+Seems like many of the game's systems could have been designed separately in Nintendo's famous "garden" playgrounds. Capturing horses, propping up Hudson signs, and skydiving all seem like selections from the resulting experiments. These systems are mostly orthogonal to each other, too; maybe you _could_ prop up a Hudson sign in the middle of combat but you're gonna have a bad time.
+
 ## Combat
 
 Much ado has been made about this series's new weapon durability mechanic. To quickly recap here, some players hate it. But I personally buy into the argument that it's essential. If the first sword you found were durable enough to finish the game with, there'd be no point to looking for additional swords (and no need to explore).
 
 New in Tears of the Kingdom: When you draw a weapon that is on the verge of breaking, a (non-modal) dialog pops up reminding you of this fact. This seems like a good idea, as the state of your weapons is potentially non-obvious otherwise.
 
-Flurry Rush: bullet time something something drama. TODO: I know it looks good, but why DOES bullet time matter here? It's not being used to help you dodge or aim...
+Flurry Rush: bullet time something something dramatic. TODO: I know it looks good, but why DOES bullet time matter here? It's not being used to help you dodge or aim...
 
 ## Gameplay
 
