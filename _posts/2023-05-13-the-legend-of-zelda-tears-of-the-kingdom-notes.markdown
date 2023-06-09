@@ -62,7 +62,7 @@ Capturing horses may be integrated into the main game, but it's still basically 
 
 ## Exploration
 
-Temple of Time entrance: I rolled my eyes in annoyance when I marched all the way over to the Temple, only to be told I must first visit several shrines to gain entrance. But consider how awkward it would have been to be told "okay, go visit these shrines, and that will open the door on this temple you haven't been to yet."
+Temple of Time entrance: I rolled my eyes in annoyance when I marched all the way over to the Temple, only to be told I must first visit several shrines to gain entrance. But consider how awkward it would have been to be told "okay, go visit these shrines, and that will open the door on this temple you haven't been to yet." This could be considered an example of the ["lock before key" principle](https://howtomakeanrpg.com/a/how-zelda-gets-lock-and-key-puzzles-right.html).
 
 How do you present the player with a couple interesting objectives at any given time, without overwhelming them? This YouTube [video](https://youtu.be/CZzcVs8tNfE) is actually about Breath of the Wild, but I'm sure these insights were re-used for Tears of the Kingdom.
 
