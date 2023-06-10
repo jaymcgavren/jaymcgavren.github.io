@@ -86,6 +86,8 @@ When you first start out, there are two tabs in the `-` button menu marked "Feat
 
 First time stamina wheel runs out: non-modal dialog saying something to the effect of "When your stamina wheel runs out, you'll be too tired to do certain actions until it fills again." Doesn't appear again on subsequent exhaustion; unsure if it ever does.
 
+Flashing red warning as buff wears off: Ascending the sky ruins above Hebra, I was so focused on not falling that I utterly forgot I had cold resistance in effect. The warning was the only reason I noticed the buff was running out.
+
 ## Worldbuilding
 
 There are clouds blowing by. Over the land. Because the land is in the sky, right? I love this because it's a reminder of your elevation and it's also _really fucking cool_.
