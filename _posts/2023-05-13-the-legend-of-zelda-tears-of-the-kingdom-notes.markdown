@@ -52,6 +52,8 @@ There are significant differences in the effective ranges of the different abili
 
 If the copious weapons from Breath of the Wild were still available, you'd have no need to use the Fuse ability. So the weapons are explained away by saying they were eaten by miasma during the Upheaval. It's super dumb but the player base seems accepting of it.
 
+Fires won't light in the rain. But you can shield the kindling by building a structure above it. I don't know about other players, but I simply assumed this wouldn't work (because that seems like an obscure use-case and time-consuming to program). But the game tries to introduce players to the idea gently. First it places a cookpot under an existing structure (all you have to do is place a section of roof). Then again with an important goal blocked behind a row of burnable thorns in a perpetually-rainy part of the map. (With all materials needed for a structure close by.)
+
 ## Economy
 
 Dishes made with double the ingredients exactly double their replenishment/duration effects. Dishes made with discoverable, repeatable combinations of ingredients can be significantly more effective than their individual components.
