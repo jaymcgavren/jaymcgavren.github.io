@@ -54,13 +54,13 @@ If the copious weapons from Breath of the Wild were still available, you'd have 
 
 Fires won't light in the rain. But you can shield the kindling by building a structure above it. I don't know about other players, but I simply assumed this wouldn't work (because that seems like an obscure use-case and time-consuming to program). But the game tries to introduce players to the idea gently. First it places a cookpot under an existing structure (all you have to do is place a section of roof). Then again with an important goal blocked behind a row of burnable thorns in a perpetually-rainy part of the map. (With all materials needed for a structure close by.)
 
+Capturing horses may be integrated into the main game, but it's still basically a minigame. And it has difficulty parameters. More powerful horses move around more, requiring careful timing on an approach. They turn more, meaning their field of view shifts more, sometimes requiring multiple changes in approach angle.
+
 ## Economy
 
 Dishes made with double the ingredients exactly double their replenishment/duration effects. Dishes made with discoverable, repeatable combinations of ingredients can be significantly more effective than their individual components.
 
 Dishes sell for more than their raw ingredients. Dishes made with twice as many ingredients sell for (a bit) more than twice as much.
-
-Capturing horses may be integrated into the main game, but it's still basically a minigame. And it has difficulty parameters. More powerful horses move around more, requiring careful timing on an approach. They turn more, meaning their field of view shifts more, sometimes requiring multiple changes in approach angle.
 
 ## Exploration
 
