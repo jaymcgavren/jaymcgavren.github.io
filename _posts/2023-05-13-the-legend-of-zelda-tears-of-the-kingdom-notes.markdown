@@ -94,6 +94,8 @@ Great Fairies "know" when you don't have materials or they don't have the power 
 
 Loading screen tips are context sensitive. E.g. you only get tips on dealing with sludge while in Zora's Domain.
 
+UI clock: sure, I could theoretically determine time of day by looking at the sky (and the sun and moon do provide useful ambient indicators of time. But at one point I resumed the game after a 12-hour break (gotta sleep sometime!) and momentarily mistook a sunrise for a sunset. That was only cleared up by looking at the in-game clock.
+
 ## Worldbuilding
 
 There are clouds blowing by. Over the land. Because the land is in the sky, right? I love this because it's a reminder of your elevation and it's also _really fucking cool_.
