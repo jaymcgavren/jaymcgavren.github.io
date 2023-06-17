@@ -90,6 +90,10 @@ First time stamina wheel runs out: non-modal dialog saying something to the effe
 
 Flashing red warning as buff wears off: Ascending the sky ruins above Hebra, I was so focused on not falling that I utterly forgot I had cold resistance in effect. The warning was the only reason I noticed the buff was running out.
 
+Great Fairies "know" when you don't have materials or they don't have the power to enhance your clothing. They could simply turn you away. But that would prevent players from viewing the menu of their clothing to determine _why_ they can't upgrade yet. So the fairy declares that they can't upgrade anything, then lets the player view the menu anyway.
+
+Loading screen tips are context sensitive. E.g. you only get tips on dealing with sludge while in Zora's Domain.
+
 ## Worldbuilding
 
 There are clouds blowing by. Over the land. Because the land is in the sky, right? I love this because it's a reminder of your elevation and it's also _really fucking cool_.
