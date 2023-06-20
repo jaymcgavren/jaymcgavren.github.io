@@ -56,6 +56,8 @@ Fires won't light in the rain. But you can shield the kindling by building a str
 
 Capturing horses may be integrated into the main game, but it's still basically a minigame. And it has difficulty parameters. More powerful horses move around more, requiring careful timing on an approach. They turn more, meaning their field of view shifts more, sometimes requiring multiple changes in approach angle.
 
+You are given a brief (~1 second) grace period of exposure to Gloom before your max HP starts reducing. Just enough time to realize the danger and get back out.
+
 ## Economy
 
 Dishes made with double the ingredients exactly double their replenishment/duration effects. Dishes made with discoverable, repeatable combinations of ingredients can be significantly more effective than their individual components.
@@ -95,6 +97,10 @@ Great Fairies "know" when you don't have materials or they don't have the power 
 Loading screen tips are context sensitive. E.g. you only get tips on dealing with sludge while in Zora's Domain.
 
 UI clock: sure, I could theoretically determine time of day by looking at the sky (and the sun and moon do provide useful ambient indicators of time. But at one point I resumed the game after a 12-hour break (gotta sleep sometime!) and momentarily mistook a sunrise for a sunset. That was only cleared up by looking at the in-game clock.
+
+Something I'd like to see that isn't here; different sound effects for picking up materials vs. weapons/shields/bows. The latter three have limited inventory space and I'd like a clearer indicator of when I've just consumed some of it.
+
+Weapons with special attributes sparkle and emit a sound effect to draw your attention to them.
 
 ## Worldbuilding
 
