@@ -58,6 +58,8 @@ Capturing horses may be integrated into the main game, but it's still basically 
 
 You are given a brief (~1 second) grace period of exposure to Gloom before your max HP starts reducing. Just enough time to realize the danger and get back out.
 
+Insects fly away if you approach at full speed; you have to crouch and sneak up on them. This requires intentionality, not just running everywhere pressing the Grab button all the time.
+
 ## Economy
 
 Dishes made with double the ingredients exactly double their replenishment/duration effects. Dishes made with discoverable, repeatable combinations of ingredients can be significantly more effective than their individual components.
