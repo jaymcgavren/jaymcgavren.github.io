@@ -108,4 +108,4 @@ Weapons with special attributes sparkle and emit a sound effect to draw your att
 
 On the first sky archipelago, there are clouds blowing by. Over the land. Because the land is in the sky, right? I love this because it's a reminder of your elevation and it's also _really fucking cool_.
 
-In the cinematic where Morgaia appears, she is the size of a mountain. Awe-inspiring. Terrifying. Mostly, I suspect, due to the sinister music that plays. And then the music fades out for a loading screen, and the mood is lost... If it had kept playing, it would have been so much more effective.
+In the cinematic where Morgaia appears, she is the size of a mountain. Awe-inspiring. Terrifying. Mostly, I suspect, due to the sinister music that plays. And then the music fades out for a loading screen, and the mood is lost... If it had kept playing, it would have been so much more effective. ...And then the mood is _completely_ ruined by the ridiculous battle that involves repeatedly launching your friend off the front of a gyrocopter. Maybe they should've played comical music throughout instead.
