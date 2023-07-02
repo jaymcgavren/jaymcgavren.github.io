@@ -60,6 +60,8 @@ You are given a brief (~1 second) grace period of exposure to Gloom before your 
 
 Insects fly away if you approach at full speed; you have to crouch and sneak up on them. This requires intentionality, not just running everywhere pressing the Grab button all the time.
 
+They are very, very good at providing [resource sinks](https://lostgarden.home.blog/2021/12/12/value-chains/). The Great Fairies in particular come to mind. Everything consumes precious rupies. And specific clothing items require specific resources from a variety of regions, each of which requires a different game mechanic to collect.
+
 ## Economy
 
 Dishes made with double the ingredients exactly double their replenishment/duration effects. Dishes made with discoverable, repeatable combinations of ingredients can be significantly more effective than their individual components.
