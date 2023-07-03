@@ -110,7 +110,7 @@ I know this is going to sound crazy, or worse, apologist. But over time the menu
 
 ## Storytelling
 
-On the first sky archipelago, there are clouds blowing by. Over the land. Because the land is in the sky, right? I love this because it's a reminder of your elevation and it's also _really fucking cool_.
+On the first sky archipelago, there are clouds blowing by. Over the land. Because the land is in the sky, right? I love this because it's a reminder of your elevation and it's also _really cool_.
 
 NPCs flinch when you run into them, or swing a weapon at them, or levitate a giant construction over them. That is all they do, but perhaps that's all it's reasonable to code them to do.
 
