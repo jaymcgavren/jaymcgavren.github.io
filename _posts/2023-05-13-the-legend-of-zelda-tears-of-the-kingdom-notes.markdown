@@ -72,6 +72,8 @@ Insects fly away if you approach at full speed; you have to crouch and sneak up 
 
 They are very, very good at providing [resource sinks](https://lostgarden.home.blog/2021/12/12/value-chains/). The Great Fairies in particular come to mind. Everything consumes precious rupies. And specific clothing items require specific resources from a variety of regions, each of which requires a different game mechanic to collect.
 
+When swimming up a waterfall, stamina restores fully. There is no sensible reason this should be so, but there is a practical one: you'll be exhausted from swimming and unable to paraglide without more stamina.
+
 ## Economy
 
 Dishes made with double the ingredients exactly double their replenishment/duration effects. Dishes made with discoverable, repeatable combinations of ingredients can be significantly more effective than their individual components.
