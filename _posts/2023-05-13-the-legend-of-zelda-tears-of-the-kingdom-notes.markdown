@@ -32,6 +32,14 @@ New in Tears of the Kingdom: When you draw a weapon that is on the verge of brea
 
 Flurry Rush: bullet time something something dramatic. TODO: I know it looks good, but why DOES bullet time matter here? It's not being used to help you dodge or aim...
 
+Enemies can harm each other, but not with basic attacks; those pass right through allied entities. I'm guessing they wanted the "juice" of fooling enemies into attacking each other, but enabling that for basic attacks would have broken all combat.
+
+Stealing weapons: certain weapons of yours can knock an opponent's weapon (or shield) out of their hands. You can grab it to deny them the attack power, and you can equip it (using the infinite time afforded by the pause menu) to make that attack power yours.
+
+The Muddle Bud: it's the classic "confuse" spell. Temporarily eliminates an enemy as an aggressor _and_ causes them to harm un-turned enemies. (With the clever caveat in this case that if you let them see you, they may also attack you.) Frankly it's overpowered and way too plentiful, but it _is_ a lot of fun.
+
+As with Eventide Island in Breath of the Wild, certain shrines drop you naked (well, in your boxers, this mostly a family-friendly game) into a combat situation. No armor, no weapons other than those provided. (But with your magic powers and all heart containers, so grinding does grant some advantage.) Leveling up can destroy the game's balance, and this is a way of restoring the challenge for a moment. (For those players who accept the challenge and don't immediately leave.)
+
 ## Gameplay
 
 Moonrise works just the same as in Horizon: Forbidden West. Immediately after sunset there is a period of considerable darkness, to the point that it hampers visibility a bit. _Then_ the moon rises, and it's nearly as bright as day again (but with different hues). Not sure if there's a gameplay purpose to this?
