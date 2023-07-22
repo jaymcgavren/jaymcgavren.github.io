@@ -38,7 +38,9 @@ Stealing weapons: certain weapons of yours can knock an opponent's weapon (or sh
 
 The Muddle Bud: it's the classic "confuse" spell. Temporarily eliminates an enemy as an aggressor _and_ causes them to harm un-turned enemies. (With the clever caveat in this case that if you let them see you, they may also attack you.) Frankly it's overpowered and way too plentiful, but it _is_ a lot of fun.
 
-As with Eventide Island in Breath of the Wild, certain shrines drop you naked (well, in your boxers, this mostly a family-friendly game) into a combat situation. No armor, no weapons other than those provided. (But with your magic powers and all heart containers, so grinding does grant some advantage.) Leveling up can destroy the game's balance, and this is a way of restoring the challenge for a moment. (For those players who accept the challenge and don't immediately leave.)
+As with Eventide Island in Breath of the Wild, certain shrines drop you naked (well, in your boxers, this mostly a family-friendly game) into a combat situation. No armor, no weapons other than those provided. (But you keep your magic powers and max HP, so grinding does grant some advantage.) Leveling up can destroy the game's balance, and this is a way of restoring the challenge for a moment. (For those players who accept the challenge and don't immediately leave.)
+
+There are two kinds of reduction of max HP. Gloom reduces it in a healable way, through sundelions or visiting a checkpoint (the surface or a Root). The final boss reduces it in a "permanent" way, which practically is only meaningful in that it renders sundelions useless. But damn if that isn't terror-inducing...
 
 ## Gameplay
 
