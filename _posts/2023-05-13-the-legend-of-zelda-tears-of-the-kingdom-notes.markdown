@@ -120,6 +120,8 @@ Weapons with special attributes sparkle and emit a sound effect to draw your att
 
 I know this is going to sound crazy, or worse, apologist. But over time the menu buttons started to feel like a mini-game in their own right. E.g. I needed a _lot_ of rupees for armor upgrades. And the way I chose to earn them was by cooking potions. `+`: materials menu. `A`: select item. `Down`, `Down`, "select for recipe". `A` to choose recipe. `B` to exit menu. `A` to cook. `X` to skip animation. `B` to exit modal. `+` to re-enter materials menu. It was all repetitive, and arguably should have been streamlined with "grease". (E.g. "cook 27 of these potions".) But I felt skillful while pressing the buttons to manipulate these "tedious" menus. So maybe adding grease here wouldn't have improved the game?
 
+Map: `A` brings up a menu for a map icon, and once you've done so, `A` activates the default menu option, which is "Travel". It's the one you'll want most often. They never explicitly say so, but a double-tap of `A` will have you travelling around the map rapidly. It's very satisfying and I'm pretty sure intentional.
+
 ## Storytelling
 
 On the first sky archipelago, there are clouds blowing by. Over the land. Because the land is in the sky, right? I love this because it's a reminder of your elevation and it's also _really cool_.
