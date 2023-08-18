@@ -18,11 +18,13 @@ Power attacks do heavy damage, but have a windup and/or a recovery time, during 
 
 Heavy objects can only be dragged along level, smooth surfaces, thus constraining them to a particular area (and keeping the player from wasting time and ruining other puzzles by dragging a box everywhere they go).
 
-Enemies and breakable objects can serve as markers of where you _haven't_ been. If an area is littered with broken crates and devoid of enemies, it's an implicit sign that you've already explored there.
+# Meta-game
 
 Weird West: You can carry raw meat on you, but it can only be prepared at a campfire, and must be consumed immediately. This restricts food consumption to the campfire, while still requiring that inventory space be spent to carry the meat.
 
 When implemented well, "poisoned" status imposes an interesting set of constraints on normal gameplay. Historically, being poisoned just results in a choice between taking the damage or giving up one attack turn to take an antidote that you already have in an infinite-capacity inventory. Boring! More interesting, to me, is dropping what you're doing and rushing to find an NPC who can treat the character, all while they are taking damage or are otherwise de-buffed.
+
+Want to apply a powerful effect just once (and impose a heavy inventory space cost)? Attach it to a potion. Want to apply an effect repeatedly? Attach it to a relic. You can apply a variety of rules to the repetition, such as limiting number of uses, repair, or cooldown.
 
 # UI
 
@@ -35,6 +37,12 @@ Weird West: When enemies switch to alerted status, a HUD message explains the re
 # Co-op Multiplayer
 
 Deep Rock Galactic: Some enemy types (glyphid grunt guards, praetorians) have extra armor in the front, making them resistant to the player they are approaching. But they are weaker on the sides or rear, meaning a flanking player will do extra damage to them.
+
+# Exploration
+
+Enemies and breakable objects can serve as markers of where you _haven't_ been. If an area is littered with broken crates and devoid of enemies, it's an implicit sign that you've already explored there.
+
+Abzu (and many others): A fountain with a series of aqueducts leading to it. The moment you activate the first aqueduct, it's pretty obvious you'll need to do the same with the others. (If lots of players had been getting confused here, they could have even activated the firs aqueduct automatically, in a cutscene.)
 
 # Risk/Reward
 
