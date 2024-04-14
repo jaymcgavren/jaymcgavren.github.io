@@ -54,36 +54,35 @@ That's why I use a "window manager" app. A window manager can remember the posit
 
 You have a few good options that I know of:
 
-* [Slate](https://github.com/jigish/slate): This is what I use. Open-source, configured via [text file](https://github.com/jaymcgavren/dotfiles/blob/master/slate). Not actively maintained, but it doesn't need to be; it's been in a "just works" state for years.
+* [Slate](https://github.com/fertigt/slate_arm64): This is what I use. Open-source, configured via [text file](https://github.com/jaymcgavren/dotfiles/blob/master/slate).
 * [Moom](https://manytricks.com/moom/): Closed-source, $10 USD. Looks fancy, seems popular, haven't used it.
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/): Closed-source, $13 USD. Seems adequate.
-* [Spectacle](https://www.spectacleapp.com): Open-source. Seems adequate.
 
 
 ## Fix System Settings
 
 Next, let's visit "System Preferences" to fix some terrible defaults.
 
-### "General" Preference Pane
+### "Appearance" Preference Pane
 
-* Appearance: "Dark". Might help you fall asleep after a late night hacking session.
+Appearance: "Dark". Might help you fall asleep after a late night hacking session.
 
-### "Security & Privacy" Preference Pane
+### "Lock Screen" Preference Pane
 
-On the "General" page: Require password after sleep or screen saver begins: 5 seconds
+"Require password after screen saver begins or display is turned off": "Immediately".
 
 ### "Trackpad" Preference Pane
 
 #### "Point & Click" page
 
+* Force Click and haptic feedback: Disable.
 * Look up & data detectors: Disable. I don't want my trackpad doing random useless stuff because I clicked "too hard".
 * Secondary click: Disable. I don't want my trackpad doing random stuff because I didn't lift a finger.
 * Tap to click: Disabled by default and needs to stay that way. Why is this crap even a setting?!
-* Force Click and haptic feedback: Disable.
 
 #### "Scroll & Zoom" page
 
-* Scroll direction: Natural: Disable. Enabling it seems fine on a trackpad but in my experience it reverses a mouse scroll wheel too, which is not fine.
+* Scroll direction: Natural: Disable. Enabling it seems fine on a trackpad but since at least Mojave it reverses a mouse scroll wheel too, which is not fine.
 * Other settings: I'm leaving these at the default (enabled), until such time as they piss me off.
 
 #### "More Gestures" page
@@ -94,14 +93,26 @@ Disable all this crap! Mission Control, Exposé, Launchpad, all of it. Here's wh
 * These gestures can be invoked accidentally.
 * They're only there for damn dirty mouse/trackpad users. _You_ don't have time for that; you use your keyboard and a window manager.
 
-### "Dock & Menu Bar" Preference Pane
+### "Desktop & Dock" Preference Pane
 
-* The dock is for damn dirty mouse/trackpad users, not for you. I don't think it can be disabled entirely with stock software (please let me know if I'm wrong) but you can minimize how much it gets in the way.
+#### Dock section
+
+The dock is for damn dirty mouse/trackpad users, not for you. I don't think it can be disabled entirely with stock software (please let me know if I'm wrong) but you can minimize how much it gets in the way.
+
 * Size: minimum
 * Magnification: disable
 * Position on screen: Leave at default of "Bottom".
 * Double click a window's title bar to: Disable this. You should be using a window management program to minimize/maximize windows.
 * Automatically hide and show the Dock: Enable so that at least it's hidden most of the time.
+
+#### Desktop & Stage Manager section
+
+I don't need to know what Stage Manager is to know I don't care about it; it's proprietary and therefore you don't want to be habituated to it. As best as I can tell, here's the most you can do to disable things; leave everything else at the defaults.
+
+* "Show items on desktop": disable
+* "Stage Manager": Leave it turned off.
+* "Show recent apps in Stage Manager: disable
+
 
 ### "Mission Control" Preference Pane
 
