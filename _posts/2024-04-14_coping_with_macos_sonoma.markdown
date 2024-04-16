@@ -3,7 +3,7 @@ layout: post
 title: 'Coping with MacOS Sonoma for Web Development'
 tags: []
 type: post
-published: false
+published: true
 ---
 
 <!-- TODO fix line gap between nested bulleted lists -->
