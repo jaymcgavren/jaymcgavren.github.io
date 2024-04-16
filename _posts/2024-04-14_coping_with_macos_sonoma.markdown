@@ -61,7 +61,7 @@ You have a few good options that I know of:
 
 ## Fix System Settings
 
-Next, let's visit "System Preferences" to fix some terrible defaults.
+Next, let's visit "System Settings" to fix some terrible defaults.
 
 ### "Appearance" Preference Pane
 
@@ -111,7 +111,7 @@ I don't need to know what Stage Manager is to know I don't care about it; it's p
 
 * "Show items on desktop": disable
 * "Stage Manager": Leave it turned off.
-* "Show recent apps in Stage Manager: disable
+* "Show recent apps in Stage Manager": disable
 
 
 ### "Mission Control" Preference Pane
@@ -128,31 +128,27 @@ The directions [here](https://web.archive.org/save/https://www.amsys.co.uk/how-t
 
 ### "Keyboard" Preference Pane
 
-#### "Keyboard" page
-
 * Key Repeat rate: Max it out.
 * Delay Until Repeat: Minimize it.
-* Touch Bar shows: I've never used the Touch Bar and I refuse to start. Change it to show "F1, F2, etc." This also gets your Esc "key" back. The whole setup still sucks because there's no tactile key press, but at least now it won't randomly change functions on you.
-* If you're lucky enough to have a newer machine that got rid of the stupid Touch Bar and has function keys back again, you should see a "Use F1, F2, etc. keys as standard function keys" option. You want it enabled (which it should be by default).
-* Unless you enjoy SHOUTING when typing often, the Caps Lock key is worse than useless - it's a booby trap sitting in the middle of your keyboard. Click the "Modifier Keys..." button, and remap Caps Lock to Control.
+* "Keyboard navigation": allows you to avoid using the mouse to clear pop-ups. Enable it.
 
-#### "Text" page
+#### "Keyboard Shortcuts..." window
 
-* Uncheck everything here! Why on earth do they have it messing with your text as you type by default?!
-* Be sure to click the "-" button to remove any "Replace/With" text expansions, too.
+Click the "Keyboard Shortcuts..." button to open this.
 
-#### "Shortcuts" page
-
-* "Use keyboard navigation to move focus between controls": allows you to avoid using the mouse to clear pop-ups. Enable it.
-* "Launchpad & Dock" section:
-    * Turn Dock Hiding On/Off: disable
-* "Mission Control" section:
-    * Move left/right a space: disable these
-* "Keyboard" section:
-    * Change the way Tab moves focus: disable
-    * Move focus to the Dock: disable
-* "Accessibility" section:
-    * Invert colors: enable
+* "Launchpad & Dock": Disable all this proprietary crap.
+* "Display": Do what you want.
+* "Mission Control": Disable all this proprietary crap, especially since it frees up some useful Ctrl-plus-arrow keys to use with your window manager.
+* "Keyboard": Do what you want. Except for "Move focus to the next window" (Cmd-tilde), which changes windows within an app. This is absolutely essential and should be enabled.
+* "Input Sources": Unless you need to type in multiple languages, disable everything here. This will free up the highly-valuable Ctrl-Space keyboard shortcut to use with your window manager.
+* "Screenshots": These are too useful to change. Keep them and leave them at the defaults if you can; your programming pairs are going to expect them to work normally.
+* "Presenter Overlay": I neither know nor care what this does. Disable it all.
+* "Services": You need to learn other, less-proprietary ways to do everything in this menu. Disable it all.
+* "Spotlight": I strongly recommend replacing Spotlight with another, more versatile, command palette program. I used to recommend Alfred, but that has been superseded by [Raycast](https://www.raycast.com/) as far as I'm concerned. If you're going to use another program, disable the Cmd-Space shortcut here so you can use it with your other program.
+* "Accessibility": You know what you need in here and what you don't. You might consider enabling "Invert colors"; I find that useful on rare occasion.
+* "App Shortcuts": This is so important that it gets its own subsection below.
+* "Function Keys": Enable the "Use F1, F2, etc. keys as standard function keys" option. This will restore easy access to these highly useful keys. (Which some programs use by default, and can be set to useful shortcuts for other programs.) Don't worry, you can still use the keys to control volume, brightness, etc. by holding the Fn key.
+* "Modifier Keys": Unless you enjoy SHOUTING when typing often, the Caps Lock key is worse than useless - it's a booby trap sitting in the middle of your keyboard. Click "Select keyboard", go through each keyboard attached to your system (internal keyboard and any USB keyboards), and remap Caps Lock to Control.
 
 ##### "App Shortcuts" section
 
@@ -162,15 +158,28 @@ Click the `+` button to add or change keyboard shortcuts for menu items in vario
 
 Some suggestions for things to add are below.
 
-* All Applications: The "Show Help menu" shortcut is incredibly powerful, because the menu opens with the "Search" box focused. This gives you a Spotlight-like search of the menus in every application, and lets you activate even menu items that have no keyboard shortcut without using the mouse. (Give it a try; I promise you'll be hooked!) This shortcut is enabled by default; be sure to keep it that way!
+* All Applications:
+    * "Show Help menu": Leave it activated and at its default of `Cmd-Shift-/` (a.k.a. `Cmd-?`). Incredibly powerful, because the menu opens with the "Search" box focused. This gives you a Spotlight-like search of the menus in every application, and lets you activate even menu items that have no keyboard shortcut without using the mouse. (Give it a try; I promise you'll be hooked!)
+    * "Minimize": (almost?) all apps have this menu item, and it's bound to `Cmd-m` by default. It's worse than useless because it forces you to use the mouse to retrieve the window from the Dock, and `Cmd-m` is way too easy to hit accidentally. Add "Minimize" (it's not here by default) and remap it to something out-of-the-way like `Ctrl-Opt-Shift-Cmd-m`, because that's the closest you can get to disabling it altogether.
 * Google Chrome:
     * "Select Next Tab": `Cmd-2` (This will override the shortcut to select the second open tab.)
     * "Select Previous Tab": `Cmd-1` (This will override the shortcut to select the first open tab.)
     * "New Window": It's `Cmd-n` by default but remap it to something out-of-the-way like `Ctrl-Opt-Shift-Cmd-N`. Why? Because you want the `Cmd-n` binding for something more powerful...
-    * "Move Tab to New Window": `Cmd-n`. This will take whatever the current tab is and, well, move it to a new window. Type `Cmd-t`, `Cmd-n` and you have the same functionality as the old `Cmd-n`. It takes a little getting used to, but I find this setup far more versatile.
+    * "Move Tab to New Window": map this to the newly-available `Cmd-n`. This will take whatever the current tab is and, well, move it to a new window. Type `Cmd-t`, `Cmd-n` and you have the same functionality as the old `Cmd-n`. It takes a little getting used to, but I find this setup far more versatile.
+    * "Bookmark This Tab...": It's `Cmd-d` by default but remap it to something out-of-the-way like `Ctrl-Opt-Shift-Cmd-F6`. Why? Because you want the `Cmd-d` binding for something more powerful...
+    * "Duplicate Tab": map this to the newly-available `Cmd-d`. Why? Because duplicating the current tab lets you be at two places at once within a long page. Filling out a form but need to look at something else on the page? Just duplicate the tab, find what you need, and close the duplicate. You'll be back at the form you were filling out without losing your place!
+* iTerm:
+    * "Reset": Destructive and too easy to hit the default binding accidentally. Remap it to something out of the way, like "Ctrl-Opt-Cmd-F6".
+    * "Split Horizontally with Current Profile": You should be using a cross-platform solution like Tmux for functionality like this, and anyway it's too easy to hit the default binding accidentally. Remap it to something out of the way.
+    * "Split Vertically with Current Profile": Remap it to something out of the way.
 * Keynote:
     * "Previous Slide": `Cmd-Shift-[`
     * "Next Slide": `Cmd-Shift-]`
+
+#### "Text Input" section
+
+* "Input Sources": Click the "Edit..." button, select "All input sources", and then disable _all_ of this crap! Why on earth do they have it messing with your text as you type by default?!
+* "Text Replacements...": Delete every entry in this window too! (There's only one sample by default.)
 
 ### "Notifications" Preference Pane
 
@@ -197,12 +206,13 @@ Consider *removing*:
 * Steam
 
 Consider adding:
-    * Slate or other window manager
+
+* Slate or other window manager
 
 
 ## Set Up Apps
 
-Hopefully your boostrap script installed all the apps you need. If not, install them now.
+Hopefully your bootstrap script installed all the apps you need. If not, install them now.
 
 ### Log In to Services
 
@@ -210,8 +220,7 @@ Here are a few apps you're going to want to open and log into, if you have/use t
 
 ``` text
 cd /Applications
-# Some other apps depend on DropBox and Google Drive, so do these first!
-open 'Dropbox.app'
+# Some other apps depend on Google Drive, so do this first!
 open 'Google Drive.app'
 open '1Password.app'
 open 'Google Chrome.app'
@@ -239,7 +248,7 @@ Here are some other apps you're going to want to change specific settings in:
 * `open '/Applications/Google Chrome.app'`
     * [Reposition Chrome Developer Tools](https://stackoverflow.com/questions/10023640/how-to-reposition-chrome-developer-tools)
     * Window -> Extensions
-        * Find the extensions you want available in Incognito Mode and enable them. (Not that there will be many of them; I only enabled 1Password.)
+        * Find the extensions you want available in Incognito Mode and enable them. (Not that there will be many of them; I only enabled my password manager extension.)
 * Finder
     * Preferences
         * "General" page
@@ -265,6 +274,7 @@ Here are some other apps you're going to want to change specific settings in:
             * Date Created
             * Size
             * Kind
+	# Use relative dates: Disable.
         * Show Library Folder: This is only visible in the view options for your home directory. Enable it.
         * Use as Defaults: Click this once all options are set up the way you want, so they'll apply to other directories.
 * Screenshots are saved to `~/Desktop` by default. You may want to [fix that](https://www.macworld.co.uk/how-to/mac-software/change-where-mac-screenshots-saved-3682381/).
