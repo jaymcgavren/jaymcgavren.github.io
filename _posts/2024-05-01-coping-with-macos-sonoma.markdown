@@ -12,11 +12,11 @@ This is the latest in a series of posts on using MacOS for web development. This
 
 For pretty much every Mac I've ever owned, I've copied my configuration from machine to machine. But when one does so, a lot of unused cruft builds up over the years. So I've decided to wipe everything and start totally (well, okay, mostly) from scratch. This is a rare learning opportunity and so I'm documenting my setup here, for my reference and for yours.
 
+<!--more-->
+
 This post is intended to be a living document. I'll be updating it as I discover improved settings. Comments and suggestions are welcome!
 
 Be warned: I am an Apple skeptic. I don't like the direction recent MacOS versions have gone, and many of my settings represent an attempt to get back to "the good old days". If you're one of those fans who think Apple can do no wrong, and you want to make use of all the latest MacOS features, you may want to find another configuration guide. Now get off my lawn!
-
-<!--more-->
 
 ## Portable config with a dotfiles repo
 
