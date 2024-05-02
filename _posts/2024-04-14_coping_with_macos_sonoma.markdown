@@ -18,6 +18,21 @@ Be warned: I am an Apple skeptic. I don't like the direction recent MacOS versio
 
 <!--more-->
 
+## Portable config with a dotfiles repo
+
+You _can_ do a mass copy of your user's home directory from machine to machine, but that assumes you're not recovering from a hard drive crash or stolen laptop. Far better to create a version-controlled repo (I use Git) with the contents of the "dotfiles" (`.zshrc`, `.tmux.conf`, etc.) in your home directory. Here's my repo on GitHub:
+
+[https://github.com/jaymcgavren/dotfiles](https://github.com/jaymcgavren/dotfiles)
+
+To retrieve it I do something like this:
+
+``` shell
+cd ~
+git clone git@github.com:jaymcgavren/dotfiles.git
+```
+
+The repo includes a README with directions on how to link its contents so they're used as your system config.
+
 ## Developer Command Line Tools
 
 We need the XCode "command line tools" before we can do much of anything from the terminal. These will take a long time to download and install so it's best to get this going as soon as you can.
