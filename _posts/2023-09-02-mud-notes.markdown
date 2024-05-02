@@ -1,0 +1,311 @@
+---
+layout: post
+title: 'MUD Notes'
+tags: ['game design']
+type: post
+published: false
+---
+
+Life events are finally allowing me some time to work on the single-player text adventure game I've been wanting to do for so long. My long career in software development has taught me that spending a reasonable amount of time on design before a project can save months of headaches and rework later, and I intend to do that here.
+
+To avoid reinventing the wheel, it makes sense to look at MUDs (Multi-User Dungeons). My game will be neither a dungeon nor multi-user, but there's a lot of overlap. MUDs have "rooms", "exits", "mobs", and many other concepts that my game will need too.
+
+
+<!--more-->
+
+# CoffeeMUD
+
+I intend to start with [CoffeeMUD](http://www.coffeemud.org/). A venerable code base started in 2000. Written in Java. I would have fully agreed with its design back then. Now, I think it's too mired in class hierarchy, but I also think it represents a lot of MUD-maintainer experience that I intend to borrow the best ideas from.
+
+# .cmare Files
+
+On the CoffeeMUD wiki I learned of [.cmare files](http://coffeemud.net:8080/wiki/index.php/CMARE_Share(Admin)). Short for "CoffeeMUD Area", I assume. The MUD stores its actual world in its internal database, but .cmare files are used to export and import areas between MUD instances.
+
+I downloaded the first one I came across, and looked inside. (It took a couple Stack Overflow searches to figure out how to make it readable.) It's a big file, but here's the content up through the first "room".
+
+```
+jay@jay-JM3K77WJQH WolfMUD % xmllint /Users/jay/Downloads/Crosstreams_Sewers.cmare.txt --pretty 1
+<?xml version="1.0"?>
+<AREA>
+  <ACLAS>StdArea</ACLAS>
+  <ANAME>Crosstreams Sewers</ANAME>
+  <ADESC/>
+  <ACLIM>-1</ACLIM>
+  <ASUBS>Angadar;</ASUBS>
+  <ATECH>0</ATECH>
+  <ADATA>
+    <ARCHP/>
+    <PARENTS>
+      <PARENT>
+        <PARENTNAMED>City of Crosstreams</PARENTNAMED>
+      </PARENT>
+    </PARENTS>
+    <CHILDREN/>
+    <PREJFC/>
+    <IGNMSK/>
+    <BUDGET/>
+    <DEVALR/>
+    <INVRER>0</INVRER>
+    <CURRENCY/>
+    <IPRICS/>
+    <IMG/>
+    <BEHAVES>
+      <BHAVE>
+        <BCLASS>WeatherAffects</BCLASS>
+        <BPARMS/>
+      </BHAVE>
+    </BEHAVES>
+    <AFFECS/>
+    <AUTHOR>Chance (Orleron modifications)</AUTHOR>
+    <BLURBS/>
+    <AATMO>-1</AATMO>
+  </ADATA>
+  <AROOMS>
+    <AROOM>
+      <ROOMID>Crosstreams Sewers#7001</ROOMID>
+      <RAREA>Crosstreams Sewers</RAREA>
+      <RCLAS>StoneRoom</RCLAS>
+      <RDISP>The Muddy Sewer</RDISP>
+      <RDESC>The mud here is knee-high to a human. This is not the kind of place for a picnic. The muddy sewer stretches further into the south and west.</RDESC>
+      <!-- Following node was escaped XML as text content. -->
+      <!-- Cleaned it up with: -->
+      <!-- pbpaste | ruby -r rexml/document -e 'input = ARGF.read; document = REXML::Document.new(input); puts REXML::XPath.first(document, "/*").first.value' | ruby -e 'puts "<FOOBAR>#{ARGF.read}</FOOBAR>"' | xmllint --pretty 1 - -->
+      <RTEXT>
+        <RCLIM>0</RCLIM>
+        <RATMO>-1</RATMO>
+        <IMG/>
+        <BEHAVES/>
+        <AFFECS>
+          <AFF>
+            <ACLASS>Prop_RoomDark</ACLASS>
+            <ATEXT/>
+          </AFF>
+        </AFFECS>
+      </RTEXT>
+      <ROOMEXITS>
+        <REXIT>
+          <XDIRE>3</XDIRE>
+          <XDOOR>Crosstreams Sewers#7019</XDOOR>
+          <XEXIT>
+            <EXID>StdOpenDoorway</EXID>
+            <EXDAT/>
+          </XEXIT>
+        </REXIT>
+        <REXIT>
+          <XDIRE>1</XDIRE>
+          <XDOOR>Crosstreams Sewers#7002</XDOOR>
+          <XEXIT>
+            <EXID>OpenDescriptable</EXID>
+            <EXDAT>You see the muddy sewer continuing into the darkness to the south.</EXDAT>
+          </XEXIT>
+        </REXIT>
+      </ROOMEXITS>
+      <ROOMCONTENT>
+        <ROOMMOBS>
+          <RMOB>
+            <MCLAS>GenMob</MCLAS>
+            <MLEVL>6</MLEVL>
+            <MABLE>11</MABLE>
+            <MREJV>75</MREJV>
+            <!-- Following node was escaped XML as text content. -->
+            <MTEXT>
+              <NAME>the ugly wererat</NAME>
+              <DESC>The wererat is about four foot tall. It looks very much like rat, except that it is standing.</DESC>
+              <DISP>An ugly wererat is here, looking at you with a strange flick in his eyes.</DISP>
+              <PROP>11|82|6|6|0|6|75|1.0|126|71|256|</PROP>
+              <IMG/>
+              <BEHAVES/>
+              <AFFECS/>
+              <FLAG>0</FLAG>
+              <MONEY>2</MONEY>
+              <VARMONEY>0.0</VARMONEY>
+              <GENDER>N</GENDER>
+              <MRACE>WereRat</MRACE>
+              <FACTIONS>
+                <FCTN ID="INCLINATION.INI">0</FCTN>
+                <FCTN ID="MUDSCHOOL.INI">50</FCTN>
+                <FCTN ID="ALIGNMENT.INI">-10000</FCTN>
+              </FACTIONS>
+              <INVEN>
+                <ITEM>
+                  <ICLASS>GenLightSource</ICLASS>
+                  <IDATA>
+                    <NAME>a small stick</NAME>
+                    <DESC>It reads `Hold me`.The small stick does not look interesting at all.  But just as you are going to throw it away you notice some small letters.</DESC>
+                    <DISP>A small stick lies here.</DISP>
+                    <PROP>0|0|0|0|1048576|6|0|1.0|3|0|0|</PROP>
+                    <IMG/>
+                    <BEHAVES/>
+                    <AFFECS/>
+                    <FLAG>11</FLAG>
+                    <IDENT/>
+                    <VALUE>5</VALUE>
+                    <MTRAL>1328</MTRAL>
+                    <READ>2400</READ>
+                    <WORNL>false</WORNL>
+                    <WORNB>512</WORNB>
+                    <BURNOUT>true</BURNOUT>
+                    <IWORN>0</IWORN>
+                    <ILOC/>
+                    <IUSES>2147483647</IUSES>
+                    <ILEVL>6</ILEVL>
+                    <IABLE>0</IABLE>
+                  </IDATA>
+                </ITEM>
+                <ITEM>
+                  <ICLASS>GenWeapon</ICLASS>
+                  <IDATA>
+                    <NAME>a short sword</NAME>
+                    <DESC/>
+                    <DISP>There lies a short sword.</DISP>
+                    <PROP>0|0|2|5|0|1|0|1.0|4|0|0|</PROP>
+                    <IMG/>
+                    <BEHAVES/>
+                    <AFFECS/>
+                    <FLAG>11</FLAG>
+                    <IDENT/>
+                    <VALUE>540</VALUE>
+                    <MTRAL>811</MTRAL>
+                    <READ/>
+                    <WORNL>false</WORNL>
+                    <WORNB>1536</WORNB>
+                    <ACAPA>0</ACAPA>
+                    <TYPE>2</TYPE>
+                    <CLASS>8</CLASS>
+                    <MINR>0</MINR>
+                    <MAXR>0</MAXR>
+                    <IWORN>1024</IWORN>
+                    <ILOC/>
+                    <IUSES>100</IUSES>
+                    <ILEVL>1</ILEVL>
+                    <IABLE>0</IABLE>
+                  </IDATA>
+                </ITEM>
+              </INVEN>
+              <ABLTYS/>
+            </MTEXT>
+            <MRIDE/>
+          </RMOB>
+        </ROOMMOBS>
+        <ROOMITEMS>
+          <RITEM>
+            <ICLAS>GenWallpaper</ICLAS>
+            <ILOCA/>
+            <IREJV>2147483647</IREJV>
+            <IUSES>2147483647</IUSES>
+            <ILEVL>0</ILEVL>
+            <IABLE>0</IABLE>
+            <!-- Following node was escaped XML as text content. -->
+            <ITEXT>
+              <NAME>mud</NAME>
+              <DESC>It`s dark as tar and looks like something out of a toilet, on top of THAT the smell is absolutely OVERWHELMING.</DESC>
+              <FLAG>9</FLAG>
+              <READ/>
+            </ITEXT>
+          </RITEM>
+        </ROOMITEMS>
+      </ROOMCONTENT>
+    </AROOM>
+```
+
+## AREA
+
+As far as I can tell this is the highest-level world-building object in CoffeeMUD. An Area contains many Rooms, which are linked together using Exits.
+
+# Commands
+
+## Archon Commands
+
+Taken from [the docs](http://www.coffeemud.net/guides/ArchonGuide.html). I'm selecting some interesting, non-obvious ones that I think I might need to implement for the online prototypes of my own game (as creation tools).
+
+- `after`: Take an action at a particular time. Can be recurring.
+- `as`: Take an action as another player.
+- `ban`: Ban a player by user name or IP address range.
+- `beacon`: Set a player's spawn point.
+- `cloak`: Hide a player from player list commands.
+- `copy`: Duplicate an object.
+- `create`: Create an object.
+- `destroy`: Destroy an object and ensure it will not respawn.
+- `deviations`: Perform sanity checks on your world.
+- `dress`: Equip a mob.
+- `export`: Export a .cmare file. Specify whether you want to export areas, rooms, items, mobs, or even players.
+- `gmodify`: Find all rooms, mobs, or items matching your criteria.
+- `goto`: Teleport.
+- `import`: Import specified .cmare file.
+- `link`: Specify another room and a direction to create a link to it from the current room. [TODO: does this create an ordinary Exit?]
+- `list`: Show a list of areas, rooms, items, mobs, etc.
+- `order`: Order a player or mob to take an action. (Apparently, even if they can't normally do it.)
+- `possess`: Take control of a mob.
+- `purge`: Destroy an object, allowing it to respawn later if set to do so.
+- `reset`: Reset the specified area or room to its last saved state.
+- `save`: Save the state of the specified room for later resetting.
+- `snoop`: See everything the specified player sees.
+- `stat`: View statistics on the world, or a specified object.
+- `shutdown`: Save all users to disk and exit.
+- `take`: Take an object from a player or mob.
+- `ticktock`: Advance in-game time.
+- `trailto`: Describe the path from one room to another.
+- `transfer`: Teleport another player or mob.
+- `unlink`: Destroy a link (exit?) between rooms.
+- `where`: Locate rooms, mobs, items, or players.
+- `wizinv`: Become undetectable.
+
+# AardwolfMUD
+
+## Scripting
+
+Looks like AardwolfMUD can be [scripted using Lua](https://www.aardwolf.com/lua/lua-mud-integration.html).
+
+Example script:
+
+```
+if carries(ch,"legend-5") and carries(ch,"legend-6") and
+   carries(ch,"legend-7") and carries(ch,"legend-37") then
+   say("Congratulations! You found my apple trees!")
+   local newobj = oload("legend-48")
+   give(newobj,ch)
+   social("shakes",ch)
+   destroy(ch,"legend-37")
+   destroy(ch,"legend-5")
+   destroy(ch,"legend-7")
+   destroy(ch,"legend-6")
+   echo ("*poof*")
+   transfer(ch,"aylor-0",LP_SEEALL)
+   return
+end
+
+say ("Sorry, you haven't found all my apple trees yet...")
+say ("Or did you eat all the apples?")
+social("heh")
+transfer(ch,"legend-0",LP_SEEALL)
+```
+
+### Test functions
+
+- `affected`: True if effect applied. `if affected(ch, "flying") then say ("They're flying!")`
+- `canseechar`: True if character visible to mob. `if not(canseechar(self,ch)) then say ("Who said that?!")`
+- `carries`: Is character carrying item. `if carries(ch, "aylor-12") then say("Give me that!")`
+- `hasobj`: Like `carries` but checks inventory. `if hasobj(ch, "helm") then say("Nice hat.")`
+- `wears`: Like `carries` but only checks equipped items. `if wears(ch, "helm") then say("Take that hat off!")`
+- `config`: Does character have flag set. `if config(ch, "tutorial") then say("You can practice at a trainer.")`
+- `wearsobj`: Like `hasobj` but only checks equipped items.
+- `immune`: Is character immune to damage type. `if immune(ch, "poison") then say("You don't need antivenom.")`
+- `ally`: Is character mob's ally. `if not(ally(ch)) then kill(ch)`
+- `isplayer`: Is character a player. `if isplayer(ch) then say("Greetings.")`
+- `mobexists`: Does at least one mob with given key exist in game or specified room. `if mobexists("red-dragon", getroom("eyrie")) then say("She's arrived!")`, `if mobexists("imp-2", room) then say("Hi, imp!")`, `if mobexists("imp-2") then say("Calling my friends!")`
+- `objflag`: Does given object have given flag. `if objflag(obj, "hum") then say("Why's it humming?")`
+- `objingame`: Does at least one object with given key exist in game. `if objingame("mjolnir") then say("To me, hammer!")`
+- `plrflag`: Does player have flag set. `if plrflag(ch, "caesar-assassin") then say("Get this traitor!")`
+
+### MUD info functions
+
+- `getroom`: Get the room with the specified key. `if mobexists("red-dragon", getroom("eyrie")) then say("She's arrived!")`
+
+### Parameters
+
+Here's a list of parameters given to scripts:
+
+- `self`: The mob performing the behavior.
+- `ch`: The mob (or player) that triggered the behavior.
+- `room`: The room performing the behavior (if script is attached to a room). Why this doesn't just use "self", I don't know.
+- `mud`: The world. Used to access time of in-game day, season, number of active players, etc.
