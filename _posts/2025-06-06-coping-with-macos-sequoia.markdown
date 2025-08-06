@@ -325,7 +325,7 @@ Here are some other apps you're going to want to change specific settings in:
             * Date Created
             * Size
             * Kind
-	# Use relative dates: Disable.
+        * Use relative dates: Disable.
         * Show Library Folder: This is only visible in the view options for your home directory. Enable it.
         * Use as Defaults: Click this once all options are set up the way you want, so they'll apply to other directories.
 * Screenshots are saved to `~/Desktop` by default. You may want to [fix that](https://www.macworld.co.uk/how-to/mac-software/change-where-mac-screenshots-saved-3682381/).
