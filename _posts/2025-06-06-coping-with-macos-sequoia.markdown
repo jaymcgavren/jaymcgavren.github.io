@@ -8,7 +8,7 @@ published: true
 
 <!-- TODO fix line gap between nested bulleted lists -->
 
-This is the latest in a series of posts on using MacOS for web development. This fork of the original post is targeted at Sonoma (14.4).
+This is the latest in a series of posts on using MacOS for web development. This fork of the original post is targeted at Sequoia (15.5).
 
 For pretty much every Mac I've ever owned, I've copied my configuration from machine to machine. But when one does so, a lot of unused cruft builds up over the years. So I've decided to wipe everything and start totally (well, okay, mostly) from scratch. This is a rare learning opportunity and so I'm documenting my setup here, for my reference and for yours.
 
