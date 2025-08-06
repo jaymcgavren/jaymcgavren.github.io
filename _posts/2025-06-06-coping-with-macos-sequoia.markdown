@@ -148,16 +148,13 @@ More proprietary stuff you should avoid getting used to. Use your window manager
 
 I don't believe you can turn it off altogether, but you can disable everything in this section.
 
-* Under "Keyboard and Mouse Shortcuts", disable all shortcuts:
-    * Mission Control: select `-` from the dropdown.
-    * Application windows: select `-` from the dropdown.
-    * Show Desktop: leave at the default, blank. Or if that doesn't work, select `-`.
-
 #### "Shortcuts..." button at the bottom
 
 This displays the "Keyboard & Mouse Shortcuts" modal.
 
-For "Mission Control", "Application windows", and "Show Desktop", disable both the keyboard shortcut and mouse shortcut. (Scroll to the bottom and find the "-" in each dropdown to disable it. Mouse shortcuts should already be disabled by default.)
+For "Mission Control", "Application windows", and "Show Desktop", disable the keyboard shortcuts. (Scroll to the bottom and find the "-" in each dropdown to disable it.)
+
+If you're currently using a mouse, then mouse shortcuts will be displayed as well, but they should already be disabled by default.
 
 #### "Hot Corners..." button at the bottom
 
