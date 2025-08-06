@@ -190,8 +190,8 @@ Click the "Keyboard Shortcuts..." button to open this.
 * "Spotlight": I strongly recommend replacing Spotlight with another, more versatile, command palette program. I used to recommend Alfred, but that has been superseded by [Raycast](https://www.raycast.com/) as far as I'm concerned. If you're going to use another program, disable the Cmd-Space shortcut here so you can use it with your other program.
 * "Accessibility": You know what you need in here and what you don't. You might consider enabling "Invert colors"; I find that useful on rare occasion.
 * "App Shortcuts": This is so important that it gets its own subsection below.
-* "Function Keys": Enable the "Use F1, F2, etc. keys as standard function keys" option. This will restore easy access to these highly useful keys. (Which some programs use by default, and can be set to useful shortcuts for other programs.) Don't worry, you can still use the keys to control volume, brightness, etc. by holding the Fn key.
-* "Modifier Keys": Unless you enjoy SHOUTING when typing often, the Caps Lock key is worse than useless - it's a booby trap sitting in the middle of your keyboard. Click "Select keyboard", go through each keyboard attached to your system (internal keyboard and any USB keyboards), and remap Caps Lock to Control.
+* "Function Keys": Enable the "Use F1, F2, etc. keys as standard function keys" option. This will restore easy access to these highly useful keys. (Which some programs use by default, and can be set to useful shortcuts for other programs.) Don't worry, you can still use the keys to control volume, brightness, etc. by holding the Globe/Fn key.
+* "Modifier Keys": Unless you enjoy SHOUTING when typing often, the Caps Lock key is worse than useless - it's a booby trap sitting in the middle of your keyboard. Click "Select keyboard", go through each keyboard attached to your system (internal keyboard and any USB keyboards), and remap Caps Lock to Control for each.
 
 ##### "App Shortcuts" section
 
