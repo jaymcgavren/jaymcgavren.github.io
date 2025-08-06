@@ -27,7 +27,7 @@ Some suggestions for items to add/change are below, broken up by app.
 ## All Applications
 
 * "Show Help menu": Leave it activated and at its default of `Cmd-Shift-/` (a.k.a. `Cmd-?`). Incredibly powerful, because the menu opens with the "Search" box focused. This gives you a Spotlight-like search of the menus in every application, and lets you activate even menu items that have no keyboard shortcut without using the mouse. (Give it a try; I promise you'll be hooked!)
-* "Minimize": Seems like this is redundant with the entry in the "Windows" section?! Remap it to something out-of-the-way like `Ctrl-Opt-Shift-Cmd-m` so that it's effectively disabled.
+* "Minimize": Seems like this is redundant with the entry of the same name in the "Windows" sidebar section?! Remap it to something out-of-the-way like `Ctrl-Opt-Shift-Cmd-m` so that it's effectively disabled.
 
 ## Google Chrome
 
