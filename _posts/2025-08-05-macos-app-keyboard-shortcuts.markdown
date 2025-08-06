@@ -48,3 +48,5 @@ Some suggestions for items to add/change are below, broken up by app.
 
 * "Previous Slide": `Cmd-Shift-[`
 * "Next Slide": `Cmd-Shift-]`
+
+Once everything is customized to your liking, click the "Done" button at the bottom of the modal. Go try your new shortcut keys!
