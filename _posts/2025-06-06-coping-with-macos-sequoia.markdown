@@ -281,54 +281,72 @@ open Slack.app
 
 Here are some other apps you're going to want to change specific settings in:
 
-* `open /Applications/iTerm.app`
-    * Preferences
-        * "General" page
-            * "Applications in terminal may access clipboard": enable
-            * "Load preferences from a custom folder or URL": enable
-                * Click "Browse"
-                * Navigate to the folder in your dotfiles repo where you've saved your previous iTerm settings. No need to select the file itself, just the folder.
-                * What?! You didn't export your previous iTerm settings?! Then you are unfortunately going to have to configure iTerm manually. Suggested settings are below. When you're done, click the "Save Current Settings to Folder" button that you see here. I recommend committing the exported settings file to your dotfiles repo. (You _do_ have [one of those](https://github.com/jaymcgavren/dotfiles), right?)
-        * _Note: if you loaded a previous settings file successfully, then presumably the below settings are already the way you want them. You may not need to change anything further._
-        * "Profiles" page
-            * Select the profile you want to update, and change the settings below. Unfortunately you will have to repeat this for each profile you want to change.
-            * "Keys" subpage
-                * Left [option] Key: "Esc+"
-                * Right [option] Key: "Esc+"
-* `open '/Applications/Google Chrome.app'`
-    * [Reposition Chrome Developer Tools](https://stackoverflow.com/questions/10023640/how-to-reposition-chrome-developer-tools)
-    * Window -> Extensions
-        * Find the extensions you want available in Incognito Mode and enable them. (Not that there will be many of them; I only enabled my password manager extension.)
-* Finder
-    * Preferences
-        * "General" page
-            * New Finder windows show: If you don't like the default Recents search, set this to a directory of your choosing.
-            * Open folders in tabs instead of new windows: I hate tabs, I disabled this.
-        * "Sidebar" page
-            * Add entries you want, like your home directory.
-            * Remove entries you don't want, like tags or "iCloud Drive".
-        * "Advanced" page
-            * Show all filename extensions: enable
-            * Remove items from the Trash after 30 days: I used to do this manually and it didn't get done. Recommend enabling.
-            * When performing a search: Recommend "Search the Current Folder" over the default "Search This Mac".
-    * "File" menu, "New Finder Window". We need a window open to change the settings that follow.
-        * Navigate to your user's home directory. There's a special option that's only visible in that directory that we're going to want to set.
-    * "View" menu, "As list": enable
-    * "View" menu, "Show View Options"
-        * We're going to set options for the currently open view, but then we'll apply them globally to all windows.
-        * Always open in [selected view type] view: Ensure your preferred view type is active, then enable this.
-        * Browse in [selected view type] view: Enable.
-        * Group by: None
-        * Sort by: Name
-        * Show Columns: Recommend enabling these attributes and disabling all others:
-            * Date Modified
-            * Date Created
-            * Size
-            * Kind
-        * Use relative dates: Disable.
-        * Show Library Folder: This is only visible in the view options for your home directory. Enable it.
-        * Use as Defaults: Click this once all options are set up the way you want, so they'll apply to other directories.
-* Screenshots are saved to `~/Desktop` by default. You may want to [fix that](https://www.macworld.co.uk/how-to/mac-software/change-where-mac-screenshots-saved-3682381/).
+#### iTerm
+
+`open /Applications/iTerm.app` and open preferences.
+
+* "General" page
+    * "Applications in terminal may access clipboard": enable
+    * "Load preferences from a custom folder or URL": enable
+        * Click "Browse"
+        * Navigate to the folder in your dotfiles repo where you've saved your previous iTerm settings. No need to select the file itself, just the folder.
+        * What?! You didn't export your previous iTerm settings?! Then you are unfortunately going to have to configure iTerm manually. Suggested settings are below. When you're done, click the "Save Current Settings to Folder" button that you see here. I recommend committing the exported settings file to your dotfiles repo. (You _do_ have [one of those](https://github.com/jaymcgavren/dotfiles), right?)
+* _Note: if you loaded a previous settings file successfully, then presumably the below settings are already the way you want them. You may not need to change anything further._
+* "Profiles" page
+    * Select the profile you want to update, and change the settings below. Unfortunately you will have to repeat this for each profile you want to change.
+    * "Keys" subpage
+        * Left [option] Key: "Esc+"
+        * Right [option] Key: "Esc+"
+
+#### Google Chrome
+
+`open '/Applications/Google Chrome.app'`.
+
+* [Reposition Chrome Developer Tools](https://stackoverflow.com/questions/10023640/how-to-reposition-chrome-developer-tools)
+* Window -> Extensions
+    * Find the extensions you want available in Incognito Mode and enable them. (Not that there will be many of them; I only enabled my password manager extension.)
+
+#### Finder
+
+Open a Finder window.
+
+Choose "Settings..." from the menu.
+
+* "General" page
+    * New Finder windows show: If you don't like the default Recents search, set this to a directory of your choosing.
+    * Open folders in tabs instead of new windows: I hate tabs, I disabled this.
+* "Sidebar" page
+    * Add entries you want, like your home directory.
+    * Remove entries you don't want, like tags or "iCloud Drive".
+* "Advanced" page
+    * Show all filename extensions: enable
+    * Remove items from the Trash after 30 days: I used to do this manually and it didn't get done. Recommend enabling.
+    * When performing a search: Recommend "Search the Current Folder" over the default "Search This Mac".
+
+Now choose "File" menu, "New Finder Window". We need a window open to change the settings that follow.
+
+* Navigate to your user's home directory. There's a special option that's only visible in that directory that we're going to want to set.
+* "View" menu, "As list": enable
+* "View" menu, "Show View Options"
+    * We're going to set options for the currently open view, but then we'll apply them globally to all windows.
+    * Always open in [selected view type] view: Ensure your preferred view type is active, then enable this.
+    * Browse in [selected view type] view: Enable.
+    * Group by: None
+    * Sort by: Name
+    * Show Columns: Recommend enabling these attributes and disabling all others:
+        * Date Modified
+        * Date Created
+        * Size
+        * Kind
+    * Use relative dates: Disable.
+    * Show Library Folder: This is only visible in the view options for your home directory. Enable it.
+    * Use as Defaults: Click this once all options are set up the way you want, so they'll apply to other directories.
+
+#### Screenshots
+
+Screenshots are saved to `~/Desktop` by default. You may want to [fix that](https://www.macworld.co.uk/how-to/mac-software/change-where-mac-screenshots-saved-3682381/).
+
+## Final thoughts
 
 Hope you found this post helpful (and not _too_ surly)! I'm open to healthy debate about the merits of these settings. Who knows, you _might_ even change my mind about something. Leave a comment below!
 
