@@ -176,6 +176,12 @@ Click the "Keyboard Shortcuts..." button to open this.
 * "Launchpad & Dock": Disable all this proprietary crap.
 * "Display": Do what you want.
 * "Mission Control": Disable all this proprietary crap.
+* "Windows": I'd recommend disabling most of these, but a few seem to replace functions I used to rely on my window manager for:
+    * "General": Keep "Fill", which resizes a window to full screen, but remap to something that doesn't require the Globe/Fn key (which is too awkward to hit on most keyboards). I use `Ctrl-up-arrow`. Disable the rest, especially "Minimize". It's worse than useless because it forces you to use the mouse to retrieve the window from the Dock, and `Cmd-m` is way too easy to hit accidentally.
+    * "Halves": Keep "Tile Left Half" and "Tile Right Half", but remap them to something that doesn't rely on the Globe/Fn key. Disable the rest.
+    * "Quarters": Disable them all.
+    * "Arrange": Disable them all.
+    * "Full Screen Tile": Disable them all.
 * "Keyboard": Do what you want. Except for "Move focus to the next window" (Cmd-tilde), which changes windows within an app. This is absolutely essential and should be enabled. "Show contextual menu" (Ctrl-Return), which shows the right-click menu, seems useful as well.
 * "Input Sources": Unless you need to type in multiple languages, disable everything here. This will free up the highly-valuable Ctrl-Space keyboard shortcut to use with your window manager.
 * "Screenshots": These are too useful to change. Keep them and leave them at the defaults if you can; your programming pairs are going to expect them to work normally.
@@ -197,7 +203,7 @@ Some suggestions for things to add are below.
 
 * All Applications:
     * "Show Help menu": Leave it activated and at its default of `Cmd-Shift-/` (a.k.a. `Cmd-?`). Incredibly powerful, because the menu opens with the "Search" box focused. This gives you a Spotlight-like search of the menus in every application, and lets you activate even menu items that have no keyboard shortcut without using the mouse. (Give it a try; I promise you'll be hooked!)
-    * "Minimize": (almost?) all apps have this menu item, and it's bound to `Cmd-m` by default. It's worse than useless because it forces you to use the mouse to retrieve the window from the Dock, and `Cmd-m` is way too easy to hit accidentally. Add "Minimize" (it's not here by default) and remap it to something out-of-the-way like `Ctrl-Opt-Shift-Cmd-m`, because that's the closest you can get to disabling it altogether.
+    * "Minimize": Seems like this is redundant with the entry in the "Windows" section?! Remap it to something out-of-the-way like `Ctrl-Opt-Shift-Cmd-m` so that it's effectively disabled.
 * Google Chrome:
     * "Select Next Tab": `Cmd-2` (This will override the shortcut to select the second open tab.)
     * "Select Previous Tab": `Cmd-1` (This will override the shortcut to select the first open tab.)
