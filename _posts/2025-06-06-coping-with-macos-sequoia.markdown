@@ -166,7 +166,7 @@ Select "-" in each drop-down to disable that corner. (By default only one will b
 
 * Key Repeat rate: Set it all the way to "fast".
 * Delay Until Repeat: Set it all the way to "short".
-* Press "fn" key to: "Do Nothing".
+* Press [globe] key to: "Do Nothing".
 * "Keyboard navigation": allows you to avoid using the mouse to clear pop-ups. Enable it.
 
 #### "Keyboard Shortcuts..." window
