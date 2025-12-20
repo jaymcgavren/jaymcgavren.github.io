@@ -10,7 +10,7 @@ published: true
 
 This is the latest in a series of posts on using MacOS for web development. This fork of the original post is targeted at Sequoia (15.5).
 
-For pretty much every Mac I've ever owned, I've copied my configuration from machine to machine. But when one does so, a lot of unused cruft builds up over the years. So I've decided to wipe everything and start totally (well, okay, mostly) from scratch. This is a rare learning opportunity and so I'm documenting my setup here, for my reference and for yours.
+My Mac setup is heavily customized, and I have lots of muscle memory built up around it. I am absolutely crippled on a new machine until I've reproduced that setup. So this is a guide to myself to doing so more quickly. Maybe it will benefit you too!
 
 <!--more-->
 
