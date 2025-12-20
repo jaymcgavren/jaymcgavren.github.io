@@ -18,6 +18,14 @@ This post is intended to be a living document. I'll be updating it as I discover
 
 Be warned: I am an Apple skeptic. I don't like the direction recent MacOS versions have gone, and many of my settings represent an attempt to get back to "the good old days". If you're one of those fans who think Apple can do no wrong, and you want to make use of all the latest MacOS features, you may want to find another configuration guide. Now get off my lawn!
 
+## Setting up for setup
+
+My muscle memory is broken without these items, so let's set them up first. We'll repeat (and explain) some of these items later.
+
+* System Settings -> Keyboard -> Keyboard Shortcuts -> Modifier Keys. Select all your keyboards, one by one, and remap "Caps Lock" to "Control".
+* System Settings -> Privacy & Security -> Accessibility. Allow all the apps (that you recognize) that are awaiting permission to control your computer. (Such as Raycast, Slate, and Google Drive.)
+
+
 ## Portable config with a dotfiles repo
 
 You _can_ do a mass copy of your user's home directory from machine to machine, but that assumes you're not recovering from a hard drive crash or stolen laptop. Far better to create a version-controlled repo (I use Git) with the contents of the "dotfiles" (`.zshrc`, `.tmux.conf`, etc.) in your home directory. Here's my repo on GitHub:
