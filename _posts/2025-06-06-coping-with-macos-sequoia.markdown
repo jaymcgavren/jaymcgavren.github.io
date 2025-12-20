@@ -23,8 +23,8 @@ Be warned: I am an Apple skeptic. I don't like the direction recent MacOS versio
 My muscle memory is broken without these items, so let's set them up first. We'll repeat (and explain) some of these items later.
 
 * System Settings -> Keyboard -> Keyboard Shortcuts -> Modifier Keys. Select all your keyboards, one by one, and remap "Caps Lock" to "Control".
-* System Settings -> Privacy & Security -> Accessibility. Allow all the apps (that you recognize) that are awaiting permission to control your computer. (Such as Raycast, Slate, and Google Drive.)
-
+* System Settings -> Privacy & Security -> Accessibility. Allow any apps (that you recognize) that are awaiting permission to control your computer. (Such as Raycast, Slate, and Google Drive. This will only be applicable at this point if you copied configuration from another machine.)
+* Run and log into your password manager application.
 
 ## Portable config with a dotfiles repo
 
