@@ -61,7 +61,7 @@ At this point I had the `plan` [permission mode](https://code.claude.com/docs/en
 
 `plan` makes Claude spell out everything it's going to do, without doing anything. Switch to `default` when you're ready to start changing files and taking other actions, but you'll be asked prior to each. Switch to `acceptEdits` if you trust that Claude understands the task, and it will edit files without asking you first.
 
-Because I'm in `plan` mode, it will spell out its plan for me:
+Because I'm in `plan` mode, it will spell out its plan for me before taking any action:
 
 ``` text
 Here is Claude's plan:
