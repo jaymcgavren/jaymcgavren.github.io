@@ -126,7 +126,7 @@ Here is where Claude starts to handle things on my behalf. I didn't even bother 
  excludesfile = ~/.gitexcludes
 ```
 
-Looks like it scanned the contents of my files and found some hard-coded paths that will break once everything is managed by Chezmoi. It's going to fix them for me!
+Looks like it scanned the contents of my files and found some hard-coded paths that will break once files are moved to the places conventional under Chezmoi. It's going to fix them for me!
 
 [Skipping a few irrelevant steps...]
 
