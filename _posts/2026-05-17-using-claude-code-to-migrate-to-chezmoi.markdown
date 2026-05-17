@@ -12,6 +12,8 @@ This will be a heavily edited, possibly somewhat pseudo-coded log of my shell se
 
 <!--more-->
 
+## Getting started
+
 ``` text
 % cd ~/dotfiles
 ```
@@ -48,6 +50,8 @@ Let's give Claude the task. Because it's already a fairly consistently-structure
 
 ⏺ Now I have a comprehensive picture of the current setup. Let me write the plan.
 ```
+
+## Plan mode
 
 At this point I had the `plan` [permission mode](https://code.claude.com/docs/en/permission-modes) on. The default set of permission modes are, in order of increasing "risk":
 
@@ -147,6 +151,8 @@ Claude is great at managing Git commits for you. It has to be; using Claude Code
 
 Notice that Claude already has a plan for a commit message it will use.
 
+## Letting Claude edit files
+
 I put Claude Code into `acceptEdits` mode, and it starts working.
 
 ``` text
@@ -224,7 +230,9 @@ Next Claude edits the files to fix the broken hardcoded paths:
       10
 ```
 
-And we're at our first sensible point for a Git commit, so Claude writes a message for me.
+## Letting Claude commit to Git for you
+
+We're at our first sensible point for a Git commit, so Claude writes a message for me.
 
 ``` text
 ⏺ Now here's the proposed commit message for this group:
@@ -260,6 +268,8 @@ Claude tends to waste words, which I don't want it to. And I don't waste any wor
 I approve its `git commit` command with the shorter description, and the changes are committed! (I never choose "don't ask again" for `git commit` commands, as I want to be asked every time.)
 
 [Additional edits and commits omitted for brevity...]
+
+## Letting Claude run commands for you
 
 Claude proceeds to initialize Chezmoi and point it at my local dotfiles repo for me:
 
