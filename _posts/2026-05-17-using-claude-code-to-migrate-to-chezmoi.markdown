@@ -6,7 +6,7 @@ type: post
 published: true
 ---
 
-[Chezmoi](https://www.chezmoi.io/) is a tool for dotfile management. But this post is about the excellent LLM coding assistant [Claude Code](https://code.claude.com/docs/en/overview), not Chezmoi. Migrating to Chezmoi just offers a relatively simple task that lets me show a Claude Code workflow in action.
+[Chezmoi](https://www.chezmoi.io/) is a tool for dotfile management. But this post is about the excellent AI coding assistant [Claude Code](https://code.claude.com/docs/en/overview), not Chezmoi. Migrating to Chezmoi just offers a relatively simple task that lets me show a Claude Code workflow in action.
 
 This will be a heavily edited, possibly somewhat pseudo-coded log of my shell session with Claude Code.
 
