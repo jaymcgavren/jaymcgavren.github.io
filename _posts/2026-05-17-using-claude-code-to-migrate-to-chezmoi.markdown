@@ -322,7 +322,7 @@ Everything works as I expect!
 
 ## Letting Claude push to GitHub
 
-Of course, these changes will all be lost the moment these files get modified. I need to get this `chezmoi` feature branch pushed to the main repo on GitHub and merged with the `main` branch.
+Work that isn't backed up safely in the cloud might as well not exist. I need to get this `chezmoi` feature branch pushed to the main repo on GitHub and merged with the `main` branch.
 
 But Claude can handle it all for me! I kick it all off with a single, tersely-worded query:
 
