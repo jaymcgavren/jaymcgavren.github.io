@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Migrating to Chezmoi using Claude Code'
+title: 'Using Claude Code to Migrate to Chezmoi'
 tags: []
 type: post
 published: true
