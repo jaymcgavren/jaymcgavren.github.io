@@ -339,7 +339,7 @@ This tells Claude to:
 I don't specify how, but Claude has already done all this for thousands of other developers and "knows" the steps to do so on most common setups:
 
 - Pushing the branch is easy using the same `git` tool it's been using all along.
-- If the `gh` tool is installed (and it is on my system), Claude can use that to create the pull request.
+- If the `gh` command line tool is installed (and it is on my system), Claude can use that to create the pull request.
 - Since I'm on Mac, the built-in `open` tool can open the PR URL returned by `gh` in my default web browser.
 
 It tries to combine the push and PR creation into a single command:
