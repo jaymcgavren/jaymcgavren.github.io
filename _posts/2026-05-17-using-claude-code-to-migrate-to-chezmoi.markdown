@@ -128,7 +128,7 @@ Here is where Claude starts to handle things on my behalf. I didn't even bother 
 
 Looks like it scanned the contents of my files and found some hard-coded paths that will break once files are moved to the places conventional under Chezmoi. It's going to fix them for me!
 
-[Skipping a few irrelevant steps...]
+[Claude's plan included several steps that were more of the same; moving files around and editing files that refer to those paths. I'll skip those steps in the interest of brevity.]
 
 ``` text
  Step 5 — Apply chezmoi
