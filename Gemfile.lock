@@ -163,11 +163,11 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  base64
-  csv
+  base64 (~> 0.3.0)
+  csv (~> 3.3.5)
   jekyll (~> 4.3.3)
   jekyll-paginate (~> 1.1.0)
-  logger
+  logger (~> 1.7.0)
 
 BUNDLED WITH
    2.5.3
