@@ -41,7 +41,7 @@ make --version
 That's the full stack. Once those are in place, I can write a simple NES ROM (a classic "hello world" equivalent — e.g., a screen with a colored background and a sprite) along with a Makefile to assemble and link it into a .nes file you can open directly in Mesen2.
 ```
 
-Sure _sounds_ easy! I opened a separate shell and installed cc65 following Claude's directions:
+3 programs needed, one of them a plain old emulator application. Sure _sounds_ easy! I opened a separate shell and installed cc65 following Claude's directions:
 
 ```
 $ brew install cc65
