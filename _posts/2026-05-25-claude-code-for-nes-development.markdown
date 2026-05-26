@@ -10,7 +10,7 @@ Claude Code is converting all our jobs into a boring code review trudge. But we 
 
 I've long wanted to try writing homebrew, but have never had the time. I don't know assembly language, and the low-level style of programming required can be a pain. But it turns out LLMs have all but eliminated the barriers to entry. In this post I'll walk through how I used Claude Code to generate my first Nintendo Entertainment System ROM!
 
-![A NES emulator window showing a running ROM. It's a solid blue screen with the text "HELLO NES" at the center.](/assets/images/2026-05-22-claude-code-for-nes-development/hello_nes.png){: width="250" }
+![A NES emulator window showing a running ROM. It's a solid blue screen with the text "HELLO NES" at the center.](/assets/images/2026-05-25-claude-code-for-nes-development/hello_nes.png){: width="250" }
 
 <!--more-->
 
@@ -384,7 +384,7 @@ With the files created, Claude didn't stop; it charged right ahead to build the 
 
 Claude announced "That built cleanly." And there in my working folder was a shiny new `hello.nes` ROM. I opened it in the Mesen emulator as directed. And saw my "HELLO NES" greeting!
 
-![A NES emulator window showing a running ROM. It's a solid blue screen with the text "HELLO NES" at the center.](/assets/images/2026-05-22-claude-code-for-nes-development/hello_nes.png){: width="250" }
+![A NES emulator window showing a running ROM. It's a solid blue screen with the text "HELLO NES" at the center.](/assets/images/2026-05-25-claude-code-for-nes-development/hello_nes.png){: width="250" }
 
 I don't have a means to test it on an actual NES console at the moment, but presumably it could be loaded onto a flash cart and run on original hardware. Meanwhile, it should work on almost any NES emulator out there.
 
