@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Target Test App Privacy Policy
 tags: []
 status: publish
