@@ -1,5 +1,6 @@
 remote_theme: pages-themes/hacker@v0.2.0
 title: "Jay McGavren's Journal"
+google_analytics: UA-42302104-1
 include:     ['.htaccess']
 exclude:     []
 timezone: "America/Phoenix"
