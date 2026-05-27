@@ -2,6 +2,34 @@
 layout: default
 ---
 
+<style>
+.main {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+.main > article.posts {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.main > aside {
+  flex: 0 0 250px;
+}
+.main > aside .image img {
+  max-width: 100%;
+  height: auto;
+}
+@media (max-width: 768px) {
+  .main {
+    flex-direction: column;
+  }
+  .main > aside {
+    flex: 1 1 auto;
+    width: 100%;
+  }
+}
+</style>
+
         <div class="main-container">
             <div class="main wrapper clearfix">
 
